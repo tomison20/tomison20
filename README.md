@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tomison
+- 👋 Hi, I’m Tom
 - 👀 I’m interested in coding, web dev, designing
 - 🌱 I’m currently learning computer science 
 - 💞️ I’m looking to collaborate 
