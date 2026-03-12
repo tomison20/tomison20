@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Couchpotato27
+- 👋 Hi, I’m @tomison
 - 👀 I’m interested in coding, web dev, designing
 - 🌱 I’m currently learning computer science 
 - 💞️ I’m looking to collaborate 
