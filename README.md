@@ -6,8 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tom-ison-1ba00b2a3)&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_tom.ison_)&nbsp;
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-1156-7621)&nbsp;
-[![Profile Views](https://komainu8.github.io/profile-views-counter/github/tomison20/count.svg)](https://github.com/tomison20)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-1156-7621)
 
 <br/>
 
@@ -120,6 +119,12 @@
 ---
 
 <div align="center">
+
+### GitHub Metrics
+
+![Metrics](https://raw.githubusercontent.com/tomison20/tomison20/main/metrics.svg)
+
+---
 
 **Open to collaborating on web projects, hackathons, and anything that ships.**
 
