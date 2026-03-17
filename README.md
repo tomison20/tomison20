@@ -39,13 +39,24 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-</div>
+<br/><br/>
 
 ---
 
-<div align="center">
+### Stats
 
-![Metrics](https://raw.githubusercontent.com/tomison20/tomison20/main/metrics.svg)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tomison20&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6ee7b7&icon_color=34d399&text_color=9ca3af" />&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomison20&layout=compact&hide_border=true&bg_color=0d1117&title_color=6ee7b7&text_color=9ca3af&langs_count=6" />
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=tomison20&hide_border=true&background=0d1117&ring=1a4731&fire=34d399&currStreakLabel=6ee7b7&sideLabels=9ca3af&sideNums=d1fae5&dates=4b5563&currStreakNum=d1fae5)](https://git.io/streak-stats)
+
+<br/>
+
+### Activity
+
+[![Tom's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tomison20&bg_color=0d1117&color=6ee7b7&line=34d399&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
