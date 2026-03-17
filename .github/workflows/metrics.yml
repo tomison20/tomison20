@@ -21,6 +21,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
+          use_prebuilt_image: no
 
           # Languages
           plugin_languages: yes
