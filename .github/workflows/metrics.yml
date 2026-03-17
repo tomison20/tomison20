@@ -21,7 +21,6 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
-          config_skin: dark
 
           # Most used languages
           plugin_languages: yes
