@@ -22,13 +22,13 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
 
-          # Most used languages
+          # Languages
           plugin_languages: yes
           plugin_languages_limit: 6
           plugin_languages_details: percentage
           plugin_languages_ignored: html, css, dockerfile, shell
 
-          # Mastered technologies / topics
+          # Mastered technologies / topic icons
           plugin_topics: yes
           plugin_topics_limit: 24
           plugin_topics_mode: mastered
@@ -37,9 +37,16 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          # Stars & repo stats
-          plugin_stars: yes
-          plugin_stars_limit: 3
+          # Commit activity charts
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_trim: yes
+
+          # Lines of code added/removed
+          plugin_lines: yes
 
           filename: metrics.svg
           committer_token: ${{ secrets.GITHUB_TOKEN }}
