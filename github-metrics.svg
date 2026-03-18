@@ -151,33 +151,35 @@ h2.field:has(svg[data-name="topics"]) .field-name::after {
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAIDAQEAAAAAAAAAAAAAAAQFAwYHAgj/xAAtEAACAQMDAgUBCQAAAAAAAAABAgMABBEFEiEGEwcxQVFhkRQVFyQyYnGBsf/EABkBAAIDAQAAAAAAAAAAAAAAAAIDAAEEBf/EACMRAAICAQMDBQAAAAAAAAAAAAABAhEDBAUSEyFxFCIxUdH/2gAMAwEAAhEDEQA/APmylKz29rcXO77PC8m3z2jOKlhKLfwYKVL+7rzB/KzcftrFPaz24XvwvGG/TuXGaq0Xwl9GWO5tl0+SB7FHuGbK3PcYMo442g4P9j1pUSlWCdh6X8HF1HQ9P1m86mtNOjuVR4Y5rcne5AYJnd7euK06+1OWzupoysFwQ/BAKjAPl8/zXX+l/Ebo38O49J1m9RL+2sVS2V7aRwk6xEA5AxnJ884rgclzbiDMbN3WJLDFJy4Y5H7kP2/ctVpovpurNl6flk1aGZR22vF3kR9s8oFyeQfPj2quttWeFRHDaxYiG1csRxxn/K9dIdQLpbXEEswgguI2R5VTc2DjcPoMVU6lcRGJhasp7zliMHKLngZNI9NDk1XY6S3rVpJ8+/hfhBKhy7ZOTk4pVlpmoafa6LqcFxpve1OfYLa77pAgXneNg4JII5Pl7etK2JHFlJydsqKlWMMEjbri4iiQHBVi2W+RhSKUqMKMqdls0WjvtQzQJGq7Q4aTexySSx24PHHAFVV9DBE+62uY5Y2PCjduUfOVA+lKUKjTH5MznFJpLwiJSlKMzn//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcCA//EACwQAAEDAwMDBAEEAwAAAAAAAAECAwQABREGEiETMVEUIkGBIzJCYaFxkcH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQFAf/EACARAAIDAAEFAQEAAAAAAAAAAAECAAMRIQQSMUFxIjL/2gAMAwEAAhEDEQA/AM1tFlvF/v8AMZiyo8GFHYaUlS46CFEoSMDjk55PPHeniJWmrRe1265y5UgsPdFx9yMluPvPcKUkZ7c+AaR2i7yUalftyrtIhQnEtKUjqJ27g0kD2qH8+R91H1lOcMc2ibAQeo4HjLGEqeR+xR48HHP1WYDyFI9TYFJZWcHOZpDjOl/VBiRMYQ0G0ncwpJO7ccgn6pW3bdMXOY9Btl6fE5Cfan8ZSojxlHu+jxSRVktY0NBuqnUNpD6m33lKKjgkBOE8DjB5B+ea8rpIRpLbarOyuY3OZEhmQ4zsVyThSFbfcDj5HgZxS1LHjI+7p60IKv8AYvm2i8We6Q1yJCJltmtOlKgwE7SG1EpV7eCOPmio0SXqGZdnIt4febRDDpVGcARklChwBjP9gUUN47SA2bkTUQQc2c3pLLslUZtDQeUhsKUSUqz00Hv47VGflx5UeHB9P1/yNoW6HXCogoAIO4qG1J8Y5HGAaiX5luTrYsSFOtslps5Qdpz0U8im2lrXbZcpEg6pjWlyC6hwtSGVOFaknIKQkYPbsasrrHaIh7nU6fk0NVujNaSTZ5a2Y4W+llpt7CCQVFSlgEZxjHOP8Gsolvl914SHn/SMdRlpKnlrSNqSE7cY4UQAM9vnitNvMiDJttsuzzyHELmvP9QowpWXVkjJ+KyS4xWorq23Lkh9x1Zy0jPtB5Hfj+64g/XMazM66ss9gQ2kxo6yHnkMOuAhROAUK45zkA/VFJdOtdHWyI7S3HGGmHQkq5OOko/9oqW+sBvMJbXYYfXEtWqLIiZ6SfBmQDJ9O2SFSEA56YBBye/aksPTqnHNrwtzTfZazKTvUfk5CsUUUFNrDV3xK+pKuFYqNyW6ZaYcnSVusqJUNKY7zi1Oqmt7lBSsgfqzwc/7qpTdNlp0hoWx1AThC0SkBaT8EkqwaKKcbWHuThUY/wAgSw6bscaCiVMm3G2er6a8BMlGSNihgc+AKKKKmGvyTGdXae4KAAAJ/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Popular (feat. Playboi Carti) [Music from the HBO Original Series The Idol]
+                                    <div class="name">Runnin
 Explicit content</div>
-                                    <div class="artist">The Weeknd &amp; Madonna</div>
+                                    <div class="artist">21 Savage &amp; Metro Boomin</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAMEBQYHAv/EAC0QAAIBAwMDAgUEAwAAAAAAAAECAwAEEQUSIQYiMUFRBxMUYXEVMpHRFkJy/8QAGQEAAgMBAAAAAAAAAAAAAAAAAwQAAgUB/8QAIBEAAgICAgIDAAAAAAAAAAAAAQIAEQMhEjFBcQQTMv/aAAwDAQACEQMRAD8A41bX/SaW0Bm/VHnVRuT6aILuxg85yR55PjjirKzl6TlnFy51O3ZSWULBCc+3rxj39zxXPh+0bWIPnOKdYyuD5wP25yeD7nHJrUXEpYAw2HKA/VzoF/qXSUllcGJtR/UMsYi1tEdzc7QxznHjPPNV8Gp9MSWEa36XouWXEht7WIDOSe07v+R/Pjis/dvGSZFcszJ3swByf6qvRc79owAPb+6YyYBjPFTJ8ly7+5sU1DpVtPnYW+oPqDwsFV4Y9gfHBBBzj80VmNlvMrFQybcbt7ZZ/wAccUVzHgcrrcUq+5W9uCqu27PPoPvzTQ6tbLGB37uSOKc8KbFUALuyAcZwPOajJiJ8qQxT19xVAhNXqH5Bfzu40rJMUkJMgB27WOcH71JgjEcoWUna47j6YrwoLWrNjvLZAAxtHrTJGCOR2ufIJ8Z4phaFte5biEdWMGSIyyFVbavIA9vSipVxEWsjOq7EDKhI++Tz/FFHXJwsAQuTGMdX53Ndo3QOiaroNpqV515pNlcTRNI9pKFzEcuNp7857QfHhq83fw/6fs9SSAddaU0D288vzyFYK8ZUKpCOxAffuB84B4yKKKxPtc7uJqa6ltbfDjQ1lf5nXuiM6zsrGKRW2wgNiQAPzllA2+cMDz4pF38O+mIrJrr/AD3Tp9jptjjiTeyvs/0MgORv5BxjYfxRRRhkbiBcOxtVMbd9C6JHoWoywdfWDSW7yj6aSJEknaMuoKj5h7WK5XGchgcUUUUUWfMjtZpt+5//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBwQD/8QALRAAAgEEAQMCBAYDAAAAAAAAAQIDAAQFESEGEjEUQSJRcYEHExUjUpEyobH/xAAZAQEBAAMBAAAAAAAAAAAAAAAEAwIFBgf/xAAkEQACAQMDAwUAAAAAAAAAAAAAAQIDESEEEjEFIlETIzJBYf/aAAwDAQACEQMRAD8Ad4HEqLcdgIAH9Uoz9v63Mw40aESL3sdckmq/ByBLcLscipTqDIC36lklt7cXCogVtDWmGydH3rz/AEs25tnQVP0U53pr0EAljdiD7GtB6Aea8wNul6C5RCFk3yV3obqFzvUK3VmiSWMqNz8wB9/eu38NupDa5CayuGka2mTabOwjA/8ADT6kZzpd3KD2V8F3msdGiBl1r24orrv7iKa0YIQ3dRWqcmuCyXkynE9UvcRGKBRHvhXc7/0Kb2XpII0kuCzTM3Pk8HzWZ4W3lSYIFcupJ8VR3180NsJySEiPa31806dCKlth9lr3V2Psn+XeTTIoD26NqMv8z5P2196ncVffoGVW4kT1CcqwXjj56rlw1/PevMIkeSRzsBRvivabp3NyOXCoiH4tO3j+qTGKh2TeCTzlF7B1Rj8h+3YTqZf4Hgg/Q0Vil5Mwu2DExzI5BI419KKxfTU8pmPqpcovcLdCViDEez+dPL20sb2yCShZE/yYA0UUOa2yuhXKyMelMbbw2XbZ2ywLsgDXPn3Pk04mtwkLd2tiiip1JPddkl4MP68tUhzEvaV7j8Z7R7UUUV0WnftoHU+TP//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Push the Feeling (feat. Big Narstie)</div>
-                                    <div class="artist">Nightcrawlers &amp; John Reid</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAQEAAwEAAAAAAAAAAAAACAAGAgMFB//EADIQAAEDAwIDBQcEAwAAAAAAAAECAwQABRESIQYxQQcIExRRMmFxdIGRwhciQqFkscH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQAAf/EACURAAIBAwMCBwAAAAAAAAAAAAABAgMEETEzwRJxEyEiIzJBYv/aAAwDAQACEQMRAD8ASHgAdK8CzcUwLlxVNsLLbyZUVKjqWnAXoUErx7gSnfr9K0d2ceYtsp6KkKfbbUtCSPaIGcUSuJuJZ8y5S7mxLei3eS8rJivKaSWcDQAAeWwPvI33qerV8NpF9paO5bSYunWh4DuR/E/6oATrXBL10Rc2nzOcQjySm1gNoXvqDoO42HQc9jTe7PL05xBwFb58iQ3IkrYKH1oGAVgYO3r1oRcR3tuRc3C46lp0pSl9SidQIHtIwd8joeSt+RrsnnDQHQ405Rf01yKru8RVt9mzCXE4V5l38aq9Du/y/PdnqHsFKDKcShJOSlICQB8cf3VXYL0rIFy/dlk3E+VIbgyHITIelJbUpptSsBasbDPxog3qyXefer3dY8UOtMugvMNZS4krJJCWhuADnPpS/B299Zi88Mok3ONPQpKJaT4YW2jSVAgj9x6gc96XWg5eaG2dy7d5WpkO70mdbuFLvHmKSWBJJYQOaQUAq/sj7UOuKG9V3fWByIBH0501ey9nysCe3JeSHnnXfDbWrClpQAkqSDuRnqKFPEqlpvr+gkDbOPTFai3hZDry6ozl+lyNLu3u6OzFgf5Tv41V193PH6aMfNO/jVTYaIRdb0u59ISrlXPXVVRE5j7RwqLbept6mShPujzKmRIW3o8JrOQ2hIOlI9SBk9aC/E6ii+yNPM6ftiqqgXyKVsS7rkZXd5Ons3Y+Zd/5VVVWjogbvekf/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">24K Magic</div>
-                                    <div class="artist">Bruno Mars</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAIDAQEAAAAAAAAAAAAAAAQGAgMFBwH/xAAwEAABBAEBBgMGBwAAAAAAAAABAgMEEQAFBhITITFBB1FhIiMyQnGhFBUWUoHB8P/EABsBAAICAwEAAAAAAAAAAAAAAAQFAgMAAQYH/8QAIxEAAQQCAQMFAAAAAAAAAAAAAQACAxEEEiEGMUEFUWGx0f/aAAwDAQACEQMRAD8AqtZsbbK/mQgfuWoAffMSkpNKBB9cVnsJuuEEG0eQvhFEjkcZLgQjMfSjjMMJUQniPrCEAnoLONV09/TJ70OWEh1si902CCLBB7gg3lTciN0hiDhsPChsL1HdZRVQfy2UmQhX4zlwVC/5vtjIWMtaNSee62pk15lxxsN9Qnv3y0+H+x36mdedeWpqIzyO71WfQ9s8r01UhqWw+p0OtoCFICxR5DpzztbC+KGoQdddbYYZOnmQUtsqu0p6dQR1Pc3V5xk3UTpozHCNT4KJz5pHgycWfZafFHZ2XFn6cvTFOy4Dkh6KEkAEOIWRflzCbv0yZozEyXo8iS7Hfabg7qFl9Vnd80k/EATXpYzq7UzFxNn1z9mdQjzdFUkNSI77vEMV5VJ4jRJ3hzVdHl/WzazUmNJ8GNVRAlJWqWpmOFHre9Sq9d1N36nFuN6q7GlMjjbj9JHBllzmgjkmv21TtC2hiaw4tplK23U3QV8w8xjPLIklyG6HWVqQsEfCa+4xjLG6oc1lTMs/CfGILpRdek8OO1JcLkdHsqBAJ3fr55yIzpZ4j1WpChX++uMZy0XdY8Ws9Nkqc1GOl/eUyVpDiRftJsEg1zrLQ7tZLblzURER0pWlTPvGkr3GbPukA+ylPmQLJ74xk2EudyqpIm7A0qqncXYUQhXQcuWMYwdEr//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">love nwantiti (ah ah ah)
+                                    <div class="name">Mask Off
 Explicit content</div>
-                                    <div class="artist">CKay</div>
+                                    <div class="artist">Future</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYCBQcDBP/EADEQAAEDAgUCBAUDBQAAAAAAAAECAwQFEQAGEiExE0EUUWFxBxUiMjMkQoFSYpGhsf/EABgBAQEBAQEAAAAAAAAAAAAAAAMCAQQF/8QAHREAAgMBAAMBAAAAAAAAAAAAAQIAAxESBCFBMf/aAAwDAQACEQMRAD8AqKTSqQ/TKUJECO86+wha1q2J1C/nhbjZBnO5uTSVoaQLlS3NAKQ3/UNv498OlNlGl5IhVKUGBFahMqF0q1H6QNrDkk25t7YnAznDzNS6qaey/HqUeGBZenUpnWnUUkckeXr3x5nbjSJ18gkAy0by1kn5T8mvA6pVp6utPV1catXn/rtbCI38N1R6xUabNlNJDWhTD/R1BSVHY29hYjzw0VWn06VET0KauO8NW4Ufr2BvqO3qRbEZmcaRQqTRFV6nOVGouxNm9KTpaC1BKjq23HHpg62cfh3ZdtaqNlXmH4bU6l5J8epCzJQlVnuoCHTpJB0eW3bjvfBhwqJptYyRPrFIjMoiOQX1N3aCFIOhQOwHPb/hscGFS1/sHAZSsV16XQctUGU2FRqpBLLjiQAsaWk2IB24J7b4QqRUGvh9nKdCSWavGWjwkrSgpNjbUEf3DjyOHGmyESMqU99shM+JA/S9MXIWGNJNrdhvb+d8ZaajLRV1VNSdUxMlLzjpTupRN97Dbjge2KqXrofIlg5wzQq7XZtMmQW53i0qkMhlpekWU2ogbJA+7TuQd9W3GKKpVCP8RM4QIRLNHiIR4OJdBWQB9oXb9x48hh9n1ZMtuPmSXBivQ2EqUy+d0IKrAuaL31XFrEetr4xmPUpnztFSbGiV4gvNuJH2rCri1+fY3vxjKRvsDCJXkAjPeibcuvPx6HmnL8FpPhaRADLbiwCtQU0q5sNuAO22DHkmvIYyxNeWoePmU/VKKh9S1ljSDbtdN1W57m2DEJ7mOvJyLMDOUOLkhpCGHE1NqIYzZW2dOm1tWrjz74RHpio8Vt1uU0uSsJuUqSSk3UTtx3AwYMdVaAE59hWOWA2dU1Fro/n/AG/j6ne9/a/b33vjq1OZWwSX2gvndwDfYnb/AD6HBgxeCHsfKlnSmTMndTwzhqi4Zhu6GrhAKbFQVxzp74MGDBpUoitYzYTP/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">two
+Explicit content</div>
+                                    <div class="artist">bbno$</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAMEAQUGCP/EACcQAAEEAQQCAQQDAAAAAAAAAAEAAgMEEQUSITFBUSIGYXGREzKh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDzNVowyaZNalsBs+9sVes1u58zj2fs0D9k4HnEN/T7NC1Zr2onMlrSfwyjsMfz8SffB/ShrTyVbEc8DiyWMhzHDtpHRH3W60jWImyaZW1Fhfptad1uaNv9p5O/kfw0NHrJ9lFc+rVClPft1q0DQZLEgij3ENaXEgAZPA7VovgZosE0ZAvi29zuOmbWFv8Au5bHVNdgtO1qJldramoyttsZtGYJuSdvpvye3HrafCg1+q6fDSgYwvmj1GKR8N2nNHtdC9pxkHyD1jsEHxhFUv3bGoWTYuzPnnLQ10j+XOwMDJ8nAHJ5RVFVERBnJxjPCwiICIiAiIgKem6BtyB1trn1xI0yNacEszyAfeERB1H1HY+jpdLe3QqWow39zdrppQ5uM85H4REQf//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">All The Stars
+Explicit content</div>
+                                    <div class="artist">Kendrick Lamar, SZA</div>
                                 </div>
                             </div>
                         </div>
@@ -197,7 +199,7 @@ Explicit content</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            74 Commits
+                            76 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -334,7 +336,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Mar 2026, 23:06:11 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Mar 2026, 23:08:00 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
