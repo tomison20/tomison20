@@ -7,6 +7,20 @@
 
 <br/>
 
+## ⚡ My Stats
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tomison20&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb&include_all_commits=true&count_private=true" />
+  &nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomison20&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+</p>
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=tomison20&hide_border=true&background=0d1117&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&sideNums=c9d1d9&dates=6e7681&currStreakNum=c9d1d9)](https://git.io/streak-stats)
+
+<br/>
+
 ---
 
 **`CS / Engineering`** · **`Full-Stack Developer`** · **`Builder`**
@@ -14,6 +28,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tom-ison-1ba00b2a3)&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_tom.ison_)&nbsp;
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-1156-7621)&nbsp;
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/)
+[![Spotify](https://img.shields.io/badge/Apple%20Music-FA243C?style=for-the-badge&logo=apple-music&logoColor=white)](https://music.apple.com/in/playlist/poolside-serotonin/pl.u-pMylgvbsWLVoxJ0)
 
 </div>

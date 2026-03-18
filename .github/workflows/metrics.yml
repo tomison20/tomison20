@@ -32,6 +32,7 @@ jobs:
           config_timezone: Asia/Kolkata
           config_display: large
           config_padding: 0, 8 + 11%
+          config_order: base.header, isocalendar, languages, topics, music
           retries: 3
           retries_delay: 300
           plugins_errors_fatal: no
@@ -48,23 +49,25 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_limit: 8
           plugin_languages_colors: github
-          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, shell
-          # ── Achievements ──────────────────────────────────────────────────
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
+          plugin_languages_ignored: tex, less, dockerfile, makefile
           # ── Mastered Topics / Technologies ────────────────────────────────
           plugin_topics: yes
           plugin_topics_mode: icons
           plugin_topics_limit: 0
-          # ── Lines of Code ────────────────────────────────────────────────
-          plugin_lines: yes
-          plugin_lines_sections: base
-          plugin_lines_repositories_limit: 4
           # ── Apple Music — Playlist ──────────────────────────────────────
           plugin_music: yes
           plugin_music_provider: apple
           plugin_music_mode: playlist
           plugin_music_playlist: https://embed.music.apple.com/in/playlist/poolside-serotonin/pl.u-pMylgvbsWLVoxJ0
           plugin_music_limit: 4
-
+          # ── Custom CSS ─────────────────────────────────────────────────
+          extras_css: |
+            h2.field:has(svg[data-name="topics"]) .field-name::after {
+              content: "Mastered technologies and topics";
+            }
+            h2.field:has(svg[data-name="topics"]) .field-name {
+              font-size: 0;
+            }
+            h2.field:has(svg[data-name="topics"]) .field-name::after {
+              font-size: 14px;
+            }
