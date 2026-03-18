@@ -32,16 +32,14 @@ jobs:
           config_timezone: Asia/Kolkata
           config_display: large
           config_padding: 0, 8 + 11%
-          config_order: base.header, isocalendar, languages, topics, music
+          config_order: base.header, languages, topics, music
           retries: 3
           retries_delay: 300
           plugins_errors_fatal: no
           # ── Base ─────────────────────────────────────────────────────────
           base: header, activity, community, repositories, metadata
           base_indepth: yes
-          # ── 3D Isometric Calendar ────────────────────────────────────────
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+
           # ── Languages ────────────────────────────────────────────────────
           plugin_languages: yes
           plugin_languages_indepth: yes
