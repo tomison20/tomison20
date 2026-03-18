@@ -66,7 +66,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 27.3kb of code in 32 edited files across 26 commits</small>
+                <small>estimation from 27.4kb of code in 33 edited files across 27 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
@@ -115,18 +115,17 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAUGBAIDB//EAC4QAAEDBAEDBAAEBwAAAAAAAAECAxEABBIhMQUTQSJRYXEGMjPBgZGhsdHw8f/EABkBAQEBAAMAAAAAAAAAAAAAAAMCBAEFBv/EABsRAAMBAQADAAAAAAAAAAAAAAABAhEhAzFR/9oADAMBAAIRAxEAPwCydU6ytSlFwOdz070Rvn/tdvOvuIbDyVAzkklHkcSCY/nTLqhZecacZbJCVDIEYqH5jO/EQfqtbRQ60hiGe8+FJ9apgASCkkc6PnXvXmqjp283wS3aEN5ZWrW09wJTEYxkN8SD96pV23SlSm2lesk/l0T8QYj6qtPSr17pzbZLWBcDwfzHb94mNHxHG6w3TISFNNobN20eA4YgjmR4gDmkmGjh0iYLS1AyhaXAog5ce4+qKZISpZcSyjukuRkngkp8fGifGqKtIN0d2928hLKnnWFtqUFBC3I9MSQQdpn5Pn2NMPw71C2a6i64wy6GlLVKXQFSgwfOpkCI8VKdxDASpGKiVjJKuFaiCAZ41W5XVA42pCQ1kkSq7yKIk/pgEb0IB8VBefS6R1zp6rU2eCU2uJBTJiOfv96Sfiy2t1XluXc0WspgNECUb/rM6PiopLNylS7gXLGnMS2ViYJjKOMZ1VAjqi20JDnZLlwEhF22ruEYqEoWjkaGzHsaWa1Yw6nuo9Es3dp37dgWxycmQvZTBxH9+D8UVssOzfXDbb1wnusqWptxAxUhQSk6B/iNz5opF4m+oh2l7PnZu0YJIecDuc6MAD48g/5oQ62++lsvwknlTg/cxRRWZmkbNizCAVFHdICc1AaTMZRHPB14pMq8VbPusIuEFCF8tuggniQQY480UVRJtseqhuFd103GejOScYgz5J/2aKKKaaeBVK0//9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAAAAECAwUEBgcI/8QALBAAAgEDAgUCBQUAAAAAAAAAAQIDAAQREiEFEzFBUQYiFDIzcbFCcoGSof/EABkBAQACAwAAAAAAAAAAAAAAAAQAAQIDBf/EACARAAICAQUAAwAAAAAAAAAAAAECABEDBBITITEFFEH/2gAMAwEAAhEDEQA/APOFzKUbSQGJ9xJ85NLBzpgeTb68b7CoLkgsAP0jTWw+jl1XukrkVpytxoWqIwJzZQl+ymltb+NdckNyinfocViyM+4kMmfBNdiniRoCrKMVzH1FEI7yTC4GaPpdXzGiKjNf8d9VQwa5UoMuoAO7AUU+2UGeHUMjmKD9s0UwmpzFWxC42mlHh2/NOtria3kElvI8ci9waS8GLqcZP1G/NQ53q6sdzHcVbqbZc8d4pJwaKVZVDOxQlOu3etcupriQg3EskjN3c53rJsb8QpFE+oqr6vIxWbxqfh4Q/BwqHfqR0/ijIoxNQX2Pyuc6bmfz8MpISdcen5uYuKKWzGq5gXfJkUf7RSGPcGgsR94Nd3MVDFTIxBA7ZqERtv7X/rRRV3QlEAkxRG5GdD4/bQsMjZAjlP2QmiioSZAolhwqxYyLO8iQrDIrFZchm3z7dqKKKM7G43HjXbP/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">No Church in the Wild (feat. Frank Ocean &amp; The-Dream)
-Explicit content</div>
-                                    <div class="artist">JAŸ-Z &amp; Kanye West</div>
+                                    <div class="name">I Was Never There</div>
+                                    <div class="artist">The Weeknd &amp; Gesaffelstein</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAQFAQIDBv/EAC0QAAIBAwQBAwIFBQAAAAAAAAECAwAEEQUSITFBBhNRFHEiMoGRsRUWM2Gh/8QAFwEBAQEBAAAAAAAAAAAAAAAABAMCBf/EAB4RAAICAgMBAQAAAAAAAAAAAAECAAMEERIhMRMF/9oADAMBAAIRAxEAPwBTSLVLexQxiIgqSu8H8RxnHY5pu1srrImnjXDoyPnAROBjGTSMU0aRO2xVto1JCoVYOfjIGa7W9tPLGI5WDqArMqY/bjxSfkB6YUXbOgI7ZpbWyf5PqZujIgOxf9Anj9am3ETX14TOBFETxjJJPzn9uacg08wxtIWcKQRtzjrngVifbbmXfjhTgE85FaVVBmHZiJta6NpN4gk96Swutp3zI5TJBGCaKWjCSaZcGVS8hjxIrDIKscffJz96KFk4nJ9q2o/FzeCcWTcxbaS6oqPHEly5MbpJJsYcfHeP0xTuiiW0jCtFkKxVmzkN8EYP248U16et/wCo282vancQzW9xL7ccbEt9OegUAHgZOcc91x17U2h1RrWKCVrJHCLsh2ZYDEhCk8DOD5yeqmuft+LSjfnhUDKe5SWUW8PuZ398d47+agapHLe3KQBi86MRDHj87EfmOPj+M1f1DSUu2trzRE+o0+a3X3I45d7JJkg5XOcYPY8iollqD6N6hRLuHYJMxM7nOzPnPjoDnxTarA42IO+soeJ8nO5tbvTrmSZ5kllDI3tgHawXns+f+Zopr1DfQ25JmUsCfkD+TRRcihbm5MYnHvaheKDqTdJvrrRxA/piG1ltASGjuGYPggg55AyOvnHfVM/3BrF5ryy62sMNsq7o44l3Kj4wTu7J5JLc9jxRRRLsSoP9Nd+S9FrMNExvVLeW4eCfTJhFeQOxkXOxnUjjHXOefg15nXr+bUJWhiBub8riQlANuD2QOAc4HNFFdOlFVdgdznXuzEAnqR/V880kUFlb52xxpG7sR+IgDkftRRRUW9lF8n//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYDBAIFBwj/xAAqEAABAwMDAwMEAwAAAAAAAAABAAIDBAUREiFBBhMxB2FxFCIygRVRwf/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABcRAQEBAQAAAAAAAAAAAAAAAAARASH/2gAMAwEAAhEDEQA/APLrW5IGN1IIiQdt1PQRaqqMYGdQ8pj/AIn6itZHCwap8YaOCpuhWbC8gkNJA84HhYkHlNd5sF4sVNHUSwBtHVRtLZC5pyDkD3BVaps8sVPE+SJ7dbc7tIyP73SrC0fhCs1EHbJz4Qqi9aWNkrIwXANzk6l0PpqojhmYxzWygyBxcR92NufI/S5jSSaXg8pmork+FjpYQDMBncrO4p7u9PeOs7tRWW2xA0dA4xRho2DiSe49x2HkgDPCm6qopZvrZJJg+GF5hpafmNrfyJ+Tnb2V70h9R5RHc23BtL22tYY2tgAdjJG55/e/KXvUrqLuXmevhz2JnADQANPtspCud3iMRkgtLShQ3KpFS5xDjn3QtDVxu0q/TVBDh5xyhCI21nucdshlaz8piCcA7AbAbLC5VjbhT6W5yPu2/wBGUIVJ0vbscQ4HPHwhCEH/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Lush Life</div>
-                                    <div class="artist">Zara Larsson</div>
+                                    <div class="name">starly (Slowed)</div>
+                                    <div class="artist">LONOWN &amp; riserayss</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -137,11 +136,11 @@ Explicit content</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAYHBQQCCP/EAC8QAAEDAwMCBQMDBQAAAAAAAAECAwQABREGEiETMQcUQVFhIjJxJIGRUrHB0fD/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8Aw/DOBeNSzSqQH/IywuI1KABQ0rGVKwfZPAPvW14pyXrSlsWdKWYcZfRaAGckJG0fOASo+5Nbnh5ao9jjXRQuM52UxHSvy5VhOQlQGOeTgE5GB2pJlaR1bqmdDjCeQ47+vKFMrS2ylwJ4CyMKIAA70HjTcO7yXLW7MWpLT7zqSnbzkBPB/enGfHtcayON+cZbQ46G3CpWFNNuEjckdztPOB7UuXuFqmIyiJEZfXPYlplNvJaVsI6e1YzjHJSk1KkolSgl2at0lZV3PO1J5x8enyfxQXN/UWnVMRoaX3JsxtT2FhJcC1rUCFKUfx2xxRUm0484/PSlvaw22U7WmxgEZ5ye5P5ooPrZh7Tt2bWzBbjId2Kb3BQT2HY454J/msC7anj6bsUdDsgMKbbbaSvy6n1LwAMJSkg+nfOKwtO6J0lf7S5crY+89Gl5Sh0I2KynjI3Djke3esFy4XvRd1RaL9ChXS2SQWYEtaQ2lxWchtzHCVH37E0D2Lyu92OC1BeU4JTZ6srpKZSlOSD9J5z6AZ/eoJrCA5FvnkYSxKjtxw2hXTCS2hBVlBwBzx3xk01DUWp7jrZh9yAbVbrX0jKhpdADrJcx9p4IB9qavEvUUJmA/LgNtpmtMLYyU5SjfjPxn/dBD9NNF27NyW8hG8/xkA/3orh0s1IavDAKiApedpPp35ooLv4Y3m3wbHAsLT5YucRtXWYczyvcSopPYjn0NNmp4UXU1jft004Dg+lxI5QschQ+QeaKKCR6005qky3psRxTgUlCJDLaiOolH2rH9Qx6dwa54Mi73Z+JDnMJZt4WlT24fSfX/veiig5rhpqZF1U5KUy4ITjxW0vbjfz/AIooooP/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQDBQYCCP/EACkQAAIBAwMDAwUBAQAAAAAAAAECAwAEEQUSIQYxYRMicRQyQVGBB7H/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQBAP/EAB0RAAICAwEBAQAAAAAAAAAAAAABAhEDEiExEyL/2gAMAwEAAhEDEQA/APPttFtXPAY9zjsKke4ihQokQMn7Y5A84/dNRxbknEeHZUJXH5A+41STBg5DHnPNEv11kzerpEpunJOGNT2jybwYyc0kowe4pq2b0ikoIIDYIo4pCZt+ob+sG4xXSCimurbVYLyN1BVZY1kH9GaKx41fDseTZWyfSLo2etzRwxCZ/pHhSIj72K5xxz589qq72zll1NxfPDbTv7mjHAXIz2/HxTd/M+i9RTXEOPXjUmFiOxIwG+QOfms87M7lmJLHuSaCDuKY6caZudD6d0+ecSX9zDDZDarEOWcngHA8n/tWvWHQU9trMkeiPa3FkJHcQxThpUiBxlgQNx+Cf5WK6d1i60i7aSGRSJF2sjcg8gg48EA1rv8AR+pk16PQrW1Kk2MPpySoT7nOCxyQD38YpOuX6KvBm2FYmpelb19Z3lva6bNdW7wI0KxqsvtY7R+FPOMHv2oqk6kvDdzxZdnCoANzZwKKrba4SYq18Hddjj1CzguYSPUVdrDPI8VmHXaxB7iiipsPLRXPvTqGQocg4NPTXEKQRiE+8jnxRRVCZNKKbFp5fWk3cAYAAooorGMilR//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Dracula
+                                    <div class="name">Watch This (ARIZONATEARS Pluggnb Remix)
 Explicit content</div>
-                                    <div class="artist">Tame Impala</div>
+                                    <div class="artist">Lil Uzi Vert &amp; ARIZONATEARS</div>
                                 </div>
                             </div>
                         </div>
@@ -259,7 +258,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Mar 2026, 23:37:55 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Mar 2026, 23:41:52 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
