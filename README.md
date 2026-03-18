@@ -22,7 +22,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=tomison20&label=Profile%20views&color=1f6feb&style=flat-square" alt="tomison20" />
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomison20&theme=darkhub&no-frame=true&column=7&margin-w=10" alt="tomison20" /></a>
+
 
 ---
 
