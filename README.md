@@ -28,10 +28,10 @@
 
 ### About Me
 
-- Currently building **Skill Sync**
+- Currently building **my career🥹**
 - Learning **Web Dev · UI/UX · Coding**
 - Reach me at **tom.ison.ti@gmail.com**
-- Fun fact — *I think I may be funny*
+- Fun fact — *i think i may be funny*
 
 ---
 
