@@ -37,7 +37,7 @@ jobs:
           retries_delay: 300
           plugins_errors_fatal: no
           # ── Base ─────────────────────────────────────────────────────────
-          base: header, activity, community, repositories, metadata
+          base: header, community, repositories, metadata
           base_indepth: yes
 
           # ── Languages ────────────────────────────────────────────────────
@@ -54,14 +54,4 @@ jobs:
           plugin_music_mode: playlist
           plugin_music_playlist: https://embed.music.apple.com/in/playlist/poolside-serotonin/pl.u-pMylgvbsWLVoxJ0
           plugin_music_limit: 4
-          # ── Custom CSS ─────────────────────────────────────────────────
-          extras_css: |
-            h2.field:has(svg[data-name="topics"]) .field-name::after {
-              content: "Mastered technologies and topics";
-            }
-            h2.field:has(svg[data-name="topics"]) .field-name {
-              font-size: 0;
-            }
-            h2.field:has(svg[data-name="topics"]) .field-name::after {
-              font-size: 14px;
-            }
+
