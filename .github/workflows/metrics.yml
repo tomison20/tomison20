@@ -49,12 +49,10 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_colors: github
           plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, shell
-          # ── Coding Habits ────────────────────────────────────────────────
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 14
-          plugin_habits_from: 200
+          # ── Achievements ──────────────────────────────────────────────────
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
           # ── Mastered Topics / Technologies ────────────────────────────────
           plugin_topics: yes
           plugin_topics_mode: icons
@@ -69,7 +67,4 @@ jobs:
           plugin_music_mode: playlist
           plugin_music_playlist: https://embed.music.apple.com/in/playlist/poolside-serotonin/pl.u-pMylgvbsWLVoxJ0
           plugin_music_limit: 4
-          # ── Featured Project ─────────────────────────────────────────────
-          plugin_projects: yes
-          plugin_projects_limit: 1
-          plugin_projects_descriptions: yes
+
