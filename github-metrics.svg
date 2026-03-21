@@ -23,25 +23,25 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 2 users
+                            Followed by 3 users
                         </div>
                     </section>
                     <section>
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -115,32 +115,34 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAQFBgcBA//EACwQAAIBAwMDAwQBBQAAAAAAAAECAwAEEQUSIRMxQQYUUSIyYXGhFUKBscH/xAAYAQADAQEAAAAAAAAAAAAAAAABAgMEBf/EAB8RAAICAgIDAQAAAAAAAAAAAAABAhEDEiExBCJBYf/aAAwDAQACEQMRAD8A4VpLi0gtopCDBtDHqFh9TeFPgc54+OTX1u5IJbSSO8tzFOqAvljhs5A5PY5Iz/msYC2Mndt7c0zETIMbju/PmoPE27s6cPNgo66Ic1nTxYQ2qlQWkTf1ASQ2fg9iP1T3oPToL7VZjd49vDCztnn+PPGaetdEfUPRMl7mN547kRRBpjuAOOAnbGT+6nekenJeyWckixNOCp3nC8A4z+c+PNNfq1ZnkryKSVJl/X7PT10O9kt7MRNDEjbyB3c4Az80VntWv4PYy2kZZpjIock5H098MRnGQOM0UccWkTzTViWmLDMpgmKRhQ8gLAnqNtwq8duc0xpkNpHfKNUci0RZft7s6qdq8fLbRmqOo6FFo9tb3HukN1uYvFn7MKCF7cnn9eKkOR/TkaSNurLKzq+OGXGDz+/FMT67Nf6f9UpZej7jSFsLYXEsxb3rRh5FiK8xrntk857ispHBJPrFubbEM8rgqzcgHwTx/wAqxo9qjWfXY4CKSPk4+Km6zbzW0lvuLJIqkZ7Yx/rvQ/Czi9VJi/Ve1uLs3CK0rho5Mj+7nJBHbmikijt9u5z5oo6kdn8LNxOskMF9eydS5uOtKwxxjkfy1ew3EPR0+FCkrJb7cSE4R2kYttHk4xRRTNAT5L+n6aq39lbyP0rW4IhYs3EbZ7jPitP66stGv7LSLKHVLGN7OM27ugBZ2J3Mx57gnGD+McGiilcU+TZN1BpHPNS0OwtI2Y61bSusJkVYgH3tn6VGG8/kZHxRRRTmGz//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAUGAwQHCP/EADEQAAEDAwMDAwEGBwAAAAAAAAECAwQABREGEiETMUEHUWEUCBUicYGRIyQyQqGisf/EABkBAAMBAQEAAAAAAAAAAAAAAAIEBQEAA//EACMRAAICAgEEAgMAAAAAAAAAAAECAAMREjEEBSEiQlGRscH/2gAMAwEAAhEDEQA/AKq560NoslmuFyinE9sFSGML2q257lQGO/k+K1bfqmcbm8uc2wbUtxYb2Jw82kA4zzg9vPNI9P3GOdTpsybMhViYbQiJuQpaEZIKv6gRwSeMjtSPVepINk1XcYyWo6Og4pvcWlK3k+MJUAPzPzU9skesoVuASX4l5qDWVotb7aHlSHSuGqcnpt92wCe5OM4SeK1YWtnprrbFot6mvqLa5MQ+4CooV01KQCAMdwPJzUP6xFCbs3EgLdYcjWdKwtlZKskgBo+wIP54+Kn9KOXOLrxCYsh56ei0np5/EQogDACuM44rdSOZxOckcCXGqZerJnp3cZaZVzckOXJlOGGlNJbb6SwoJxglvO05PmiqObeblE9N9SSp/wBV1GXIYSmZtcGS5hRSjJAHx8UUS5IEXfXbzID0d15dLo9cI9+vO8hUctF9aUd3QFAYA8A+/eqnUYnybtfIrMNDDJZT9PMdZAbLhUCf4hScccDvzXDLNYZsS4tSGWXZYTlP8q7hSFEEDKh2H75prcbzc23l/UTlRS+tBXHS+XOByk4PYA/Pn4rWXbyk9V2q9bQRKX1Dh3O1epbin/p5Lk1CZCNuMdPBSUnOOcD9cDFY5ioi/WGSzeXHrfFkwemVxykuI3IBTjjAP/KRTXpl4mOzJUh9x+GwnpqVyfwkkZ9049qX6yYumotQvXdMB4RnUoAU2OplKUgZx3wcZxiiNxsVVbxqP3CNLjOgyD/J6HsFt0zb9E3xiOq7ahYcUy69GcYK3FEFWzaEAE8558Y5opd9nln7vbvjhQWlPOsjGR/alWCABx37UUurZAOZllTK2GE5ja9XvtWwkdBxhbKytvAxuG3H6Z/wKgtUXFV2EKa4orUpC2VK99qyR/qpNFFHSMHH0ZZ7wdkBPyGT+RG+k2p0pl1mfIltxkI2M5UQU57gA+PjtXStMtMR4saLIknY2Npe25P7A0UUtexLkSl2/p0rpUjmVtonRXNTxYENbjMR99LK3Q06hS0H3Vv2iiiima9SOBIfXPZTaVVzP//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">No More ?'s</div>
-                                    <div class="artist">Eazy-E</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwACAwAAAAAAAAAAAAAAAAcIBAYBAwX/xAAuEAABAwMDAwIFBAMAAAAAAAABAgMEBQYRABIhBzFBE1EIFBVxgSIyYZEjodH/xAAZAQADAAMAAAAAAAAAAAAAAAACBAUAAwb/xAAgEQACAgIDAAMBAAAAAAAAAAABAgADBBESITEFQVFh/9oADAMBAAIRAxEAPwCcIsdyQ8htlCnHFHASkZJOqYtKix+m9upbKj9YnqbW+6poBYQQP8KTuBCSfyT440v+glFekVpqopacS21IShLyCOSBkp58ftJP41SDtHtuXfrbvy651SabCnv1EstrHIJJ7rx2SOw51z/yGQ1rmlToD2V8WtKlFjjexuYls0KpyVS5lZYS9HfQG0JUnatTSgApC0+2P+6yb9tSzLneptKrbIafeeJbWwQ24tYbxyoDkbUjg+w1u1bqiIFElykp2uMM79ik5OccJwO5z40lZIqt2y0KUy1FmwzktyWFoSoL7gK3bkkeDgH+SNJORhEKjb33DrU5hLv0BEj14sqHZd6qi0r1Pp0hlLzPqHJSeQpOccgEf0Ro00fiBtiqvWBTqrUEt74KgCGlbwAo7cZxwMbT+NGr+FebagX6Mn21hG0Due98NEalSLGWgoQmU06XFFCxuVxnn2Hj7DXF311+3YktFHW1BkvrWrfvG5G7ndnnOcfycn7aQfSm6ZNv3A2hLxREkAtOZOBz2/3jTwgWDOraV1RTKpzBWtIYc4IRnO5OSM85AHB7eNRc7GK2jr+9fcs4bVMpsdtDzRm/WpcUysUV6nzHlyCqMEioNtYWpRTkq44yM8djx20puhN0VKqV2ZRGIwqgaQ48w5Klek4E78bs7VZIChx99MSiWdWYtMegvQ3E09aW1oZZe9MqOcqQryARwSD2zrSrStO6RfdwXpaAgYhTVRjCALaJwAHrIQT+0Z7E+efGjwqjeSmQu/zcUy2Wok0Ho/kYXXxM9jopNjFj5iSpDKJLkcYQjCgVqweduRj86NY/U67Xaj0tuIVCh1GkLLXppampALiVdlApJAOQeM5HHuNGqjWcWKp4IvTTzXkZFLS8HjOdUT0S61N0SL9LuhxxbIx6UnvtHssYyfv/AHo0aZvrBXl9iL1HR4/RlUQ5KJcRqQ2f0OoC0n3BGRrtQ2hvdsSBuOTjydGjWVNyQMfZpYaOpKnX+/jVUVi3ZExpoxJJCGURFhS9pwAVlRHbnOBo0aNFSqkb17DZ2HQM/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Space Cadet (feat. Gunna)
+                                    <div class="name">500lbs
 Explicit content</div>
-                                    <div class="artist">Metro Boomin</div>
+                                    <div class="artist">Lil Tecca</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEDBAUGAv/EADAQAAEDAgQEAwcFAAAAAAAAAAECAwQAEQUSITETIkFRBhRSFSMyYXFykTRCU2LB/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgQAAQMG/8QAHxEAAgIBBQEBAAAAAAAAAAAAAQIAAxESEyExQQQy/9oADAMBAAIRAxEAPwC+xec9DcQGQg3bUrmF9Rt1qKjF3hMZQ4WktKJzG2wBt3pnxYmQXmPLqaA4LoOcHe2m1UkrzSX2lOLj8IBebQg2vXKogKidu9hVjNsZ0WxPmG7Dfmpr2rCN7PA2JGiSRoLnpWWW81wXveo+D1D0ppuGtJYuFJtmc6/1qbIxJvnqbONMYkqcSyvMUGyuUi35oqo8OEGZPsQTm70VhYoBxGK2LLmJ4lJ4zQABs04dTb5dqp5gUpxKSE2yrvr8/pWgxqG/Kfb4DYV7pSblQGpIsNTVOU5paCMqkhK72II3NM1g6cxS0jWQTGXGm+C/yI+H0j0priKkJYISAAFObfbUhKiWl3A1bT0HoJ/yoGCNpchsKXmKlXJ5j/Jbv20o/IHvE0Xh79bP+6il8KNoTFecAJcU4cyiSSfzRStn6jtJwkmY9DfxDC3o0V4MuLtz9h12pmNh8liAuGytLLLs1yU8ptwkrSv9liLWG/1ooq1vdBpB4mdnz1u4ZhyIqcFZCSOK7qkJ6dBakhYDFiMobSp1QRsSR3v270UUO400217xJ0GG1CaU2zmyk5uY3oooqu+TDAwMCf/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAIDAQEAAAAAAAAAAAAAAAQGAgMFBwH/xAAwEAABBAEBBgMGBwAAAAAAAAABAgMEEQAFBhITITFBB1FhIiMyQnGhFBUWUoHB8P/EABsBAAICAwEAAAAAAAAAAAAAAAQFAgMAAQYH/8QAIxEAAQQCAQMFAAAAAAAAAAAAAQACAxEEEiEGMUEFUWGx0f/aAAwDAQACEQMRAD8AqtZsbbK/mQgfuWoAffMSkpNKBB9cVnsJuuEEG0eQvhFEjkcZLgQjMfSjjMMJUQniPrCEAnoLONV09/TJ70OWEh1si902CCLBB7gg3lTciN0hiDhsPChsL1HdZRVQfy2UmQhX4zlwVC/5vtjIWMtaNSee62pk15lxxsN9Qnv3y0+H+x36mdedeWpqIzyO71WfQ9s8r01UhqWw+p0OtoCFICxR5DpzztbC+KGoQdddbYYZOnmQUtsqu0p6dQR1Pc3V5xk3UTpozHCNT4KJz5pHgycWfZafFHZ2XFn6cvTFOy4Dkh6KEkAEOIWRflzCbv0yZozEyXo8iS7Hfabg7qFl9Vnd80k/EATXpYzq7UzFxNn1z9mdQjzdFUkNSI77vEMV5VJ4jRJ3hzVdHl/WzazUmNJ8GNVRAlJWqWpmOFHre9Sq9d1N36nFuN6q7GlMjjbj9JHBllzmgjkmv21TtC2hiaw4tplK23U3QV8w8xjPLIklyG6HWVqQsEfCa+4xjLG6oc1lTMs/CfGILpRdek8OO1JcLkdHsqBAJ3fr55yIzpZ4j1WpChX++uMZy0XdY8Ws9Nkqc1GOl/eUyVpDiRftJsEg1zrLQ7tZLblzURER0pWlTPvGkr3GbPukA+ylPmQLJ74xk2EudyqpIm7A0qqncXYUQhXQcuWMYwdEr//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">I Love Kanye</div>
-                                    <div class="artist">Kanye West</div>
+                                    <div class="name">love nwantiti (ah ah ah)
+Explicit content</div>
+                                    <div class="artist">CKay</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcIAf/EADEQAAIBAwMCBQEGBwAAAAAAAAECAwQFEQASIQYxBxNBUWEiCBQWUnGBFSQyQoKh0f/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAAB/8QAHREBAAIDAAMBAAAAAAAAAAAAAQACAxEhEjFBE//aAAwDAQACEQMRAD8A0Lwy6qoYluCxw4p2qmaWRSMq7kAOwwCFOAN3ODwdPNVc6lJ6gkhKQKVUopZt2PU/rnWJ00kHhh1Ne4IaWStrZAm2J3Kr5GAdykhifqbBzwNh+NLtWx8Quq7jV3Sunt1LDAjtTQuZF4+ngMwAPr276RZ0HOyrw27PTNprutrRbXqpK27UUckpUCN5xuXavJwpY8n0wDqmbxAtdRJJHbEra5z9W2mpGf37Fsccn09dKEPQ3TVDloWqqqoVAUX+4kjIOxVCnv2Yn51H8BK2KTqi5wwIsMbU7bY+5wsilST74fBxxxxrDkUDRCtUqbY51996nuwCUXTNSke0r/OVQiV8jByq86NaBLwpI7DRonAvW0T+h8Jh32iL5QUXV0kUdTLU1z2/7s8MOAKYZyu4nkltzEj0GPfSJ0zZ7ybBe7vRpC9JDAtPJL5oDbcoSVHfkY1c+K9ntdpvDtSSRz1VweSoqz5rSYbj6cscgHcTjJ/1qq6e6moemOjLrartUyTUlydQrUeGZVZTkNn+k4ABGP8AuliWdx4NQJd2629QW7oTqiuiucC/w9seXsLTQ4Cncj5GAQcjv68ao/De9w2Se33b72aWYVTRVZlCnzI2UNwO4GFxntnGlm/9Z0UlmnoLHHcFapTZUT1FQD5iflKKACfk5Oo/iOPL6gjMEaRwzUtI6qOFBMCBv0wcj9tc7YH1qFZKqHZ17071NaOp7e1ZY61KqnDFGwCrIfZlIyP3HOjXP3hnW0dl8T5bbQqVoqWieOWdWJM74UlmA47nAHoPnRqumQTsktjR0Sb+IIqiBZKlVgdAdsUlG023/NSBz8AaTeuampvtnp/Mt9JQxRTgjbKA8hIxtUHk8c9saNGp7Mpr9Ir/AIYlVWkXbGuCds0gG4/lT3bnt3Om22WZrrXTQ3a30sUFTRvCJwgjFOyjcsnoAeMEn0Pxo0aCjuxCQ0zyy2esoen6drOIoLos8iVEm0eY8ZwVwSeVBHt30aNGhye4dOE//9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQDBQYCCP/EACkQAAIBAwMDAwUBAQAAAAAAAAECAwAEEQUSIQYxYRMicRQyQVGBB7H/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQBAP/EAB0RAAICAwEBAQAAAAAAAAAAAAABAhEDEiExEyL/2gAMAwEAAhEDEQA/APPttFtXPAY9zjsKke4ihQokQMn7Y5A84/dNRxbknEeHZUJXH5A+41STBg5DHnPNEv11kzerpEpunJOGNT2jybwYyc0kowe4pq2b0ikoIIDYIo4pCZt+ob+sG4xXSCimurbVYLyN1BVZY1kH9GaKx41fDseTZWyfSLo2etzRwxCZ/pHhSIj72K5xxz589qq72zll1NxfPDbTv7mjHAXIz2/HxTd/M+i9RTXEOPXjUmFiOxIwG+QOfms87M7lmJLHuSaCDuKY6caZudD6d0+ecSX9zDDZDarEOWcngHA8n/tWvWHQU9trMkeiPa3FkJHcQxThpUiBxlgQNx+Cf5WK6d1i60i7aSGRSJF2sjcg8gg48EA1rv8AR+pk16PQrW1Kk2MPpySoT7nOCxyQD38YpOuX6KvBm2FYmpelb19Z3lva6bNdW7wI0KxqsvtY7R+FPOMHv2oqk6kvDdzxZdnCoANzZwKKrba4SYq18Hddjj1CzguYSPUVdrDPI8VmHXaxB7iiipsPLRXPvTqGQocg4NPTXEKQRiE+8jnxRRVCZNKKbFp5fWk3cAYAAooorGMilR//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Softcore</div>
-                                    <div class="artist">The Neighbourhood</div>
+                                    <div class="name">Watch This (ARIZONATEARS Pluggnb Remix)
+Explicit content</div>
+                                    <div class="artist">Lil Uzi Vert &amp; ARIZONATEARS</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAYHCAIBBP/EADEQAAEDAwMDAgQEBwAAAAAAAAECAwQFBhEAEiEHE0EIMRUiUWEycYGRFiMkM0JTof/EABgBAQEBAQEAAAAAAAAAAAAAAAIDAQAE/8QAHREAAgMAAwEBAAAAAAAAAAAAAQIAAxESITEEE//aAAwDAQACEQMRAD8AQKB0Yn1WxYd1PXBR6fT5KFLSiSVhfyqUMcDknaeBryn9JGJ01EWPe9vF5S9qUuJfbSs/ZSkAH9+dWOj0A3D6SoTCJC470aI7MaUM4Km3XFbVAe4IBH5kHxqJUCnLrDEZtVRfjOPdtIAIc25ACgUkZznn/mk9pWOj5ksHfse1dAaz8aRS1LtzvFhUoODv42hQTg/qc+2k+4ekSaHVY0KfeNvJekLUk9suKSxj/YQPlHgZ1rekQlU27KVBXIckqjUPsl9z8ThS42Nx+5xnWT7gosBi4atGRIkOIbqC2wpRAVt3c5x5z51O681jYaqEckGdXF0NqVGtGoXE3cVDqMGE13VCGtSyoZA4OMedGqbHt+nUf003VJg9xb0tlZeWtR52rAHGce3nGSDznRq1VvJdMjbUqtkZujEitw+iFGktv0ZmmtRXllcpDqihAcWSVBJ588DxpS6VdOWINyN1ek3VbVacQFbYrjCgUKJBCgkq3Ag+3GulVF+n+kijpjsOOB9JbdWhOe0gPrUVfukD9dTuyKYX6tFk0+rhDLT6FNurbAUoqCSk7R7cn6+NB3C+xB2XyaJuSLdk2vyI0ap0imS3aO6kTUNuHsJ7qcqAJ/EPBzx76i9i0SB0+q86Uu4Yldjusqbdbegr7JypKiokq+blPvjHnWhZ7M/+JkMxlsO1H4ItCVyR/LUvuIBKtoHB59hrLFY30i4KhS6hIZeVFdVHUtvISVA484/Lka7OUvSN3uWvqLUKhVuhdbnwfgwozsMgBhl1pYSlYTgJPAIIxo18EiW5J9LFbQ4lYEeO4yhah/cSHAd2fPuRn6g6NUUZ5IWDGkatjrfWKDZUW1xRaNOprDa2v6pDiitKiondhQH+RHtpBtuvv0OssTmmWZCG1cx39xbUn6HBzgfY5GNGjTKCebkZY1+oKvfHUVLZbvdTHVGx25G3aVBWffOcjUkrN1zqrW5tSkoZU9KfW+5tBCSpRJ45zjRo1oURfowj7dHXq4bitCXb0umUlqJJYDCnGkubwBjkZURnjyNGjRrQomFzP//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Feel Good Inc. (feat. David Jolicoeur, Kelvin Mercer &amp; Vincent Mason)</div>
+                                    <div class="artist">Gorillaz &amp; De La Soul</div>
                                 </div>
                             </div>
                         </div>
@@ -258,7 +260,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Mar 2026, 06:48:18 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Mar 2026, 06:43:47 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
