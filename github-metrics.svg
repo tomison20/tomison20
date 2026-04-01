@@ -30,12 +30,12 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -115,33 +115,33 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQDBQYCCP/EACkQAAIBAwMDAwUBAQAAAAAAAAECAwAEEQUSIQYxYRMicRQyQVGBB7H/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQBAP/EAB0RAAICAwEBAQAAAAAAAAAAAAABAhEDEiExEyL/2gAMAwEAAhEDEQA/APPttFtXPAY9zjsKke4ihQokQMn7Y5A84/dNRxbknEeHZUJXH5A+41STBg5DHnPNEv11kzerpEpunJOGNT2jybwYyc0kowe4pq2b0ikoIIDYIo4pCZt+ob+sG4xXSCimurbVYLyN1BVZY1kH9GaKx41fDseTZWyfSLo2etzRwxCZ/pHhSIj72K5xxz589qq72zll1NxfPDbTv7mjHAXIz2/HxTd/M+i9RTXEOPXjUmFiOxIwG+QOfms87M7lmJLHuSaCDuKY6caZudD6d0+ecSX9zDDZDarEOWcngHA8n/tWvWHQU9trMkeiPa3FkJHcQxThpUiBxlgQNx+Cf5WK6d1i60i7aSGRSJF2sjcg8gg48EA1rv8AR+pk16PQrW1Kk2MPpySoT7nOCxyQD38YpOuX6KvBm2FYmpelb19Z3lva6bNdW7wI0KxqsvtY7R+FPOMHv2oqk6kvDdzxZdnCoANzZwKKrba4SYq18Hddjj1CzguYSPUVdrDPI8VmHXaxB7iiipsPLRXPvTqGQocg4NPTXEKQRiE+8jnxRRVCZNKKbFp5fWk3cAYAAooorGMilR//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAMEAQUGCP/EACcQAAEEAQQCAQQDAAAAAAAAAAEAAgMEEQUSITFBUSIGYXGREzKh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDzNVowyaZNalsBs+9sVes1u58zj2fs0D9k4HnEN/T7NC1Zr2onMlrSfwyjsMfz8SffB/ShrTyVbEc8DiyWMhzHDtpHRH3W60jWImyaZW1Fhfptad1uaNv9p5O/kfw0NHrJ9lFc+rVClPft1q0DQZLEgij3ENaXEgAZPA7VovgZosE0ZAvi29zuOmbWFv8Au5bHVNdgtO1qJldramoyttsZtGYJuSdvpvye3HrafCg1+q6fDSgYwvmj1GKR8N2nNHtdC9pxkHyD1jsEHxhFUv3bGoWTYuzPnnLQ10j+XOwMDJ8nAHJ5RVFVERBnJxjPCwiICIiAiIgKem6BtyB1trn1xI0yNacEszyAfeERB1H1HY+jpdLe3QqWow39zdrppQ5uM85H4REQf//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Watch This (ARIZONATEARS Pluggnb Remix)
+                                    <div class="name">All The Stars
 Explicit content</div>
-                                    <div class="artist">Lil Uzi Vert &amp; ARIZONATEARS</div>
+                                    <div class="artist">Kendrick Lamar, SZA</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUCAwYEB//EAC0QAAEDAwIFAwIHAAAAAAAAAAECAxEABAUSIRMiMUFhUXGRBjIUFSRCUoGh/8QAGgEAAgMBAQAAAAAAAAAAAAAAAgUAAQQDBv/EAB8RAAIDAQABBQAAAAAAAAAAAAABAgMEESESFDEyQf/aAAwDAQACEQMRAD8A80bYIBMGauaYV1gzWgGPP8T8VYnGmUyk6e+1ehWRR8sUvSmxGhKtXNNScbmSBTtWM0ulKVJcHUKbkpI6Hf3qQxq4+w/FSuuFkexZVljrlyQgSzI3op7+XrSd0miieRAe4R6LYYUOETaKk9JI3py1gGyN7YfIpdgspcX1wgtWDy0rQeHdOK5UmOyR522NO1Xl9bMpRkHrVD6nEphuRKf9M0n0X398M2V5KedZl7nD/gMjcfpiWmXEXOwEcNfKvzsoE+K0pwCO1uCfcUzvrJu+dZU2lCzoW25xkzqSoDp6EEVUrJM4u1at7y8ZQppOhSyOZUDsPWPWl9WjQpNRNt2WicU3+CG9wZAJTaEx5FFd2Y+oFu2BfxLZuBuOHpOodwdvG9FNqrtDj5MMstCZj765Xa2DfBbcx1shQUw3qlbh7kz094rmxTtw3lX3bxOuZ1JeVI3GwmNjO/YiKKK7qKaJ6n1Hecna4Z62CbxTSFqLpbacK0iD+6ZmR081C9zmOv8AIpdtMch9RWNbjhOoFU82npA8n+qKKipj9gnJ/AuvMqcXmVshVsD9j2lCgFie0CBt7b0UUUSimUf/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcD/8QAMxAAAQIGAQMDAgENAAAAAAAAAQIDAAQFBhEhEgciMRNBUWFxwRYXJzIzNEJEZHSRobL/xAAXAQEBAQEAAAAAAAAAAAAAAAABBAUC/8QAHhEBAAICAgMBAAAAAAAAAAAAAQACAxEEIQUiMRL/2gAMAwEAAhEDEQA/AO3Ue+bop9+1uTka3NsSrMwUttoIwkYGhqFdIvS9KnNLZZuCeyltSyRxJ14AGPJOBEPqsD+ci4T/AFJ/5EVZC1ozwUpOfPE4jUpjGh13My2VL9/JpCK5fTSfUqd1Gnta7nXkKP24pBJMKZ/qBcrTiEyd01CYHHvUWw2OX0yMkffEV9F6TkmhimyzTaVpQOD4Y9RxsfRZ/V3vQ1C55xbzy3XVFTi1FSlEeSfMFKCuwje+tamjdPb6umfvqhyk7W5x6VemUocbWRhQ3o6givdLx+kW3v7tP4wRLyahY0SjBZa/ZP6mSb011BuVcu0p0MzJ9Thvh2g7+NRTw2Nxp10y0+z1YrC1NNt0115aiWdl1ZSkAr9wQNDyP8wgvFLzL1ORKolmmnng2pbjOSlf8IyPAP29oKc78+qRyePbe1WSH7Jpi7SXWUiZbqUrLJcylXY4lSvdPzj3BxFLDJxnicRrtLqUs3a9ZZn0OKl5OWUy7rBUkFR5JB1jicxTZ71G5SRdbkmJmnqUnmtlJU4lkpB5Hejn48Q4+WU+m9wy8O2R9XWpx6ZN46g0A4/m0/jBDPpmiVm70oUzJPo/e+5pR7gASMgnyP8AftBBny1uiTnDivQSxGPUO1bvnb3rM1ISFSelVTXJoIa7FoASQQrO9gjERfybuZbUsiZtmpzDQ/aIW143oed4wDnWDBBEbUmiWSNJi1bheptQYYpE+hc40pLinGjsK7eIGfIGfv8ASFooF2UigtylJt6puzDaPTQXGPAxgA7wcQQQoPUCybkjpnaVfZuejztVt+fkJlqeDrrgYw3xIOSTnXwfnR9oIIIQnK7n/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">HIGHEST IN THE ROOM
+                                    <div class="name">Young Dumb &amp; Broke</div>
+                                    <div class="artist">Khalid</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwEAAwEAAAAAAAAAAAAAAAQFAwECBgj/xAAsEAACAQMDBAEDAwUAAAAAAAABAgMABBESITEFE0FRYQYigRQVkUNxodHh/8QAGQEBAQEAAwAAAAAAAAAAAAAAAQIAAwQF/8QAHREBAAMBAAIDAAAAAAAAAAAAAQACESEDEjFRYf/aAAwDAQACEQMRAD8A+fO1bQxRSNMJpDgtENsZHv2DWU8kOs9qM4YbjGMb+N/VNWsyG0uXuMOShVdgW1eN/Xz+K6F1FxFJbxqrKOVIwCBjzQsoOTC3MCTEyqXVkbCjlW8Zzzjmq9507p0CQ3C3GqK4R2RdJGlgAQvPv7fXzU2bsvDEGBS4DEMyp9pX2TnJOf5FMCKWKO5iEAfKqQyrq2xsc+M8/wCqdCBVfiNz9NiH0xJKEgE8FxiSYSscqdlAAGD/AHz4oqPIpWAjQwK41bnb8Giq2GM3tezb3kHcjSSMOpdXOxGfPxW/XpLWa5Y2ccSwqP6bHckk53/ilLaTt3CzSDVpYMMrnJHjHqqPQ7GPq2qJpBDLbqD3CAVZcnII8n88VHp+zkvbqBJgkDKIIIyGeTI1HO2MAevJpq2nuLAXEZU6s4PPPsU9b9HDT3t3Z3cEi2ZEudwAvIJGOM7YHGc0jDJPKAv6oa0YlEZSQTtjSfnHxxWa6Qrdq6TjvSXHT7ma41SOWVe4+58bZ/FFUZruaH6Ye2urAiW4lMi3RUDY4yvG2dOdjRQh9zWVwyRbeS3NwBdqzRg76Tg/9/xW9lfT295NP0/VD3dSmGMnOjnnHjHNFFJyD1jEkrfpbZHjeNG3aRmIDIxzuF2x5+cUrA8Ud59uprdGDHQxGsA7/IGPyKKKleSmpPW9Q690fqUaWn7IbdYdRGm6eTKgEbA8UUUV1/JZ2eh4aVa9J//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Surround Sound (feat. 21 Savage &amp; Baby Tate)
 Explicit content</div>
-                                    <div class="artist">Travis Scott</div>
+                                    <div class="artist">JID</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAQEAAwEAAAAAAAAAAAAACAAGAgMFB//EADIQAAEDAwIDBQcEAwAAAAAAAAECAwQABRESIQYxQQcIExRRMmFxdIGRwhciQqFkscH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQAAf/EACURAAIBAwMCBwAAAAAAAAAAAAABAgMEETEzwRJxEyEiIzJBYv/aAAwDAQACEQMRAD8ASHgAdK8CzcUwLlxVNsLLbyZUVKjqWnAXoUErx7gSnfr9K0d2ceYtsp6KkKfbbUtCSPaIGcUSuJuJZ8y5S7mxLei3eS8rJivKaSWcDQAAeWwPvI33qerV8NpF9paO5bSYunWh4DuR/E/6oATrXBL10Rc2nzOcQjySm1gNoXvqDoO42HQc9jTe7PL05xBwFb58iQ3IkrYKH1oGAVgYO3r1oRcR3tuRc3C46lp0pSl9SidQIHtIwd8joeSt+RrsnnDQHQ405Rf01yKru8RVt9mzCXE4V5l38aq9Du/y/PdnqHsFKDKcShJOSlICQB8cf3VXYL0rIFy/dlk3E+VIbgyHITIelJbUpptSsBasbDPxog3qyXefer3dY8UOtMugvMNZS4krJJCWhuADnPpS/B299Zi88Mok3ONPQpKJaT4YW2jSVAgj9x6gc96XWg5eaG2dy7d5WpkO70mdbuFLvHmKSWBJJYQOaQUAq/sj7UOuKG9V3fWByIBH0501ey9nysCe3JeSHnnXfDbWrClpQAkqSDuRnqKFPEqlpvr+gkDbOPTFai3hZDry6ozl+lyNLu3u6OzFgf5Tv41V193PH6aMfNO/jVTYaIRdb0u59ISrlXPXVVRE5j7RwqLbept6mShPujzKmRIW3o8JrOQ2hIOlI9SBk9aC/E6ii+yNPM6ftiqqgXyKVsS7rkZXd5Ons3Y+Zd/5VVVWjogbvekf/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAQACAwAAAAAAAAAAAAAAAAMCBwEEBv/EADEQAAICAAMCDQMFAAAAAAAAAAECAAMEEUEFEgYTISIjMTIzUVRyktEVYWI0QlOxsv/EABkBAAIDAQAAAAAAAAAAAAAAAAABAgMEBf/EAB4RAQACAgEFAAAAAAAAAAAAAAABAgMRMQQSIVFh/9oADAMBAAIRAxEAPwDQ/R101lqQ5YE5liNT4GY8bV5Zfc3zOLe4o6uyf7MlOkxL8bT5Zfe3zHG1eWX3N8yEQ8Bc8W9TlawjKARkSdfuYmNPc3+ka/kIgF0qS6vDpZiEoG63PsBI7R8ATPZ/W9lMUSzDcH2pQV5oKHTfKqynnCveGeYJ5esD7zw1w6DDnxVv9GRld8UZOZTrftbQp4RcG68NWjbM2A7V110gmt+fu/ubos8znykEEkajknRx23Ngtg3qwuA2SjgOi2BCTka9xWOdXKQwD6eGs17ErjpaxO9ynOefUO21a1V4la7kuXdXnIDl2h4jOJKn9Pic8uyun5CJprH1VyMyPTSu/kyAg9Z1JmJRP5h7TERBzxdeXfDP0n4gV1HrvUH0H4iI9DSnRV0XBbg5cAABSNQdRERET//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">24K Magic</div>
-                                    <div class="artist">Bruno Mars</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAcBBggCAwX/xAAyEAABAwIEAwUGBwAAAAAAAAABAgMEABEFBhIhBzFBEzI0YXIIFBUiQlEjJCZxdLHB/8QAGAEBAQEBAQAAAAAAAAAAAAAAAQAEAgX/xAAcEQACAgMBAQAAAAAAAAAAAAAAAQIRAxJBMVH/2gAMAwEAAhEDEQA/ANHSn3kyHAlxYAUdr1UM85y+CQH2YmJR28YshTTL67ApKwFHcgd3V1G9WqZ4t3b6jSC42p/WiP4jf9qoYo9uLxUzIGl9uMBU7cqH54gW1bJBHkbXIHd632vOSc4/GobTUvE4y8XV2ji2I6jZCAs6RzI7um+53rMmXHXcaclFloBppRF7ch9zTL4Mo0506eGc/wAohJStLhNOPqH3GkPqktJU6spKgDc86K4RfFNeoUV0BMw2lO+o0gOOLiW83FSlBIENG5PLdVP+Z4p71Gsy+00vRmLmAExWVHz+ZW1EnSOoq2UzKMiRHwSXMbW2gR2lJda7qn09CT0IPXr182BwFxpmfnksoQtDgiun7jbT1pIYVjJw/Eg6Ua4606XEHkpJ23FOf2fIbTfEF6UwsrivQ1mOU7i3y6gr7K2rPjuEnfTdlSy41XDSkW/vTW31iipi+Ka9QorSeedsph5Ul0pbWQVGxCapGc+F+BZymolY9DmuOpQEfhPKbFhe2w/c0UVEhZyeCAVGKhle7/aaUpRPXbRY7m6hve1MzJPDPB8oviVg8Sc0+WyhSXH1OJ3tfY+dFFWqHZ/S6xmHhJbKmlgBQNyKKKKgP//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Pink + White</div>
-                                    <div class="artist">Frank Ocean</div>
+                                    <div class="name">Music Sounds Better with You (Radio Edit)</div>
+                                    <div class="artist">Stardust</div>
                                 </div>
                             </div>
                         </div>
@@ -259,7 +259,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Mar 2026, 06:57:50 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Apr 2026, 07:18:31 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
