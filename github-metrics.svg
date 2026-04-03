@@ -32,8 +32,8 @@
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -115,33 +115,33 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYDBwQFCAH/xAAvEAABAwMDAgMIAgMAAAAAAAABAgMEAAURBhIhBzETFEEVIlFhcYGhsSPBMpHR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AKbvXT9yP4k2HIa8q8d0aM+v+ZSCeBhPc49eBUMfp/qSa0nwLb4Kioe8t0EY+PHI/NWZH0ulp4XOVdNjDjaUj+Lcr5Ac9637kWW66w6xc5HshLBW62hIQ6oj0yOP3QL3TzpZcYLxlXWa2NiSTHZJUhxWDt3jHPPoOT8aStUSGYso+Qusae0tSh4ZhqQWseitwH7NXNcNU2zp30w049cosqRcpraltFs5wo5V7ylHsAsYHyqmdLahGoeozUrUnlJbU1C0pjqQnw0KxlKcfjPcmgUJ85t4FLkaKCSPeTlJx96K6FjaH0TfboiBIsKmJDwUUuxX1t7QBk5GSPSig09zguLjNKZdJXGO0IUrgoPYj5/usBi8It9sm28ur85NcDYOw4Rngj48jPOKXEdS7RHihCGZjqwMA7AD9M7v6rDka4a1FaHWFiNBuCFBTbiwEbuCP8kgD19QPrQP3Xi4tXbRERuCnMVkNeESoAEDjIz9R86ozT1lus+5R02uJIXKQ4hSFITwkhXdR9OR+Klnyri5BZZluyjCUsjY4olBI+HOP9Vt+md1asusYq31qQw6hbS92QO2U/bIFB0LLbkaft10vEoBCm4LqWSg5PiKThJ47fWiqpjain6n05cFOoDMpbhbEdpR95OUknaTn1/5RQUnTHpKyKvnm2mnUNuNhKwVd8cg/wBUUUEmpNMXGzxEPvOJcj79o2E8HBOcfavNLt2qTMT7cmzWdqfdLSN3I4Az37fSiigcEwoEqzx1W5B2+Y2hW1JUspyT4hVn1xwDgZooooP/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGAgQH/8QALBAAAQMCBQEHBQEAAAAAAAAAAQIDBAARBRITITFRBhQiMkFhcSOBgpGhsf/EABoBAAIDAQEAAAAAAAAAAAAAAAIDAAEEBQb/xAAbEQADAQEBAQEAAAAAAAAAAAAAAQIRIQMSMf/aAAwDAQACEQMRAD8AW9pJOI4Qpl9D7ao775aAKDdG+3Ct/wCVxKxp5ICHi1qaiAFA8JI8Ry57k325q/XBZmYW+1IZDzeZaigj1BuP7U4/2WuhLpisM5vqAWJv4rAi3268g15yFLnqO3vcMYdKZm4SHVKW5JQzqPoir1C2f3YD3JsK5IqJDjLLr4dYDrYcAcUL2uRvY7cfo1iSxGwRzEYbS0xpnd3G9PyAqv5FE7cG/T3FZ7NZm4KW5as0xRuuyrk8gAW9LDj5pj80obSKT6ZmsjIcq1lWYAnNcHeimM9kaIOXhSf9oparg0r8Pmw9F57VaSUqVc3vyTb3ruTLw955D5VGdcYCpCSrbIUJJzcelr15vgStTGkrJOkGl50gHi53/Zp1iDPd8NnvwiC4uOptxCwT4Vc/yjlfLSEUkeTGc4/iEx6Slb7yyTmKz5yblR6nmr2JLLcbDMUhwS3CjsLakBChmzi1lge1/SlbmCSprEWdGjaiXgtNmxuSmxO35UwwJqWphyGpiSEXKVp01cEb7da1etc0HzS3rKRlqJNw9lanLvvFJUALG99/mipKEl1uaUuOKUEJSlKSeBccD04orDU9HoMDU+ziRkMpzjLlKeovVUZrjyTnZDZsObn7EW3ooo7/AEFoVw33MJmFMZwuoacUtLZzJyqV5rEG44Fdy+1MsI+nHWXjcqcC7EjoPDt80UVPtvNIoQgdU09Mbf7tJbeuApTjwWLfASN70UUUVW6elqFKw//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Victory Lap Five
+                                    <div class="name">Low (feat. T-Pain)</div>
+                                    <div class="artist">Flo Rida</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAIDBAUGBwH/xAAqEAACAQMDAgUEAwAAAAAAAAABAgMAESEEBRIxQQYiUWFxExSRoRWB0f/EABgBAQEBAQEAAAAAAAAAAAAAAAIDBAAB/8QAHREBAAICAgMAAAAAAAAAAAAAAQACESEDMRJBUf/aAAwDAQACEQMRAD8A5aNtsoDJCSerNCrEn3JFRZNhRnLWFz2VQB+BWlKhlOMUlPK1iL+h9a01fB6mxDkM+5mn2dBa8Yqt1ez+e6KARnpW7ZFc9Bao82kBvgW+KopY2SSHyc63Bp4x9ORYAp7rAin8gXorWbhtSyA4/VFZnhrnWoGsv1NeP0J9KBa+DT30SUwym/vY1TslKqOSWWj8Pbtqtu/kdLo5ZNEFLGXAAsbHr8VXI4cgDNT5vFO5xaGPRJJJJpIbGLTE8EUheObZzb4vVJtLFdCn3BJlLNI9uiliTYd7ZtXhZHDFuyskSxq3oDRS9MyzngWDPixXOPf+6KemGRQc4F70+kicwEHn7i/x2ooo1hIl+E93ilvwazcWvxPcEH27Gl6SGASSzkySvxukasEBxbJPwP3kUUUOauaMrRxYZHjkvJLFJDKLEq1xxvn06g/7RRRXGwWTZ//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">The Less I Know the Better
 Explicit content</div>
-                                    <div class="artist">Fred again.., Skepta, PlaqueBoyMax, Denzel Curry, Hanumankind, That Mexican OT, D Double E &amp; LYNY</div>
+                                    <div class="artist">Tame Impala</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAQEAAwEAAAAAAAAAAAAACAAGAgMFB//EADIQAAEDAwIDBQcEAwAAAAAAAAECAwQABRESIQYxQQcIExRRMmFxdIGRwhciQqFkscH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQAAf/EACURAAIBAwMCBwAAAAAAAAAAAAABAgMEETEzwRJxEyEiIzJBYv/aAAwDAQACEQMRAD8ASHgAdK8CzcUwLlxVNsLLbyZUVKjqWnAXoUErx7gSnfr9K0d2ceYtsp6KkKfbbUtCSPaIGcUSuJuJZ8y5S7mxLei3eS8rJivKaSWcDQAAeWwPvI33qerV8NpF9paO5bSYunWh4DuR/E/6oATrXBL10Rc2nzOcQjySm1gNoXvqDoO42HQc9jTe7PL05xBwFb58iQ3IkrYKH1oGAVgYO3r1oRcR3tuRc3C46lp0pSl9SidQIHtIwd8joeSt+RrsnnDQHQ405Rf01yKru8RVt9mzCXE4V5l38aq9Du/y/PdnqHsFKDKcShJOSlICQB8cf3VXYL0rIFy/dlk3E+VIbgyHITIelJbUpptSsBasbDPxog3qyXefer3dY8UOtMugvMNZS4krJJCWhuADnPpS/B299Zi88Mok3ONPQpKJaT4YW2jSVAgj9x6gc96XWg5eaG2dy7d5WpkO70mdbuFLvHmKSWBJJYQOaQUAq/sj7UOuKG9V3fWByIBH0501ey9nysCe3JeSHnnXfDbWrClpQAkqSDuRnqKFPEqlpvr+gkDbOPTFai3hZDry6ozl+lyNLu3u6OzFgf5Tv41V193PH6aMfNO/jVTYaIRdb0u59ISrlXPXVVRE5j7RwqLbept6mShPujzKmRIW3o8JrOQ2hIOlI9SBk9aC/E6ii+yNPM6ftiqqgXyKVsS7rkZXd5Ons3Y+Zd/5VVVWjogbvekf/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQDBQYCCP/EACkQAAIBAwMDAwUBAQAAAAAAAAECAwAEEQUSIQYxYRMicRQyQVGBB7H/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQBAP/EAB0RAAICAwEBAQAAAAAAAAAAAAABAhEDEiExEyL/2gAMAwEAAhEDEQA/APPttFtXPAY9zjsKke4ihQokQMn7Y5A84/dNRxbknEeHZUJXH5A+41STBg5DHnPNEv11kzerpEpunJOGNT2jybwYyc0kowe4pq2b0ikoIIDYIo4pCZt+ob+sG4xXSCimurbVYLyN1BVZY1kH9GaKx41fDseTZWyfSLo2etzRwxCZ/pHhSIj72K5xxz589qq72zll1NxfPDbTv7mjHAXIz2/HxTd/M+i9RTXEOPXjUmFiOxIwG+QOfms87M7lmJLHuSaCDuKY6caZudD6d0+ecSX9zDDZDarEOWcngHA8n/tWvWHQU9trMkeiPa3FkJHcQxThpUiBxlgQNx+Cf5WK6d1i60i7aSGRSJF2sjcg8gg48EA1rv8AR+pk16PQrW1Kk2MPpySoT7nOCxyQD38YpOuX6KvBm2FYmpelb19Z3lva6bNdW7wI0KxqsvtY7R+FPOMHv2oqk6kvDdzxZdnCoANzZwKKrba4SYq18Hddjj1CzguYSPUVdrDPI8VmHXaxB7iiipsPLRXPvTqGQocg4NPTXEKQRiE+8jnxRRVCZNKKbFp5fWk3cAYAAooorGMilR//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">That's What I Like</div>
-                                    <div class="artist">Bruno Mars</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcCA//EAC8QAAEDAwMDAwIFBQAAAAAAAAECAwQABREGEiETMVEUIkEjcRUygZGxM0JSYcH/xAAZAQADAQEBAAAAAAAAAAAAAAACAwQBAAX/xAAdEQACAgMBAQEAAAAAAAAAAAABAgARAxIhMRNB/9oADAMBAAIRAxEAPwDJbJpW4WV96RHjRrhdWW+o3GI3bE5wVEZGTk/l445pmlJVbLVBjaz0lGbRdkqUmQw5tLXOASk5AVxwMg1YaveRbL8qRbjFTIiLHXCmirahQ929GfcSR3z8gVD01qlNohPwIXRU7OUFJkIddW22nJz9NwZQec8E/eoSxbs9VcaoKBmKXNCYt0kMNnehl1SEqPcgHApjj6anT7C3c0ORmmXV7EIedCCrHcjcRn9K1PW9ltWlrW0/o2LAenv+91+c31XFk8/TKgW+Tn2jmkC33VvUzDCtQtuSEM/T3eo6aEqK89uycpOB2GRTvoStiTDAA+rfsXrhptyHH3GVFdlbsCOw4laseTg8UU56yuGn1wpkyy2NiG5KaCBuf6i2sZSeAdvOO45896KJHZhcDJjVWoTvWlhnS7whNrU9hpnphLoIdVzk5/yJJJOfv9urbZJlvszs2XEu0manqR0sR8BTA6RUkqwkkgnGe2B8mtduGo48xqI8xGjvdM7nHB/UHjbjng8/9pYL8F3WNtkKKvTOSwlyOSopUlxvZwjsTlXJJ4HFLUNdGNd0IscMTY9hjvPQ1rukpMVwRluQsnYTgFWDnjKh3HYqqM7o1cOPep8JxTcNXT9MwoblPH+7t4J47E/A4pytEiN+Bwos+8usuOR1I6AWG0hG9QQMAbUjCfPH7VWTL2LcuVbo6mnlMvMh0OJSFuAbyTuA9w2rSPH80bihyJQ2RcVtHWheqJ3oLu5KWwUlsFJJKFEZHJ8YzjtRWoSp9qg2xiVAUlUv6a1bl8rCsE5xjdxxk5x5oqcu985H6qfezEIOp3Yak7jkYzhK9v7kfxipTutVLSAWz1B2c6pyD8H70UVdUhuVq9USFTN+cI2BGB4FeaL/AB0r98IrV8qDxT857AfpRRWaj2FuaqSzKsqbS5JjvuMXJJIQxsKhjIH5z/rmiiiuKiYGM//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Shotta Flow (feat. Blueface) [Remix]
+                                    <div class="name">Watch This (ARIZONATEARS Pluggnb Remix)
 Explicit content</div>
-                                    <div class="artist">NLE Choppa</div>
+                                    <div class="artist">Lil Uzi Vert &amp; ARIZONATEARS</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAQFBgEDBwL/xAAvEAACAQMEAAQFAgcAAAAAAAABAgMABBEFEiExBhMiQRQVUWFxgcEHMkKRk6HR/8QAGQEAAwEBAQAAAAAAAAAAAAAAAgMEAQAF/8QAHhEBAAICAgMBAAAAAAAAAAAAAQACAxEEIRIxQVH/2gAMAwEAAhEDEQA/AOWWFvDawu0iu2OeF/enfCt9puteKLPSJpHs4J2KtduBtTCk9Ej6VjVg0DRhXYKwOQKT1CaaPUNPSOSJLc20bFSqZZizA9jJ4GKr5FmttEbwgcQjrc6XqX8O7W1b160khjKecsSKdudu4AlsHk8e5AJAPVco8QyLpOsXFhIxmCO3lyx4Kypk4YYJ7Az3TE1xqc0dyLq8BmCMyys8bjhuBkHg+3NV/WFuoZreSK4ilhKKxI2j1E9fnHFTWWV0v+sZtriN5924BMdniioZGdri8MYORIcKozRQjCtkPsvfiWYL5HPODSTavp002lJc2vxUdrhZ/R7eo7c945ByOj1Vc1LU3nfdNdFpACAgQYFabfVrq3sp4reUKkmM+kfXPf1yKo5GUvdSedw8bTCVs+pZPi47CK18iS9siwZLuUhZP6hxHj7Z3KeR+a0XgifRPMW3knt1kKmQOoKEcKSoORyf7VB6nqCC3jM0S3Er7ZNzk4BwR0O+B+KybqzgSBLa5fDRgSYXaM95IB79v0pO/I7jCzW/UsfgxvDI0TXn1iSb507t8DsDbVP3xwc/eiqSkywzttlG0tnIHH/aK4dfIfkPe2eTHItyJoygYMGAPPPf61NL4k1JEzs05n3BsfCRjOPc4HvRRTGpI62SI32qTtIdrwvGP5cQhQD3wPYZJ/akvmU5I9MH+Fef9UUUtIe3cVkYySs5ABY5wOqKKKyZP//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYDBAIFBwj/xAAqEAABAwMDAwMEAwAAAAAAAAABAAIDBAUREiFBBhMxB2FxFCIygRVRwf/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABcRAQEBAQAAAAAAAAAAAAAAAAARASH/2gAMAwEAAhEDEQA/APLrW5IGN1IIiQdt1PQRaqqMYGdQ8pj/AIn6itZHCwap8YaOCpuhWbC8gkNJA84HhYkHlNd5sF4sVNHUSwBtHVRtLZC5pyDkD3BVaps8sVPE+SJ7dbc7tIyP73SrC0fhCs1EHbJz4Qqi9aWNkrIwXANzk6l0PpqojhmYxzWygyBxcR92NufI/S5jSSaXg8pmork+FjpYQDMBncrO4p7u9PeOs7tRWW2xA0dA4xRho2DiSe49x2HkgDPCm6qopZvrZJJg+GF5hpafmNrfyJ+Tnb2V70h9R5RHc23BtL22tYY2tgAdjJG55/e/KXvUrqLuXmevhz2JnADQANPtspCud3iMRkgtLShQ3KpFS5xDjn3QtDVxu0q/TVBDh5xyhCI21nucdshlaz8piCcA7AbAbLC5VjbhT6W5yPu2/wBGUIVJ0vbscQ4HPHwhCEH/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Midnight City</div>
-                                    <div class="artist">M83</div>
+                                    <div class="name">starly (Slowed)</div>
+                                    <div class="artist">LONOWN &amp; riserayss</div>
                                 </div>
                             </div>
                         </div>
@@ -259,7 +259,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Apr 2026, 06:54:51 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Apr 2026, 06:56:43 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
