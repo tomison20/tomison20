@@ -30,8 +30,8 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -42,7 +42,7 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -115,32 +115,34 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBQYCA//EAC4QAAEDAwIEBQMFAQAAAAAAAAECAwQABRESIQYHEzEUIkFRgSNhcRYyYpHRof/EABcBAQEBAQAAAAAAAAAAAAAAAAQDBQL/xAAfEQACAgMAAgMAAAAAAAAAAAABAgARAwQhIkETFYH/2gAMAwEAAhEDEQA/AFbbeU1zm8APcTw3X3JbM7wyYTLBWojAOvUO2M+1PPgvltNkWyz3G7vxlJejpekxlgtqbyDgqyDtkY7UoOG3rlKektQ73NgJbTqHSeUNSjt2BAphcpr67crdOZvUl6VJjPdJTjrylFSM5TnftnPzvVm3BrWF/ZdNcuAZq+K+XL8ibIl29VvgR1uKQllJWQkp2OAE/Y/5Vwrhm5L5dx7D0mS8pWpvypUNZOsA7ZQSnJ1HG2x9qh3OVHMYrdW46pCitvW4pelRIJIydjkZzWS/Vl/gcUstu3e8yIs5IHSbOpLSgoZOcEjYjYbH1qf3AelPqdDQZeiKHi/lndrBb5V7cTbptqbklp12DJDgZUTslQxkd8eoorY8z+ILtdYM2BLRObsqFqfGlttpDqu6FLCUDJJxsSd6Km2dWNrOTgINVMRwaGVTw684UoR3SFYyR7n0rd8ACKq63xy3pU1GWpCg2pYUU99sgkH+6TUOU9HccWy4Ukd/Y/mmBy2nvKjzJr8hGXFhvpl1IOAM5AJye/4o+1jZySIrXzIqhTyNC4vqbS4pIUUtpC8k4Se/r9sVRvXmb4KfMhOMsyG2xoKV5wkncnGxI7437Yqqn3Rz6zSpCRlGd9++3b/dqqESrfFQ6nxheccQpLgaQCk/1t/34oSauQng7GfKt8Nzi/35+4W5i3POh10/uKScK/kQQMH4orA2+T4a5OpLgabCifN7e35oqzYGQ0JNcq5BZNSe9wbPVZXbmw/DebbZEh1lDv1W0HfJTj0/NT7ZBk2IuRbklCFr0uJCV6x5kpI7euCNqKK18B85na/i4Ika+paXkeZp4b40kZH3Fe1tfgRVx0v6lRtaerpI1KTnfGds4oopYa7MaMhazLO7ucDOQJXhG5njuivpklO68eX4z80UUUAjszPc/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAMEAQUGCP/EACcQAAEEAQQCAQQDAAAAAAAAAAEAAgMEEQUSITFBUSIGYXGREzKh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDzNVowyaZNalsBs+9sVes1u58zj2fs0D9k4HnEN/T7NC1Zr2onMlrSfwyjsMfz8SffB/ShrTyVbEc8DiyWMhzHDtpHRH3W60jWImyaZW1Fhfptad1uaNv9p5O/kfw0NHrJ9lFc+rVClPft1q0DQZLEgij3ENaXEgAZPA7VovgZosE0ZAvi29zuOmbWFv8Au5bHVNdgtO1qJldramoyttsZtGYJuSdvpvye3HrafCg1+q6fDSgYwvmj1GKR8N2nNHtdC9pxkHyD1jsEHxhFUv3bGoWTYuzPnnLQ10j+XOwMDJ8nAHJ5RVFVERBnJxjPCwiICIiAiIgKem6BtyB1trn1xI0yNacEszyAfeERB1H1HY+jpdLe3QqWow39zdrppQ5uM85H4REQf//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Sexy and I Know It</div>
-                                    <div class="artist">LMFAO</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYECAMFBwL/xAArEAABAwMDAQgCAwAAAAAAAAABAgMEAAURBhIhMQcTIjJBUWFxFIEIkbH/xAAYAQADAQEAAAAAAAAAAAAAAAABAgMEAP/EAB0RAQEAAgIDAQAAAAAAAAAAAAEAAhESIQMTMUH/2gAMAwEAAhEDEQA/AKuYqXBgPzVKTHRvUkZPIHH7rElH3TJp2K2q1znVubFkhKcjPQZ/fPFM71T5g7ZfTGCZIakbm8K2rGPEn3496kXREYd1+LGUykZBKnd6lffAx+qmptF2nRpl5bgSXbew6EvyW2j3aFHoCocD6qO+UvR0lW7vE+mABjp/tLraMfYgh8bUFPHTiis60YJoptQMqShvIPtTVoP8FV1t8e7yVx7c7JSmSsDyt5G45HOccUtpyDxW+0fbZN6vVutsFsOSZUgISPQDjJPsAMnNHM6o4qtZ/tBXb4WnX9LworMSyyYRZiRktFLi38ghYI5KehJIJz91Um4Q3YU1bUhvatPhVt8qvkH1B967r/IK+Sla7XHtKFFmLFj7SSMZyTx8HASeeorml7Sq62iVJkoRGnsrLqW9py5gneEpA8OM/GRjNZ/Go92ryY7OpLdbSASM5orwtwqI8Q5oq9mN1rdQaMt8a8OxrJpCE9CCUhLgtinuoG7x96M/1T9pHs00vp68m7Wq2Fie2go4dJSjI8W0E/NFFNrf24/LfytM6euDjzsmzQXX307HHVsAuEYx5yM9PniuexuxTT7d1bnO3Ga9b1OKWqE8BtUFAJCN4wccD5PvRRQcSPNmEdn2iIdyenNaetgW80GVILQU3gYAwgghJ46gAn1ooop+JScm/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">NOKIA
+                                    <div class="name">All The Stars
 Explicit content</div>
-                                    <div class="artist">Drake</div>
+                                    <div class="artist">Kendrick Lamar, SZA</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAcIBQYE/8QALhAAAQMDAQcDAwUBAAAAAAAAAQIDBAAREgYFCBMxMmFxByFRF1KBFBYikaFB/8QAFwEBAQEBAAAAAAAAAAAAAAAABQQGA//EACMRAAICAgEEAgMAAAAAAAAAAAECAAMEEQUSITFRBnFBgdH/2gAMAwEAAhEDEQA/AKf2jOjbNgvzJ77ceIwgrcdcNkpSOZJqbtd7xEx2S7F0ZEbZjJNhNlIyWvulHJI83PYUb1WsHndpRdKxHCmM0hMmWEnrWehJ7Afy8kfFIFhGSu1anieIresXXDe/Akl1xB0IwUer+vlP8U6gdve+PAax/rGmNoT1/mIkNxtZRW3Y6jYzYqMVI7qRyI8W8GkPHUxe2f5t7VoKi2A9hTlvF4ty9LIB9djJReynzLx2fMjbQhMS4TyH4zyQttxBulSTyINFT9uz6oeY2hJ0xKcKo7iDIiAnoUOtI7EHK3yD80Vhc/DbDuNR7+vqI12B13FZ6+8X6uah43PiN43+3hIt/lcKyqzajY+xB9vY0/d6vRzze0Iuq4bRVHcQmNMKR0KHQo9iDjf5A+an1lzBVbXjb1txkI/A1IrVIYzYZcdxuEyM8r8xbG3i97/9rVjm8JvK9zc/isKOtnIK4Yv/AJXuMvIc6SXQ8SZgTO/9GM/qnsHg883L2+3hLvRXabsulnn58rVEtspjtoVGiEjrUetQ7ADHyT8UVifkF62ZWk79I1+4liqVSUFtCFG2lBfhzmG34ryChxpwXStJ5gipt17u6ym5LsrRUttyOo5CFKXipHZK+RHmx7miijcbMtxW3Wf5OroG8xfJ9HPUBL/C/b7nO2X6hrH+8qY+g932auQ3J1nLbajpNzCiryUvspfIDxfyKKKRv5nJK9IIG/U5LSu5Rmz4cfZ0JmJCZQxGZSENtNiyUpHIAUUUUGSSdmUT/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAIDAQEAAAAAAAAAAAAAAAQFAwYHAgj/xAAtEAACAQMDAgUBCQAAAAAAAAABAgMABBEFEiEGEwcxQVFhkRQVFyQyYnGBsf/EABkBAAIDAQAAAAAAAAAAAAAAAAIDAAEEBf/EACMRAAICAQMDBQAAAAAAAAAAAAABAhEDBAUSEyFxFCIxUdH/2gAMAwEAAhEDEQA/APmylKz29rcXO77PC8m3z2jOKlhKLfwYKVL+7rzB/KzcftrFPaz24XvwvGG/TuXGaq0Xwl9GWO5tl0+SB7FHuGbK3PcYMo442g4P9j1pUSlWCdh6X8HF1HQ9P1m86mtNOjuVR4Y5rcne5AYJnd7euK06+1OWzupoysFwQ/BAKjAPl8/zXX+l/Ebo38O49J1m9RL+2sVS2V7aRwk6xEA5AxnJ884rgclzbiDMbN3WJLDFJy4Y5H7kP2/ctVpovpurNl6flk1aGZR22vF3kR9s8oFyeQfPj2quttWeFRHDaxYiG1csRxxn/K9dIdQLpbXEEswgguI2R5VTc2DjcPoMVU6lcRGJhasp7zliMHKLngZNI9NDk1XY6S3rVpJ8+/hfhBKhy7ZOTk4pVlpmoafa6LqcFxpve1OfYLa77pAgXneNg4JII5Pl7etK2JHFlJydsqKlWMMEjbri4iiQHBVi2W+RhSKUqMKMqdls0WjvtQzQJGq7Q4aTexySSx24PHHAFVV9DBE+62uY5Y2PCjduUfOVA+lKUKjTH5MznFJpLwiJSlKMzn//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Follow God</div>
-                                    <div class="artist">Kanye West</div>
+                                    <div class="name">Popular (feat. Playboi Carti) [Music from the HBO Original Series The Idol]
+Explicit content</div>
+                                    <div class="artist">The Weeknd &amp; Madonna</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAQFBgcCA//EAC0QAAEEAQMDAgUEAwAAAAAAAAECAwQFEQASIQYTMSJBBxQyUXEWJEJhgpGx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIEAAX/xAAfEQACAgICAwEAAAAAAAAAAAAAAQIRAxITIRQxQYH/2gAMAwEAAhEDEQA/AOYtw4X6RacFbVLR2QtyeudiSlzfgoS3v549tnIOc6tWcKgVIhBUOkZ/dOtxwzOKkyWQ0otqePcOzK9gzlHk+McK1kvpNTLioEW1gWMXDjUolLzbiQfV3Ufx9vGdSOs0ZcaWs0rhPBeryAXOMgrQPpOD9h/vTwyRl0+mbR/g5cVFfMnuNQo9bGmqrUuqjxZYLLcjvAEJWpZBPb5I3HBJ1mY8VlFbb99LPzLIbDeVjcD3MK24Pq4+2eNFdXuWEtmNGQlTzqglAJAGfydVa/pK2sbN6tr696VNZJC22UbynHBPHGOfPjRbQ3G62ropWEWn/Rri241U2tLMdUeS3K3SnXTt7qXEbzgD1/xGMDB50ai2VLLq5L0Swiux5LRwtp1G1ST/AGDo0u46w39NTD6NkzoBlWJfaTGSlkIgxA64keStYRwoDnJKgrSLkiqZeMe+fkXCUNJbhPhamkMjkesFO4gcHAz9s61fTVzZx56kSKymZLi3UvFUF2OpkZIKS4yB6TyOCR5B071pIrm57FfV2aYXaZ2NrZccfbT3OVICXE5Ax7hWAdRby2pm6MrE6fkx5MCzpEMLiOyUx2ltulYU4QCQQQFJ4PuPxro1Wq06HvpvUEl15TT0p+slllndsKdhQQSR9RPGft76X+Gf76+fqVShLW1IizGnduzulpQQvAPP0LJ/x1X+NQlBifEiF31XeS2jOFlTDak/k5BxrovEpKn7aKsVOHH89mQ+McV+X1i9IUiVvfZbWBI+rx4GOMfgkf37A071NKkyJcK5iIsmZqWW3JSnkYDTiANykEjGOM86Nc6O6VMMXFKrJvSfxBmVje1oVkWucCgltpfbeaQd5Cc+M58kjknPGdeeu+tpVyiM1Es4zJKFJWVvhZIyoYUSDjjHvz/w0ao8bHe1EG7ozXT16/T2FTZVdhGjyu4v1lXDXsrenB9Kgf71UteqbG0tG7SbcwTJW8h8oQ7tAUkJCVbcYyAcff0nOjRqhTY8cskj7yuvbmXVTPmLquW2ELb+XcUnc4nHsAnnOcec6NGjSOKBsz//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAMFBgcIAgT/xAAsEAACAQMEAQIFBAMAAAAAAAABAgMABBEFBiExEjJBBxMiI3EUM0JRYoGR/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAMBAgT/xAAbEQEBAAIDAQAAAAAAAAAAAAABAAIRAxIhIv/aAAwDAQACEQMRAD8AzX+kuDGjrEzIxIGKSkR45CkiMrDsEVufSbK2GzLGcaRpnyoLSLylUKHP215IaPsggH8n3r1bg21Fd2t3ajRdNtpLiN4g6MM/Wvjn9vjkj3PVKjiWDFYZ9QpZefetsWehG3s4Il25o0ktvGI2cuv0v4eHRhJIwGx/3NZG1NZ9ybl1O8s7VIVuLh5VhTAWJSeFGOMAYHFZA91MLngmilru3ktneOYeLr2DRSWltPe8S2jiW6uQmCvj80+OOsYz/VJ6jcal46gU1C9U+DdTsP4/mnHTowyryM8/nuu7yBflX5yPS3t/jVUu+3tSO+tS1mxSwK6vqSlg65F044wOO+qkPwp23ezaJa6lBbC4W+mnhPkvECp4fczn3LEdHr+s0z/FlUWPSGQLKFd8qOQfTwce1Sqbfb7d2XpUu14Wt3+TIv21aRYVLkYPmWKknPBJA9iamk39bKrt+oY9xXkUiNHKn0ujjDKw7BFFWv8AFW+gvNiWETWtqNVOmwPcTyIBIfJlcBGwSTkEYJGBnuijc73SvS7eecKDM6qD0nFPkWgW0zsZyzu3q8mOTRRXoApZ5I+XUmzdLePi2hJHQYcVEt7bN3Dc29jFt+ysojbuR5pcgK8ZOSrKQMjIHvRRW5YiUzkyGkzbZvb+Itrdlp2IkxGUlZ2Ax16Bx/uiiigTu3//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Gangsta's Paradise (feat. L.V.)</div>
-                                    <div class="artist">Coolio</div>
+                                    <div class="name">The Weekend (Radio Edit)</div>
+                                    <div class="artist">Michael Gray</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQGBQMC/8QALRAAAQMEAQMDAwMFAAAAAAAAAQIDBAAFESESBjFBE1GBImFxBzKhFBUWkeH/xAAZAQACAwEAAAAAAAAAAAAAAAAFBgMEBwH/xAAqEQABAwMCBQIHAAAAAAAAAAABAgMRAAQFEiETMUFRYQYUIjJxkbHR4f/aAAwDAQACEQMRAD8AccUB3xqor9SZDEyxhhiU4p3ln0WV/S6M7yfOvAre6jk/09udbSj1HZALaU99HRJ+2KnLfaFr4uSQXGkYLm8qKR3TgbBwO1DcZaW+gv3CoA5eTTzm8gWwbdsSSK0bH03YbpFaXBhXp2IzBVHWfUbQpT5TkgA6KM4+9JdAwXLA0/GmochPOq1HfTx2CQFA9jkY/wBeatI/UUKNCaTbYbbbSkhSUpwAkdjnHnVJzL41dIBROjhLZSeS06W0rC88T3P7PnO6hL4WVBxJ0cvI/dK2PvLtm4S4W5H1/tPtuHkcg/NFIWpQRHbTzStLJLBVnPIpAGdnPmihKwJ+HcVozaw6gLQOdK9Q3KA22IOHUynvpW6kZCRyBTnY1iqNuzNsMvOrWltKyVqSPq3vuTr+BU5dbO3OcDzwccGMhDbgb2Ox5FKvxXkSOol2dVufgPrPEIS4hQVlPsTnevOqvMWjbrQSlUbyZI6x+Kz71Ip5q4hKomsOQ8r+4uCJIWywp0cSk4A33/GST81ZNdKQWo44TpaJBweaF53nP7cY7j2qW/xe8rQVGKlA9lOAH+KrOhbq44h61zhwmRPGdqR7/c/8o5lw3wU+1UCE/NHXye9Lzz6wkcJZ27UjMUtu9GJFeKo4b9RYUlOeecHJG8496K6xYbiLhOmPuIdLqjwDacJCc+KKWFwjZNaphUqas0BZJJE093QlKtYrrEuCop4EBbXtnY/Boorje509Klvcdb36ND6Zj71mXS9XOQp+PAfLBUopbUYCzrx9fIp+cY81n9P9Om3ylzJs5cmYsEK4khOD3z5V84/FFFX3H1NN8NsAA86B47B2bSidMx3rdecBQU51RRRQ2Ka0JAFf/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Ransom
+Explicit content</div>
+                                    <div class="artist">Lil Tecca</div>
                                 </div>
                             </div>
                         </div>
@@ -223,7 +225,7 @@ Explicit content</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    122 MB used
+                                    127 MB used
                                 </div>
                             </section>
                             <section>
@@ -258,7 +260,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Apr 2026, 06:51:25 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Apr 2026, 07:13:31 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
