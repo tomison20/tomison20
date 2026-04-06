@@ -30,7 +30,7 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -41,7 +41,7 @@
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -115,6 +115,21 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcFBggEA//EAC4QAAEDAwIEBQMFAQAAAAAAAAECAwQABREGIQcSMUETIlFhoRQycRYjJFKx8f/EABgBAAMBAQAAAAAAAAAAAAAAAAMEBQIG/8QAHhEAAgIDAQEBAQAAAAAAAAAAAQIAAxESIQRBMVH/2gAMAwEAAhEDEQA/AJ+waM0g9p/R1yl2m3pftdrizJbZaH836loto59vMQ6nO/ep3WWj9PQGpLtj0zaZeoWYcp2324sDkkKS8AVFAxzlKcYHvWc2742xcbOyLRBWptkMFS+Y84GNyM4ztse1eWvbw8xcY84W6CWVqylCkq/aIGcJUCFAH0B3NMNWQCcwC2BmCxv8QdH2mJw/1NPdg2KNfFxYLrZj28xVxwXuVRLalKKCroQMDpkd6Q7WnUuNFUiS87t0ThI+Kcl+YjDgDepMeEww66wy6pxtBBVzOtk7nf8A5VkZ4N6es1lalv3O6vAhtoIXKjsjztpX1cCRkdMZz80KllYZYRr1+c0trnuIhv0/BYhKU3GRz4+5XmPzRTS4haWhWK12t2A8+4idGU8Q8pBKd8AAp2O3fJB7UU4NSOScc56YrpDJGorSN/MVdPxVg1PaUz7SptYUCkhSSnGR2PwTUZPTy6ksuO/N/lXl5tKo4J9K3rsrCDRwtisfwSe4AX5y4Xl/S0lxEm3MQkFTb6A5h0fcPMNxsOvTFMPXUK9QoE2farl9eyqWh96LIisvhOyUK5ApOxCRsAfX1NJLhncPA4v22LFaEefJbfaeXkgOjwiUKHbt+c1pWJFXFjCPJeL3jpUpRJ2SMdABtiplSkDBGMTpr2qtOwIIMXesr1LhW2Xa574KTEUhsKiNY5VJOwKRlPpt39qKgeIcz6118hsoMdstqV/ZQJyfainUAKgyJeNLGUfIjtTXFca7QXIIQ9JitqUpJ6J2zv747da5rjrDUabYh5ZjsIcUUp5WvN09yaKKXvucPqDGPJ5q3pLsOgTr4P6guiuKFhkOOrluIccCUrOeUKQoEjG/Q52rXF/uM2DBC3fDU48BGbA2UFnfOMnOR260UVjJOeyj4kUqOfYsuKEJ/TtlcnuNrkMutJU6pKgMOHqNz/maKKKdTqiSPYoFmf7P/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Sure Thing (Sped Up)</div>
+                                    <div class="artist">Miguel</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEDBAUGB//EAC0QAAIBAwIDCAEFAQAAAAAAAAECAwAEEQUhBiIxBxITQVFhcZEUQlKBobHB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOJOfc1O0XS7rWNRis7JGknkOwA8huSfQY86gPsTWo4JuJ7WPWru1UGaKxbB6Yy6g/1/lBIuuCxbhlm1aFHQZbkyqn5z/wArNyWRguliM0cqMcCSI5B+9/utx2aX2ky6w8vFlqbm26hmjaQDyPKOvX0rcduWm8F2fD2l3PD1ta22ozSpMn48bJ4kBBBJ8uuPeg4LOvhzSICSFYr9Gii53uJiP3nf+aKBJM5OOtaBmS0nj0yGWO3VoSk8xOQ7kE4OOgzy+1U1lEst5Aj57ryKpwd+oqz1fTrWK9aDS5mmwebxSEcH03wG+RQazsm4zi4fmvEv4xMjIxjHhh3Ejbcvyeu/SrHtB1m+ueAtP0rVrBILuGYXUcnfyWh3B+OZxsNvTpXLxFNDcMVVkkj5mBGCKfuXmuEIZj3gO6wzhQBvj7oIEp5yfU0U46oM7kn18qKB2BzFMkijdGDfVSb++/MAaVD4q/r23HodqKKBmGbw1k7699mAAyfmleUSSs0oJVgM904JPvRRQJOsDRsYwyPnYFs7fVFFFB//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">In My Feelings
+Explicit content</div>
+                                    <div class="artist">Drake</div>
+                                </div>
+                            </div>
+                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAMEAQUGCP/EACcQAAEEAQQCAQQDAAAAAAAAAAEAAgMEEQUSITFBUSIGYXGREzKh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDzNVowyaZNalsBs+9sVes1u58zj2fs0D9k4HnEN/T7NC1Zr2onMlrSfwyjsMfz8SffB/ShrTyVbEc8DiyWMhzHDtpHRH3W60jWImyaZW1Fhfptad1uaNv9p5O/kfw0NHrJ9lFc+rVClPft1q0DQZLEgij3ENaXEgAZPA7VovgZosE0ZAvi29zuOmbWFv8Au5bHVNdgtO1qJldramoyttsZtGYJuSdvpvye3HrafCg1+q6fDSgYwvmj1GKR8N2nNHtdC9pxkHyD1jsEHxhFUv3bGoWTYuzPnnLQ10j+XOwMDJ8nAHJ5RVFVERBnJxjPCwiICIiAiIgKem6BtyB1trn1xI0yNacEszyAfeERB1H1HY+jpdLe3QqWow39zdrppQ5uM85H4REQf//Z" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">All The Stars
@@ -123,26 +138,10 @@ Explicit content</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAIDAQEAAAAAAAAAAAAAAAQFAwYHAgj/xAAtEAACAQMDAgUBCQAAAAAAAAABAgMABBEFEiEGEwcxQVFhkRQVFyQyYnGBsf/EABkBAAIDAQAAAAAAAAAAAAAAAAIDAAEEBf/EACMRAAICAQMDBQAAAAAAAAAAAAABAhEDBAUSEyFxFCIxUdH/2gAMAwEAAhEDEQA/APmylKz29rcXO77PC8m3z2jOKlhKLfwYKVL+7rzB/KzcftrFPaz24XvwvGG/TuXGaq0Xwl9GWO5tl0+SB7FHuGbK3PcYMo442g4P9j1pUSlWCdh6X8HF1HQ9P1m86mtNOjuVR4Y5rcne5AYJnd7euK06+1OWzupoysFwQ/BAKjAPl8/zXX+l/Ebo38O49J1m9RL+2sVS2V7aRwk6xEA5AxnJ884rgclzbiDMbN3WJLDFJy4Y5H7kP2/ctVpovpurNl6flk1aGZR22vF3kR9s8oFyeQfPj2quttWeFRHDaxYiG1csRxxn/K9dIdQLpbXEEswgguI2R5VTc2DjcPoMVU6lcRGJhasp7zliMHKLngZNI9NDk1XY6S3rVpJ8+/hfhBKhy7ZOTk4pVlpmoafa6LqcFxpve1OfYLa77pAgXneNg4JII5Pl7etK2JHFlJydsqKlWMMEjbri4iiQHBVi2W+RhSKUqMKMqdls0WjvtQzQJGq7Q4aTexySSx24PHHAFVV9DBE+62uY5Y2PCjduUfOVA+lKUKjTH5MznFJpLwiJSlKMzn//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEDBAUGAv/EADAQAAEDAgQEAwcFAAAAAAAAAAECAwQAEQUSITETIkFRBhRSFSMyYXFykTRCU2LB/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgQAAQMG/8QAHxEAAgIBBQEBAAAAAAAAAAAAAQIAAxESEyExQQQy/9oADAMBAAIRAxEAPwC+xec9DcQGQg3bUrmF9Rt1qKjF3hMZQ4WktKJzG2wBt3pnxYmQXmPLqaA4LoOcHe2m1UkrzSX2lOLj8IBebQg2vXKogKidu9hVjNsZ0WxPmG7Dfmpr2rCN7PA2JGiSRoLnpWWW81wXveo+D1D0ppuGtJYuFJtmc6/1qbIxJvnqbONMYkqcSyvMUGyuUi35oqo8OEGZPsQTm70VhYoBxGK2LLmJ4lJ4zQABs04dTb5dqp5gUpxKSE2yrvr8/pWgxqG/Kfb4DYV7pSblQGpIsNTVOU5paCMqkhK72II3NM1g6cxS0jWQTGXGm+C/yI+H0j0priKkJYISAAFObfbUhKiWl3A1bT0HoJ/yoGCNpchsKXmKlXJ5j/Jbv20o/IHvE0Xh79bP+6il8KNoTFecAJcU4cyiSSfzRStn6jtJwkmY9DfxDC3o0V4MuLtz9h12pmNh8liAuGytLLLs1yU8ptwkrSv9liLWG/1ooq1vdBpB4mdnz1u4ZhyIqcFZCSOK7qkJ6dBakhYDFiMobSp1QRsSR3v270UUO400217xJ0GG1CaU2zmyk5uY3oooqu+TDAwMCf/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Popular (feat. Playboi Carti) [Music from the HBO Original Series The Idol]
-Explicit content</div>
-                                    <div class="artist">The Weeknd &amp; Madonna</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAMFBgcIAgT/xAAsEAACAQMEAQIFBAMAAAAAAAABAgMABBEFBiExEjJBBxMiI3EUM0JRYoGR/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAMBAgT/xAAbEQEBAAIDAQAAAAAAAAAAAAABAAIRAxIhIv/aAAwDAQACEQMRAD8AzX+kuDGjrEzIxIGKSkR45CkiMrDsEVufSbK2GzLGcaRpnyoLSLylUKHP215IaPsggH8n3r1bg21Fd2t3ajRdNtpLiN4g6MM/Wvjn9vjkj3PVKjiWDFYZ9QpZefetsWehG3s4Il25o0ktvGI2cuv0v4eHRhJIwGx/3NZG1NZ9ybl1O8s7VIVuLh5VhTAWJSeFGOMAYHFZA91MLngmilru3ktneOYeLr2DRSWltPe8S2jiW6uQmCvj80+OOsYz/VJ6jcal46gU1C9U+DdTsP4/mnHTowyryM8/nuu7yBflX5yPS3t/jVUu+3tSO+tS1mxSwK6vqSlg65F044wOO+qkPwp23ezaJa6lBbC4W+mnhPkvECp4fczn3LEdHr+s0z/FlUWPSGQLKFd8qOQfTwce1Sqbfb7d2XpUu14Wt3+TIv21aRYVLkYPmWKknPBJA9iamk39bKrt+oY9xXkUiNHKn0ujjDKw7BFFWv8AFW+gvNiWETWtqNVOmwPcTyIBIfJlcBGwSTkEYJGBnuijc73SvS7eecKDM6qD0nFPkWgW0zsZyzu3q8mOTRRXoApZ5I+XUmzdLePi2hJHQYcVEt7bN3Dc29jFt+ysojbuR5pcgK8ZOSrKQMjIHvRRW5YiUzkyGkzbZvb+Itrdlp2IkxGUlZ2Ax16Bx/uiiigTu3//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">The Weekend (Radio Edit)</div>
-                                    <div class="artist">Michael Gray</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQGBQMC/8QALRAAAQMEAQMDAwMFAAAAAAAAAQIDBAAFESESBjFBE1GBImFxBzKhFBUWkeH/xAAZAQACAwEAAAAAAAAAAAAAAAAFBgMEBwH/xAAqEQABAwMCBQIHAAAAAAAAAAABAgMRAAQFEiETMUFRYQYUIjJxkbHR4f/aAAwDAQACEQMRAD8AccUB3xqor9SZDEyxhhiU4p3ln0WV/S6M7yfOvAre6jk/09udbSj1HZALaU99HRJ+2KnLfaFr4uSQXGkYLm8qKR3TgbBwO1DcZaW+gv3CoA5eTTzm8gWwbdsSSK0bH03YbpFaXBhXp2IzBVHWfUbQpT5TkgA6KM4+9JdAwXLA0/GmochPOq1HfTx2CQFA9jkY/wBeatI/UUKNCaTbYbbbSkhSUpwAkdjnHnVJzL41dIBROjhLZSeS06W0rC88T3P7PnO6hL4WVBxJ0cvI/dK2PvLtm4S4W5H1/tPtuHkcg/NFIWpQRHbTzStLJLBVnPIpAGdnPmihKwJ+HcVozaw6gLQOdK9Q3KA22IOHUynvpW6kZCRyBTnY1iqNuzNsMvOrWltKyVqSPq3vuTr+BU5dbO3OcDzwccGMhDbgb2Ox5FKvxXkSOol2dVufgPrPEIS4hQVlPsTnevOqvMWjbrQSlUbyZI6x+Kz71Ip5q4hKomsOQ8r+4uCJIWywp0cSk4A33/GST81ZNdKQWo44TpaJBweaF53nP7cY7j2qW/xe8rQVGKlA9lOAH+KrOhbq44h61zhwmRPGdqR7/c/8o5lw3wU+1UCE/NHXye9Lzz6wkcJZ27UjMUtu9GJFeKo4b9RYUlOeecHJG8496K6xYbiLhOmPuIdLqjwDacJCc+KKWFwjZNaphUqas0BZJJE093QlKtYrrEuCop4EBbXtnY/Boorje509Klvcdb36ND6Zj71mXS9XOQp+PAfLBUopbUYCzrx9fIp+cY81n9P9Om3ylzJs5cmYsEK4khOD3z5V84/FFFX3H1NN8NsAA86B47B2bSidMx3rdecBQU51RRRQ2Ka0JAFf/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Ransom
-Explicit content</div>
-                                    <div class="artist">Lil Tecca</div>
+                                    <div class="name">I Love Kanye</div>
+                                    <div class="artist">Kanye West</div>
                                 </div>
                             </div>
                         </div>
@@ -260,7 +259,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Apr 2026, 07:13:31 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Apr 2026, 07:00:37 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
