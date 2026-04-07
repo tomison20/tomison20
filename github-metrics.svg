@@ -40,9 +40,9 @@
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 15 repositories
+                            Contributed to 14 repositories
                         </div>
                     </section>
                 </div>
@@ -115,33 +115,34 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcFBggEA//EAC4QAAEDAwIEBQMFAQAAAAAAAAECAwQABREGIQcSMUETIlFhoRQycRYjJFKx8f/EABgBAAMBAQAAAAAAAAAAAAAAAAMEBQIG/8QAHhEAAgIDAQEBAQAAAAAAAAAAAQIAAxESIQRBMVH/2gAMAwEAAhEDEQA/AJ+waM0g9p/R1yl2m3pftdrizJbZaH836loto59vMQ6nO/ep3WWj9PQGpLtj0zaZeoWYcp2324sDkkKS8AVFAxzlKcYHvWc2742xcbOyLRBWptkMFS+Y84GNyM4ztse1eWvbw8xcY84W6CWVqylCkq/aIGcJUCFAH0B3NMNWQCcwC2BmCxv8QdH2mJw/1NPdg2KNfFxYLrZj28xVxwXuVRLalKKCroQMDpkd6Q7WnUuNFUiS87t0ThI+Kcl+YjDgDepMeEww66wy6pxtBBVzOtk7nf8A5VkZ4N6es1lalv3O6vAhtoIXKjsjztpX1cCRkdMZz80KllYZYRr1+c0trnuIhv0/BYhKU3GRz4+5XmPzRTS4haWhWK12t2A8+4idGU8Q8pBKd8AAp2O3fJB7UU4NSOScc56YrpDJGorSN/MVdPxVg1PaUz7SptYUCkhSSnGR2PwTUZPTy6ksuO/N/lXl5tKo4J9K3rsrCDRwtisfwSe4AX5y4Xl/S0lxEm3MQkFTb6A5h0fcPMNxsOvTFMPXUK9QoE2farl9eyqWh96LIisvhOyUK5ApOxCRsAfX1NJLhncPA4v22LFaEefJbfaeXkgOjwiUKHbt+c1pWJFXFjCPJeL3jpUpRJ2SMdABtiplSkDBGMTpr2qtOwIIMXesr1LhW2Xa574KTEUhsKiNY5VJOwKRlPpt39qKgeIcz6118hsoMdstqV/ZQJyfainUAKgyJeNLGUfIjtTXFca7QXIIQ9JitqUpJ6J2zv747da5rjrDUabYh5ZjsIcUUp5WvN09yaKKXvucPqDGPJ5q3pLsOgTr4P6guiuKFhkOOrluIccCUrOeUKQoEjG/Q52rXF/uM2DBC3fDU48BGbA2UFnfOMnOR260UVjJOeyj4kUqOfYsuKEJ/TtlcnuNrkMutJU6pKgMOHqNz/maKKKdTqiSPYoFmf7P/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYFBwIECAP/xAAuEAABAwMDAwMDAwUAAAAAAAABAgMEBQYRABIhBzFBEyJhFEJRCCOBFSQycaH/xAAXAQEBAQEAAAAAAAAAAAAAAAACAAEE/8QAIBEAAgICAgIDAAAAAAAAAAAAAAECEQMhEhMEMUFRcf/aAAwDAQACEQMRAD8Apq0OnVw3PUo8eLDVGiutl5VQkAiOhoclW8Ag/wChk540zdLbkiWrXarZ11NRqhbNUeMaYWzuCVjIS6hQ5Izj/hGCNejtn9QbXrrlv0BVTDT8n0mA0VJQ5uGPVJHsSMcEkjHka33v063ymupiIbhORVKBM8yBsAPclP8Ann4xzrE7Nao1et/SNFiuxJtCcnz6PJSta3XGtyY2CNoUtPBznuQO3nSJQbOqlbpVVqcQR0QKY2hyS9IeDQSFZ24zyonHAHc6sXr1DrVmCDartcrMykeglSFylYadAJ9qcD7ScYJP2/GHprp1Vqn0GtluLTVyZLLwmSqegiM5NaIUEhSj96AobSfxwO2ptoxbo55ZZpDVLcS8ZTtQWkKStKdrbRwfZgnKiSRlXAGMAHOdGsUCRQbkXHnRgy8w6pmRHmJyEg8KSsAZ7HuOR3HOjRcb2NSrVHRFl9c7pui9I0NmkxI9GkzWGFLIK1RkKUB7l8AlWccjvjHfU7UnOodQuSbL9e44EAyHS1EYjpKPTSQEDIGfcMknxj51zhbEGuUufS6pT2Hly0rafiNpypLuHU4CiDgJz4Jznx51ZVt9W7pcq8xVOmLqD0p1pKWXkFb7XBLhbSDsUkbTwcAbhjtoZ8TyripNfgYuixXm7xkSCiUxX32B6ZSVsqUEqwoqIB54ISP5z4OiLAv96vw2mLguAsrko9Vt+KG0tNFQKiSQTjGRye/51RbHWe+jWV1CTXpS3UtKQ21tCWknwS2nCT/IOluBdNepdfj18zX3pq3vqi+XDudV9wUsc48FOcfGuXH4PXJPskxOd/BLddDCc6sXG7TFOFhyTuUVjH7mBvxzynPIPGjTqqxqJfKpFffrjFtrecD8lqWE+kUKHLrJJTuG4EH58DjRru5fYCq3nIEemsPQ3nHJrvD6HEJKUd+Unvn5049JuoFJsv6xU23RPkSODMQ/sdbb4/bSFJKcHHPYkHGjRpEJtzf0l2sS3bdalM01xW9puVj1Gs90ZBIIB7HyNT91XFQnnJkW3af/AGMppJ3SG9jkdzcFkIwSMDlPgEeMjOjRqq/ZXT0Kq3w402hxxbiGgQhKicIBOSEjxz+NGjRqI//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Sure Thing (Sped Up)</div>
-                                    <div class="artist">Miguel</div>
+                                    <div class="name">Praise The Lord (Da Shine) [feat. Skepta]
+Explicit content</div>
+                                    <div class="artist">A$AP Rocky</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEDBAUGB//EAC0QAAIBAwIDCAEFAQAAAAAAAAECAwAEEQUhBiIxBxITQVFhcZEUQlKBobHB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOJOfc1O0XS7rWNRis7JGknkOwA8huSfQY86gPsTWo4JuJ7WPWru1UGaKxbB6Yy6g/1/lBIuuCxbhlm1aFHQZbkyqn5z/wArNyWRguliM0cqMcCSI5B+9/utx2aX2ky6w8vFlqbm26hmjaQDyPKOvX0rcduWm8F2fD2l3PD1ta22ozSpMn48bJ4kBBBJ8uuPeg4LOvhzSICSFYr9Gii53uJiP3nf+aKBJM5OOtaBmS0nj0yGWO3VoSk8xOQ7kE4OOgzy+1U1lEst5Aj57ryKpwd+oqz1fTrWK9aDS5mmwebxSEcH03wG+RQazsm4zi4fmvEv4xMjIxjHhh3Ejbcvyeu/SrHtB1m+ueAtP0rVrBILuGYXUcnfyWh3B+OZxsNvTpXLxFNDcMVVkkj5mBGCKfuXmuEIZj3gO6wzhQBvj7oIEp5yfU0U46oM7kn18qKB2BzFMkijdGDfVSb++/MAaVD4q/r23HodqKKBmGbw1k7699mAAyfmleUSSs0oJVgM904JPvRRQJOsDRsYwyPnYFs7fVFFFB//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAEDBQQCCP/EACIQAAEEAgEEAwAAAAAAAAAAAAABAgMRBBIUExUhYQUxYv/EABgBAQEBAQEAAAAAAAAAAAAAAAABAwQC/8QAHhEAAwACAQUAAAAAAAAAAAAAAAECAxExBBJBccH/2gAMAwEAAhEDEQA/APlUAuWCRIuorF0utiFUt8IpBNKWNgkczdGrrdWNoql1wikAFPJJoYGQyulkyObF6SzPBKna0a4crxV3I3kx8HkoizLx6vqV5uji+QniS4sR7li/Rwbu11vweTOcentvZ1ZetVS5iUt+fnogAGpwAAAGhw8XtC5XcIuVtrxNHbVf3tVezPAAAAAP/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">In My Feelings
+                                    <div class="name">Love Me (feat. Drake &amp; Future)
+Explicit content</div>
+                                    <div class="artist">Lil Wayne</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgEFAQAAAAAAAAAAAAAAAAcGAQIDBQgE/8QAMRAAAgECBQIDBwMFAAAAAAAAAQIDBBEABQYSIQcxCEFRExQVIjd1sxcjYTNCcYGR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EAB0RAQACAwEAAwAAAAAAAAAAAAEAAhEhMRIDE0H/2gAMAwEAAhEDEQA/ALvFDr/VWl+oNHQ6fzuqoKR8vjlaKLbYuZJATyDzYDEc6fan6haoopKmTWtfCA5RUKqN1uSQdvPp/GMXjI+qFB9ri/LLhXdPmzA58sOUVNTBVyrsT2EpjLXI7kc2tzgsLXUzzvc6DqBrqCEyNrvMCAwFlUEm/A/t/wB38hjSaqzbXeTUTVH6g1a7ASQyKd3BI5twOLX55IxSqyPUSwJRtn9a84ZtzmI8Nx8pk72v24/xwRhM65qM2arSlzquqqmSBmUJPIX2Wt2v64iorqGcdj48Luv9Vap6gVtFqDO6qvpEy55Vil22DiSMA8DvYnBiMeDf6oV/2qT8sWDGjKq6lPGP9UKD7XF+WXC26YZrFkmqoq6o/popUkeVyBfDY8W+UVdd1Ly+WBFEXw2NN7NYbvaSG3r2OE7BkFXSy7HnRGcBSqLvv2I78emF6DTF4tbKE6wi6k6fkpoVXOKd6hlSNAzAXJsOQP5OOXuqtb8Q1NJUiB4UkLNHuW25LgAg3sRwe2Nxo/J92qspjWRVnSdZLyBflCHcWIC9gFv3v6Yk/VtW1tLQVWUSs9NOLwrVJsaF4y0ciLYWUMBG5Ung8+ZxBeps5H9N+PZl8G/1PzD7VJ+WLBjZeErJqzLep2ZvUKhiXLXQyIwK7jJGQP8AgODGmR5HUTSR29TemcGts5Wqmr6ulKwxQ/twq44ZjuBJBvZzfETboFRvGiPneYMQFsfdEFtx5v8AN5Hni1ue4NsGDEtSWWQnopuiAp0ilg1BXxzsrIZBRR+1ClSCCS3AIuOOee+M8HRKKPLFooM7rYqUs0oT3SO6swUHm97EAXHmV724wYMS0qmyFfksORkh6b9N6fRubGqgrayoMkEkbCWFVXcWU7rg37KAAb+ZvzgwYMWaiz+T/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Stayin' Alive</div>
+                                    <div class="artist">Bee Gees</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYECAMFBwL/xAArEAABAwMDAQgCAwAAAAAAAAABAgMEAAURBhIhMQcTIjJBUWFxFIEIkbH/xAAYAQADAQEAAAAAAAAAAAAAAAABAgMEAP/EAB0RAQEAAgIDAQAAAAAAAAAAAAEAAhESIQMTMUH/2gAMAwEAAhEDEQA/AKuYqXBgPzVKTHRvUkZPIHH7rElH3TJp2K2q1znVubFkhKcjPQZ/fPFM71T5g7ZfTGCZIakbm8K2rGPEn3496kXREYd1+LGUykZBKnd6lffAx+qmptF2nRpl5bgSXbew6EvyW2j3aFHoCocD6qO+UvR0lW7vE+mABjp/tLraMfYgh8bUFPHTiis60YJoptQMqShvIPtTVoP8FV1t8e7yVx7c7JSmSsDyt5G45HOccUtpyDxW+0fbZN6vVutsFsOSZUgISPQDjJPsAMnNHM6o4qtZ/tBXb4WnX9LworMSyyYRZiRktFLi38ghYI5KehJIJz91Um4Q3YU1bUhvatPhVt8qvkH1B967r/IK+Sla7XHtKFFmLFj7SSMZyTx8HASeeorml7Sq62iVJkoRGnsrLqW9py5gneEpA8OM/GRjNZ/Go92ryY7OpLdbSASM5orwtwqI8Q5oq9mN1rdQaMt8a8OxrJpCE9CCUhLgtinuoG7x96M/1T9pHs00vp68m7Wq2Fie2go4dJSjI8W0E/NFFNrf24/LfytM6euDjzsmzQXX307HHVsAuEYx5yM9PniuexuxTT7d1bnO3Ga9b1OKWqE8BtUFAJCN4wccD5PvRRQcSPNmEdn2iIdyenNaetgW80GVILQU3gYAwgghJ46gAn1ooop+JScm/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">NOKIA
 Explicit content</div>
                                     <div class="artist">Drake</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAMEAQUGCP/EACcQAAEEAQQCAQQDAAAAAAAAAAEAAgMEEQUSITFBUSIGYXGREzKh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDzNVowyaZNalsBs+9sVes1u58zj2fs0D9k4HnEN/T7NC1Zr2onMlrSfwyjsMfz8SffB/ShrTyVbEc8DiyWMhzHDtpHRH3W60jWImyaZW1Fhfptad1uaNv9p5O/kfw0NHrJ9lFc+rVClPft1q0DQZLEgij3ENaXEgAZPA7VovgZosE0ZAvi29zuOmbWFv8Au5bHVNdgtO1qJldramoyttsZtGYJuSdvpvye3HrafCg1+q6fDSgYwvmj1GKR8N2nNHtdC9pxkHyD1jsEHxhFUv3bGoWTYuzPnnLQ10j+XOwMDJ8nAHJ5RVFVERBnJxjPCwiICIiAiIgKem6BtyB1trn1xI0yNacEszyAfeERB1H1HY+jpdLe3QqWow39zdrppQ5uM85H4REQf//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">All The Stars
-Explicit content</div>
-                                    <div class="artist">Kendrick Lamar, SZA</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEDBAUGAv/EADAQAAEDAgQEAwcFAAAAAAAAAAECAwQAEQUSITETIkFRBhRSFSMyYXFykTRCU2LB/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgQAAQMG/8QAHxEAAgIBBQEBAAAAAAAAAAAAAQIAAxESEyExQQQy/9oADAMBAAIRAxEAPwC+xec9DcQGQg3bUrmF9Rt1qKjF3hMZQ4WktKJzG2wBt3pnxYmQXmPLqaA4LoOcHe2m1UkrzSX2lOLj8IBebQg2vXKogKidu9hVjNsZ0WxPmG7Dfmpr2rCN7PA2JGiSRoLnpWWW81wXveo+D1D0ppuGtJYuFJtmc6/1qbIxJvnqbONMYkqcSyvMUGyuUi35oqo8OEGZPsQTm70VhYoBxGK2LLmJ4lJ4zQABs04dTb5dqp5gUpxKSE2yrvr8/pWgxqG/Kfb4DYV7pSblQGpIsNTVOU5paCMqkhK72II3NM1g6cxS0jWQTGXGm+C/yI+H0j0priKkJYISAAFObfbUhKiWl3A1bT0HoJ/yoGCNpchsKXmKlXJ5j/Jbv20o/IHvE0Xh79bP+6il8KNoTFecAJcU4cyiSSfzRStn6jtJwkmY9DfxDC3o0V4MuLtz9h12pmNh8liAuGytLLLs1yU8ptwkrSv9liLWG/1ooq1vdBpB4mdnz1u4ZhyIqcFZCSOK7qkJ6dBakhYDFiMobSp1QRsSR3v270UUO400217xJ0GG1CaU2zmyk5uY3oooqu+TDAwMCf/Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">I Love Kanye</div>
-                                    <div class="artist">Kanye West</div>
                                 </div>
                             </div>
                         </div>
@@ -259,7 +260,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Apr 2026, 07:00:37 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Apr 2026, 06:59:01 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
