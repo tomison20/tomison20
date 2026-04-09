@@ -38,9 +38,9 @@
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -115,35 +115,33 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwEAAwEAAAAAAAAAAAAAAAQFAwECBgj/xAAsEAACAQMDBAEDAwUAAAAAAAABAgMABBESITEFE0FRYQYigRQVkUNxodHh/8QAGQEBAQEAAwAAAAAAAAAAAAAAAQIAAwQF/8QAHREBAAMBAAIDAAAAAAAAAAAAAQACESEDEjFRYf/aAAwDAQACEQMRAD8A+fO1bQxRSNMJpDgtENsZHv2DWU8kOs9qM4YbjGMb+N/VNWsyG0uXuMOShVdgW1eN/Xz+K6F1FxFJbxqrKOVIwCBjzQsoOTC3MCTEyqXVkbCjlW8Zzzjmq9507p0CQ3C3GqK4R2RdJGlgAQvPv7fXzU2bsvDEGBS4DEMyp9pX2TnJOf5FMCKWKO5iEAfKqQyrq2xsc+M8/wCqdCBVfiNz9NiH0xJKEgE8FxiSYSscqdlAAGD/AHz4oqPIpWAjQwK41bnb8Giq2GM3tezb3kHcjSSMOpdXOxGfPxW/XpLWa5Y2ccSwqP6bHckk53/ilLaTt3CzSDVpYMMrnJHjHqqPQ7GPq2qJpBDLbqD3CAVZcnII8n88VHp+zkvbqBJgkDKIIIyGeTI1HO2MAevJpq2nuLAXEZU6s4PPPsU9b9HDT3t3Z3cEi2ZEudwAvIJGOM7YHGc0jDJPKAv6oa0YlEZSQTtjSfnHxxWa6Qrdq6TjvSXHT7ma41SOWVe4+58bZ/FFUZruaH6Ye2urAiW4lMi3RUDY4yvG2dOdjRQh9zWVwyRbeS3NwBdqzRg76Tg/9/xW9lfT295NP0/VD3dSmGMnOjnnHjHNFFJyD1jEkrfpbZHjeNG3aRmIDIxzuF2x5+cUrA8Ud59uprdGDHQxGsA7/IGPyKKKleSmpPW9Q690fqUaWn7IbdYdRGm6eTKgEbA8UUUV1/JZ2eh4aVa9J//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAABAAEFAQEAAAAAAAAAAAAAAAIBAwUGBwQI/8QAKBAAAgIBAgUDBQEAAAAAAAAAAQIAAwQFERIhMUFRBhOhBxQzUpHB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAEDAv/EAB8RAAICAQQDAAAAAAAAAAAAAAABAhEDEhMUMTJSgf/aAAwDAQACEQMRAD8A+VYlZJEZ2C1qzN4UbmARiZurSnIqwbMcpn5Oz0lzw8+1fPlzB799h5lc70nr2BucvSM2tR3NRI/oG0jlGLps6jCUvFWYOJOyqytiroynwRtEWTS12i/9xQn4MVd/2tYuf5yHxL2HlNZeBkXrXSoLcG3CjEdAQo8/Ex8SkPW6Frzacur3C3Fxbt1679JsmP6417S7kfT9YtZWXiesksqt3HMdO/LztNQiGk1TJSOo4f1auuUJr2jYGevdvaAPyP8AYnLomPGxeqNNzIuptfWIiJscCIiAIiIB/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Surround Sound (feat. 21 Savage &amp; Baby Tate)
-Explicit content</div>
-                                    <div class="artist">JID</div>
+                                    <div class="name">Breathe (In the Air)</div>
+                                    <div class="artist">Pink Floyd</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAUGBwQCCP/EADAQAAIBAwMCBgEBCQEAAAAAAAECAwQFEQASIQYxBxMUIkFhUXEVFiMyM2JygZGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAMAwEAAhEDEQA/AMc8Tqax2gUcdgp3pqo5E2MlGTAKjkkE9j+eedLKK80lv6Wkt1Ra5BdpJBOlUze3yiOF2Yx35zrnusdfcLeJ5ZfPWGMVDDuUy20sfrPP6ad2CribrKlraag9SopAiwupbDiLJA+OSCo78ntoIGaeVnIbAz/aBror46m3VLU1SFWRME7SCDkZByPo6qvNt1y6lmqnt+ylSkKwUgMabWwAuWHt4yWy3PHI00ulrs3r6FbiJKmplx6iRSsaKx5A8xQA+QD7gAAfzoJmkiSs6YrKuj/aUtypXDVCLEpp4oOwcvncDuOMYx96NVVns1baLfeGpZoobbWxwQ1kLSbiI2cAqGHBOeO/bJ0aBb1VStZL9LUU2xaGugIhgimZdqsOR+mfj7xqm6H6Jv1ckV7ajp6yPyXjpE84RtFIsgBb4wwbJ+/+6S2yjpeoPFbpmyXBDNbWmipnTcV3ITlhkcj/AFrZjtsNou8dveTyYYmqKUJUb44dtLBUsI3YZZHdyNzc7fkaDKq7wmuBZ/SRVcVQvKpOI8MSGKkvu7HY5zz20ouHhv1fBYpaqelnkWKV1qIXZcxLGq4b+bJGH7Acf+fR19uBqrV1XBbZqiWotNtWWKpRQYgXSaojVgBj2w7VznBLD51L9QdV1NBT+IdHVb6+CkpoJod7lNvm+VGQxU+7O9myefaPjGi26wakusz1Qt6zr6SOVY2eVcq/+R7jkHBzo1T+JXTVjsVfG/SiOYFp4a0sZCzFpy8sMeCc4WIAEjkk86NEQC3C40d0p7pRVPk1gk9RFJFIC0JySBnuCPxrq/fHqZKKpoTd6tqSrjjhmgL5WREUIqkfgKAP0AB0aNAztV/6hrHVDf5oJeFIkfau0RGEbvz/AAzs5+ONebt1N1Hd4ZKerulVNFLElK29wRKisGAJA5G4AjPbRo0DtJKCKphuM/UT11bTJGscclOw/pLtjQEHHAAH1jRo0aD/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAYHBQQCCP/EAC8QAAEDAwMCBQMDBQAAAAAAAAECAwQABREGEiETMQcUQVFhIjJxJIGRUrHB0fD/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8Aw/DOBeNSzSqQH/IywuI1KABQ0rGVKwfZPAPvW14pyXrSlsWdKWYcZfRaAGckJG0fOASo+5Nbnh5ao9jjXRQuM52UxHSvy5VhOQlQGOeTgE5GB2pJlaR1bqmdDjCeQ47+vKFMrS2ylwJ4CyMKIAA70HjTcO7yXLW7MWpLT7zqSnbzkBPB/enGfHtcayON+cZbQ46G3CpWFNNuEjckdztPOB7UuXuFqmIyiJEZfXPYlplNvJaVsI6e1YzjHJSk1KkolSgl2at0lZV3PO1J5x8enyfxQXN/UWnVMRoaX3JsxtT2FhJcC1rUCFKUfx2xxRUm0484/PSlvaw22U7WmxgEZ5ye5P5ooPrZh7Tt2bWzBbjId2Kb3BQT2HY454J/msC7anj6bsUdDsgMKbbbaSvy6n1LwAMJSkg+nfOKwtO6J0lf7S5crY+89Gl5Sh0I2KynjI3Djke3esFy4XvRd1RaL9ChXS2SQWYEtaQ2lxWchtzHCVH37E0D2Lyu92OC1BeU4JTZ6srpKZSlOSD9J5z6AZ/eoJrCA5FvnkYSxKjtxw2hXTCS2hBVlBwBzx3xk01DUWp7jrZh9yAbVbrX0jKhpdADrJcx9p4IB9qavEvUUJmA/LgNtpmtMLYyU5SjfjPxn/dBD9NNF27NyW8hG8/xkA/3orh0s1IavDAKiApedpPp35ooLv4Y3m3wbHAsLT5YucRtXWYczyvcSopPYjn0NNmp4UXU1jft004Dg+lxI5QschQ+QeaKKCR6005qky3psRxTgUlCJDLaiOolH2rH9Qx6dwa54Mi73Z+JDnMJZt4WlT24fSfX/veiig5rhpqZF1U5KUy4ITjxW0vbjfz/AIooooP/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Bitch, I Don't Need You
+                                    <div class="name">Dracula
 Explicit content</div>
-                                    <div class="artist">Trina</div>
+                                    <div class="artist">Tame Impala</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcCA//EAC8QAAEDAwMDAwIFBQAAAAAAAAECAwQABREGEiETMVEUIkEjcRUygZGxM0JSYcH/xAAZAQADAQEBAAAAAAAAAAAAAAACAwQBAAX/xAAdEQACAgMBAQEAAAAAAAAAAAABAgARAxIhMRNB/9oADAMBAAIRAxEAPwDJbJpW4WV96RHjRrhdWW+o3GI3bE5wVEZGTk/l445pmlJVbLVBjaz0lGbRdkqUmQw5tLXOASk5AVxwMg1YaveRbL8qRbjFTIiLHXCmirahQ929GfcSR3z8gVD01qlNohPwIXRU7OUFJkIddW22nJz9NwZQec8E/eoSxbs9VcaoKBmKXNCYt0kMNnehl1SEqPcgHApjj6anT7C3c0ORmmXV7EIedCCrHcjcRn9K1PW9ltWlrW0/o2LAenv+91+c31XFk8/TKgW+Tn2jmkC33VvUzDCtQtuSEM/T3eo6aEqK89uycpOB2GRTvoStiTDAA+rfsXrhptyHH3GVFdlbsCOw4laseTg8UU56yuGn1wpkyy2NiG5KaCBuf6i2sZSeAdvOO45896KJHZhcDJjVWoTvWlhnS7whNrU9hpnphLoIdVzk5/yJJJOfv9urbZJlvszs2XEu0manqR0sR8BTA6RUkqwkkgnGe2B8mtduGo48xqI8xGjvdM7nHB/UHjbjng8/9pYL8F3WNtkKKvTOSwlyOSopUlxvZwjsTlXJJ4HFLUNdGNd0IscMTY9hjvPQ1rukpMVwRluQsnYTgFWDnjKh3HYqqM7o1cOPep8JxTcNXT9MwoblPH+7t4J47E/A4pytEiN+Bwos+8usuOR1I6AWG0hG9QQMAbUjCfPH7VWTL2LcuVbo6mnlMvMh0OJSFuAbyTuA9w2rSPH80bihyJQ2RcVtHWheqJ3oLu5KWwUlsFJJKFEZHJ8YzjtRWoSp9qg2xiVAUlUv6a1bl8rCsE5xjdxxk5x5oqcu985H6qfezEIOp3Yak7jkYzhK9v7kfxipTutVLSAWz1B2c6pyD8H70UVdUhuVq9USFTN+cI2BGB4FeaL/AB0r98IrV8qDxT857AfpRRWaj2FuaqSzKsqbS5JjvuMXJJIQxsKhjIH5z/rmiiiuKiYGM//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAAAAECAwUEBgcI/8QALBAAAgEDAgUCBQUAAAAAAAAAAQIDAAQREiEFEzFBUQYiFDIzcbFCcoGSof/EABkBAQACAwAAAAAAAAAAAAAAAAQAAQIDBf/EACARAAICAQUAAwAAAAAAAAAAAAECABEDBBITITEFFEH/2gAMAwEAAhEDEQA/APOFzKUbSQGJ9xJ85NLBzpgeTb68b7CoLkgsAP0jTWw+jl1XukrkVpytxoWqIwJzZQl+ymltb+NdckNyinfocViyM+4kMmfBNdiniRoCrKMVzH1FEI7yTC4GaPpdXzGiKjNf8d9VQwa5UoMuoAO7AUU+2UGeHUMjmKD9s0UwmpzFWxC42mlHh2/NOtria3kElvI8ci9waS8GLqcZP1G/NQ53q6sdzHcVbqbZc8d4pJwaKVZVDOxQlOu3etcupriQg3EskjN3c53rJsb8QpFE+oqr6vIxWbxqfh4Q/BwqHfqR0/ijIoxNQX2Pyuc6bmfz8MpISdcen5uYuKKWzGq5gXfJkUf7RSGPcGgsR94Nd3MVDFTIxBA7ZqERtv7X/rRRV3QlEAkxRG5GdD4/bQsMjZAjlP2QmiioSZAolhwqxYyLO8iQrDIrFZchm3z7dqKKKM7G43HjXbP/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Shotta Flow (feat. Blueface) [Remix]
-Explicit content</div>
-                                    <div class="artist">NLE Choppa</div>
+                                    <div class="name">I Was Never There</div>
+                                    <div class="artist">The Weeknd &amp; Gesaffelstein</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAYHCAUDBP/EAC0QAAEDAwMCBgEEAwAAAAAAAAECAwQABREGEiEHMRMiQVFhoZEUFUJxUsHw/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAEFAwT/xAAcEQADAAMAAwAAAAAAAAAAAAAAAQIDBBESIUH/2gAMAwEAAhEDEQA/AKwyrcoDNIOpupsazuuRgyVSUqxtAK+PnkAH4qhMFDTqC9tQjcBlRwMntWY9UjF9mlQU4FvK5wCe/OT6cmkVt3NUNKXwcYnVq4SHkhQZbysAJ8LCcZ9TkmrDY5yrhbI8ladi1p8yf8SDg1lBiKtZQ4ltf6dTmzeRxxjPP9GtR6ddgxEItEeShyU20HlN58wSQOT+fuhmWpmp5OUzrPL+aKHEZ/iKKaKnTg6ut71309KjRcKlDDjAJ43pORnPH5qPawtyW1vPOJd37yCgq5Qr19O2Oe1VHVetbNpR1LM/x3JS0eIlllGSU5IyScAcj3qT37VzWo5siUmGmO2ogFpTxG8AeVRIHf4xjtSJe94Npp+xXs1ucuVyjxW96WivatQ7bfXn3xWhtN2Z1vVNxvKk7IjsdqNGbUckhKU5V/XAHvxUCt10chuPuNFCA4pQIQeDn0xj7pw031Vm2d9yNcI37hCyNh37HG+OQDjBGfQ/mg59eom07Lo4tWfSilXSuv7HqeYmHDElmaUlXhPN44HfCgSKKaLM5JpdTORr3p+rV13ROTcRFKGUs7Czv7EnOcj3pXX0WnI5avLCvjwFD/dFFIyya+On1o8R0eue7Yq5RgD/AC8Nf/fdfbG6KvKIVIvSQPZEYk/aqKKDOdXE/gyaT6bRdL3hu5NXCTJeQhSNqkJSnzDB7c/dFFFNHRGKZXEj/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAQHBQYIAf/EACwQAAEEAQMDAgQHAAAAAAAAAAEAAgMEEQUSEwYhMVFxFBYiQQcVMjNSgaH/xAAYAQEBAQEBAAAAAAAAAAAAAAAAAwQCAf/EAB0RAAICAgMBAAAAAAAAAAAAAAABAgMRIQQTMUH/2gAMAwEAAhEDEQA/AOVFZf4YWA3TZ4vvy5/wKtFtfQt51WxKxri0nDgfQo9HqLF660m4dAnFurNE1w+lz24w4dwD6H3VIrobWpLN/SeKnHM99+u18tfeAwuiBAl893YDsk47/Zc/24zFZkY5pH1Hyo029ieTuypw9RHREViZ6p+j3DSvNlGPBHlQFLdp9xhG6tM3PjLCj2dRk4tNF66bDP8AKvxdiQw3oKsra9Rwy6w13gs/sn3VGXLT32JN7WEdxjYBhbjV17qirplPit8basLoYRsHI1pIyO7fPb1WoT09QsTySvrTve873O2HvnvlZqKZQbcvpa3kTsxlmPREWkzhERAZ/i6c+XOT4rUfzzb+1xt4c7v5Zz+nv7rAIiAIiID/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">I THINK
+                                    <div class="name">Money In The Grave (feat. Rick Ross)
 Explicit content</div>
-                                    <div class="artist">Tyler, The Creator</div>
+                                    <div class="artist">Drake</div>
                                 </div>
                             </div>
                         </div>
@@ -261,7 +259,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Apr 2026, 06:59:12 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Apr 2026, 06:51:31 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
