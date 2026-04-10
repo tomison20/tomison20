@@ -37,9 +37,9 @@
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -115,33 +115,33 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAABAAEFAQEAAAAAAAAAAAAAAAIBAwUGBwQI/8QAKBAAAgIBAgUDBQEAAAAAAAAAAQIAAwQFERIhMUFRBhOhBxQzUpHB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAEDAv/EAB8RAAICAQQDAAAAAAAAAAAAAAABAhEDEhMUMTJSgf/aAAwDAQACEQMRAD8A+VYlZJEZ2C1qzN4UbmARiZurSnIqwbMcpn5Oz0lzw8+1fPlzB799h5lc70nr2BucvSM2tR3NRI/oG0jlGLps6jCUvFWYOJOyqytiroynwRtEWTS12i/9xQn4MVd/2tYuf5yHxL2HlNZeBkXrXSoLcG3CjEdAQo8/Ex8SkPW6Frzacur3C3Fxbt1679JsmP6417S7kfT9YtZWXiesksqt3HMdO/LztNQiGk1TJSOo4f1auuUJr2jYGevdvaAPyP8AYnLomPGxeqNNzIuptfWIiJscCIiAIiIB/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcDBQYECP/EACsQAAEDBAEEAgEDBQAAAAAAAAECAwQABREhBhITMUEHUSIVI5FhcYGhsv/EABoBAAEFAQAAAAAAAAAAAAAAAAABAgMEBQb/xAAgEQACAgEEAwEAAAAAAAAAAAABAgADBBESEyEUMVEi/9oADAMBAAIRAxEAPwDStxH3VdKASo1J+mzBkdpX8isZxL5eRdXy05xmWp8JJSIjgc948K6fZ+zWpHyjxpF0bgzHp0IrV2w/JjdDQV7HVn0dE+M+8VonMlPhna9a5bSOvpCk+8GuYRnfo1Fy35U4zZGo/alpuqnFrbcRBUlRaCdEqz43ofdQW/5P4XKgIkuzH46sZcbVGWotH6UpIKf7b3QMr7DinYY7ufFFUqPl/hqwSlNy97McAf8AVFL5cTimJsV6jqil0W6BFkod7bHbjpAdCxtIAGsn2KvFWWDyoJiFph1uMpXfSywG0xd+CUDJ9aG95Os0u+CqkT+TNuJbD7IZWlKnNIbJSQMn7zTY4OzyXi8GVEYVBeZkOdwJ2QNY1hJO9evVc/fkFfyPc2KcMMA0y8qzWK0xpdsttuZkvuqSX3GnHFJWwn8lALI/FRONAk6qr5NaoDPHYrlnsgjoUoKmfvKcKUgJzgk5x+QycfX1Tovlsv67O4JPDo70nfbTFIUAokflnII16IG6TnL7bMtsl6ZdAq39vpC4/QoJkZTlKR1eCMdKsZ9EbqFN+8FtZOy1FNFl4fiy2C3RpjbLrkeQ0l5ODvpUARmitbwPnVsk2m2Wu4PLTM7YbBSwQyhIAASpfj15Ps+aKtjIsQaFQZQelSeiYtuCXLhURhVu5U1JjSlKyibHKm+kYx0nGiAfsf5pu8U4fA/VoF34vyZ2XAacS44wsdxS0A7AIIB/iiinsiv2RHpa6LopjIRyhKHXGXCkgbzsK/g7/wBVS86etPKOKXBqeodqEDJR14IKkpOM59bxrdFFRWkgEQxjusAM8/LEZtntMxYy4qiSWSolGT5OARv+tFFFZK2v9nTnGqPtRP/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Breathe (In the Air)</div>
-                                    <div class="artist">Pink Floyd</div>
+                                    <div class="name">No More Tears</div>
+                                    <div class="artist">Modjo</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAYHBQQCCP/EAC8QAAEDAwMCBQMDBQAAAAAAAAECAwQABREGEiETMQcUQVFhIjJxJIGRUrHB0fD/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8Aw/DOBeNSzSqQH/IywuI1KABQ0rGVKwfZPAPvW14pyXrSlsWdKWYcZfRaAGckJG0fOASo+5Nbnh5ao9jjXRQuM52UxHSvy5VhOQlQGOeTgE5GB2pJlaR1bqmdDjCeQ47+vKFMrS2ylwJ4CyMKIAA70HjTcO7yXLW7MWpLT7zqSnbzkBPB/enGfHtcayON+cZbQ46G3CpWFNNuEjckdztPOB7UuXuFqmIyiJEZfXPYlplNvJaVsI6e1YzjHJSk1KkolSgl2at0lZV3PO1J5x8enyfxQXN/UWnVMRoaX3JsxtT2FhJcC1rUCFKUfx2xxRUm0484/PSlvaw22U7WmxgEZ5ye5P5ooPrZh7Tt2bWzBbjId2Kb3BQT2HY454J/msC7anj6bsUdDsgMKbbbaSvy6n1LwAMJSkg+nfOKwtO6J0lf7S5crY+89Gl5Sh0I2KynjI3Djke3esFy4XvRd1RaL9ChXS2SQWYEtaQ2lxWchtzHCVH37E0D2Lyu92OC1BeU4JTZ6srpKZSlOSD9J5z6AZ/eoJrCA5FvnkYSxKjtxw2hXTCS2hBVlBwBzx3xk01DUWp7jrZh9yAbVbrX0jKhpdADrJcx9p4IB9qavEvUUJmA/LgNtpmtMLYyU5SjfjPxn/dBD9NNF27NyW8hG8/xkA/3orh0s1IavDAKiApedpPp35ooLv4Y3m3wbHAsLT5YucRtXWYczyvcSopPYjn0NNmp4UXU1jft004Dg+lxI5QschQ+QeaKKCR6005qky3psRxTgUlCJDLaiOolH2rH9Qx6dwa54Mi73Z+JDnMJZt4WlT24fSfX/veiig5rhpqZF1U5KUy4ITjxW0vbjfz/AIooooP/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcDAv/EAC8QAAIBAwMBBwMDBQAAAAAAAAECAwAEEQUSITEGEyJBUWFxFBUyI0KBkaGx0eH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEBQEC/8QAIBEAAgICAgIDAAAAAAAAAAAAAQIAAwQhERIUMRMiof/aAAwDAQACEQMRAD8AdWjpCHVFMmOeeo5xUqHa/wCpwpPlSjvNr94pO7PBx5+9TtMaWa5aMktFGpdwqnJyPxGPelvYEBYwFdZchViXWr+y+6RsnaWCwjttrPbmHeZjnJyeoGOKskUsN1Cklu4KEZBIIGPXmletpq+nD6vR7aK6hiUGe3kbc5XnxI54JAz4SKhDWbe/v7q1tEaHbMN0bDxBWGVPx/qi4+R8jH8j8qgJWpA9e45uERs7Tnj+tFTojArqiqNqjGcUU0GTiolRluIHli2nJHOfTFKdW1a4WSOzKpa6f3pEsoXxMPyB3DkZHHGOnNe4gACWIxjnjrVU7Z6xc/SLpSOwtmZZpB8ZCjPkOScUDKxmcHcXiXKrbEvd9qXZ1w1k2qS96w7wXALFNwIypI9QcZ/7XDQ9Qs7rSjHG0cl1a3DbMEF2j2ggjocdeo8qyXTNNS+SaSaWWGFOFZE3Et6fFRZYZ7W4kktXlKRYZZQdrYzgHrkHIoleJ0PPMbZcbFI4m/WkndyNKqNt8WcefQ8mis67BdqNZurua0vJ2uLURHdJIPFH6cjk88Y5oqtSv1ku3TcQh1WOaY28hTdtP7geB7A1Xu0kiMV2bt7ncxPngYH+aKKnK7dwpOpVNSLX2A3O+jx3f2lWhuY4YASx3qTzn2U0k1KR3uX7yUSnP5DoT7cUUV1WxZiCfUx0VUBA2ZeOzOmGzsollkMZmYGXw5+B/A/vRRRQfJtBPDR3iUkAlQZ//9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Dracula
+                                    <div class="name">Mexico
 Explicit content</div>
-                                    <div class="artist">Tame Impala</div>
+                                    <div class="artist">Shotgun Willy &amp; Yung Craka</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAAAAECAwUEBgcI/8QALBAAAgEDAgUCBQUAAAAAAAAAAQIDAAQREiEFEzFBUQYiFDIzcbFCcoGSof/EABkBAQACAwAAAAAAAAAAAAAAAAQAAQIDBf/EACARAAICAQUAAwAAAAAAAAAAAAECABEDBBITITEFFEH/2gAMAwEAAhEDEQA/APOFzKUbSQGJ9xJ85NLBzpgeTb68b7CoLkgsAP0jTWw+jl1XukrkVpytxoWqIwJzZQl+ymltb+NdckNyinfocViyM+4kMmfBNdiniRoCrKMVzH1FEI7yTC4GaPpdXzGiKjNf8d9VQwa5UoMuoAO7AUU+2UGeHUMjmKD9s0UwmpzFWxC42mlHh2/NOtria3kElvI8ci9waS8GLqcZP1G/NQ53q6sdzHcVbqbZc8d4pJwaKVZVDOxQlOu3etcupriQg3EskjN3c53rJsb8QpFE+oqr6vIxWbxqfh4Q/BwqHfqR0/ijIoxNQX2Pyuc6bmfz8MpISdcen5uYuKKWzGq5gXfJkUf7RSGPcGgsR94Nd3MVDFTIxBA7ZqERtv7X/rRRV3QlEAkxRG5GdD4/bQsMjZAjlP2QmiioSZAolhwqxYyLO8iQrDIrFZchm3z7dqKKKM7G43HjXbP/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYECAMFBwL/xAArEAABAwMDAQgCAwAAAAAAAAABAgMEAAURBhIhMQcTIjJBUWFxFIEIkbH/xAAYAQADAQEAAAAAAAAAAAAAAAABAgMEAP/EAB0RAQEAAgIDAQAAAAAAAAAAAAEAAhESIQMTMUH/2gAMAwEAAhEDEQA/AKuYqXBgPzVKTHRvUkZPIHH7rElH3TJp2K2q1znVubFkhKcjPQZ/fPFM71T5g7ZfTGCZIakbm8K2rGPEn3496kXREYd1+LGUykZBKnd6lffAx+qmptF2nRpl5bgSXbew6EvyW2j3aFHoCocD6qO+UvR0lW7vE+mABjp/tLraMfYgh8bUFPHTiis60YJoptQMqShvIPtTVoP8FV1t8e7yVx7c7JSmSsDyt5G45HOccUtpyDxW+0fbZN6vVutsFsOSZUgISPQDjJPsAMnNHM6o4qtZ/tBXb4WnX9LworMSyyYRZiRktFLi38ghYI5KehJIJz91Um4Q3YU1bUhvatPhVt8qvkH1B967r/IK+Sla7XHtKFFmLFj7SSMZyTx8HASeeorml7Sq62iVJkoRGnsrLqW9py5gneEpA8OM/GRjNZ/Go92ryY7OpLdbSASM5orwtwqI8Q5oq9mN1rdQaMt8a8OxrJpCE9CCUhLgtinuoG7x96M/1T9pHs00vp68m7Wq2Fie2go4dJSjI8W0E/NFFNrf24/LfytM6euDjzsmzQXX307HHVsAuEYx5yM9PniuexuxTT7d1bnO3Ga9b1OKWqE8BtUFAJCN4wccD5PvRRQcSPNmEdn2iIdyenNaetgW80GVILQU3gYAwgghJ46gAn1ooop+JScm/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">I Was Never There</div>
-                                    <div class="artist">The Weeknd &amp; Gesaffelstein</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAQHBQYIAf/EACwQAAEEAQMDAgQHAAAAAAAAAAEAAgMEEQUSEwYhMVFxFBYiQQcVMjNSgaH/xAAYAQEBAQEBAAAAAAAAAAAAAAAAAwQCAf/EAB0RAAICAgMBAAAAAAAAAAAAAAABAgMRIQQTMUH/2gAMAwEAAhEDEQA/AOVFZf4YWA3TZ4vvy5/wKtFtfQt51WxKxri0nDgfQo9HqLF660m4dAnFurNE1w+lz24w4dwD6H3VIrobWpLN/SeKnHM99+u18tfeAwuiBAl893YDsk47/Zc/24zFZkY5pH1Hyo029ieTuypw9RHREViZ6p+j3DSvNlGPBHlQFLdp9xhG6tM3PjLCj2dRk4tNF66bDP8AKvxdiQw3oKsra9Rwy6w13gs/sn3VGXLT32JN7WEdxjYBhbjV17qirplPit8basLoYRsHI1pIyO7fPb1WoT09QsTySvrTve873O2HvnvlZqKZQbcvpa3kTsxlmPREWkzhERAZ/i6c+XOT4rUfzzb+1xt4c7v5Zz+nv7rAIiAIiID/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Money In The Grave (feat. Rick Ross)
+                                    <div class="name">NOKIA
 Explicit content</div>
                                     <div class="artist">Drake</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEDBAUGAv/EADAQAAEDAgQEAwcFAAAAAAAAAAECAwQAEQUSITETIkFRBhRSFSMyYXFykTRCU2LB/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgQAAQMG/8QAHxEAAgIBBQEBAAAAAAAAAAAAAQIAAxESEyExQQQy/9oADAMBAAIRAxEAPwC+xec9DcQGQg3bUrmF9Rt1qKjF3hMZQ4WktKJzG2wBt3pnxYmQXmPLqaA4LoOcHe2m1UkrzSX2lOLj8IBebQg2vXKogKidu9hVjNsZ0WxPmG7Dfmpr2rCN7PA2JGiSRoLnpWWW81wXveo+D1D0ppuGtJYuFJtmc6/1qbIxJvnqbONMYkqcSyvMUGyuUi35oqo8OEGZPsQTm70VhYoBxGK2LLmJ4lJ4zQABs04dTb5dqp5gUpxKSE2yrvr8/pWgxqG/Kfb4DYV7pSblQGpIsNTVOU5paCMqkhK72II3NM1g6cxS0jWQTGXGm+C/yI+H0j0priKkJYISAAFObfbUhKiWl3A1bT0HoJ/yoGCNpchsKXmKlXJ5j/Jbv20o/IHvE0Xh79bP+6il8KNoTFecAJcU4cyiSSfzRStn6jtJwkmY9DfxDC3o0V4MuLtz9h12pmNh8liAuGytLLLs1yU8ptwkrSv9liLWG/1ooq1vdBpB4mdnz1u4ZhyIqcFZCSOK7qkJ6dBakhYDFiMobSp1QRsSR3v270UUO400217xJ0GG1CaU2zmyk5uY3oooqu+TDAwMCf/Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">I Love Kanye</div>
+                                    <div class="artist">Kanye West</div>
                                 </div>
                             </div>
                         </div>
@@ -259,7 +259,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Apr 2026, 06:51:31 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Apr 2026, 07:00:36 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
