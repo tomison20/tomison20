@@ -42,8 +42,8 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -115,18 +115,26 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAIDBAUGBwH/xAAqEAACAQMDAgUEAwAAAAAAAAABAgMAESEEBRIxQQYiUWFxExSRoRWB0f/EABgBAQEBAQEAAAAAAAAAAAAAAAIDBAAB/8QAHREBAAICAgMAAAAAAAAAAAAAAQACESEDMRJBUf/aAAwDAQACEQMRAD8A5aNtsoDJCSerNCrEn3JFRZNhRnLWFz2VQB+BWlKhlOMUlPK1iL+h9a01fB6mxDkM+5mn2dBa8Yqt1ez+e6KARnpW7ZFc9Bao82kBvgW+KopY2SSHyc63Bp4x9ORYAp7rAin8gXorWbhtSyA4/VFZnhrnWoGsv1NeP0J9KBa+DT30SUwym/vY1TslKqOSWWj8Pbtqtu/kdLo5ZNEFLGXAAsbHr8VXI4cgDNT5vFO5xaGPRJJJJpIbGLTE8EUheObZzb4vVJtLFdCn3BJlLNI9uiliTYd7ZtXhZHDFuyskSxq3oDRS9MyzngWDPixXOPf+6KemGRQc4F70+kicwEHn7i/x2ooo1hIl+E93ilvwazcWvxPcEH27Gl6SGASSzkySvxukasEBxbJPwP3kUUUOauaMrRxYZHjkvJLFJDKLEq1xxvn06g/7RRRXGwWTZ//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAIDBAEGB//EACUQAAEEAQMDBQEAAAAAAAAAAAABAhEhAwUxQQQSUQYTImFicf/EABgBAQEBAQEAAAAAAAAAAAAAAAADAgEG/8QAGREBAQEAAwAAAAAAAAAAAAAAAAIBESEx/9oADAMBAAIRAxEAPwD5LkzI1I9vEscq2zBnh7lWGt+k2NGa5Mzm2eehVUsJsESfJ1WhEsqLsLoWLAxAlvouyruZ3Osvyramd3B2RBzu5aSjrZUgu9HW908m+Bpx/wBAZNAnonlbalDkvYA7IqRLpCbZ82Aa0ek1LJ6fdpiJpuHq2dd8ZdkfLf1wADNV2P/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">The Less I Know the Better
+                                    <div class="name">untitled 08 l 09.06.2014.
 Explicit content</div>
-                                    <div class="artist">Tame Impala</div>
+                                    <div class="artist">Kendrick Lamar</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAYDBQcCBAj/xAArEAACAQMDAwMCBwAAAAAAAAABAgMABBEFEiEGMUETYXEUIgdCgZGhscH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQBAP/EABwRAAICAgMAAAAAAAAAAAAAAAABAxECIRITMf/aAAwDAQACEQMRAD8A89TXEkkz8nBNcollP5jUtnAs9wVQg8036Vo0TFDNhY8hSfc1bFFz2iCabr1QnlZsE5NdjS7S7vLhYLfc0jHGK0TWelokjhe2YenI3p9ucjHgfNN3TvSdtoOmteTMjXCruyDnH60ecXB1YqGfux5JGR9QdO6joU0KagrI0iq6jPg8g0Va9aatda3rYNwzOAdoJPjsKKU6Xo5W/DPo5GhuCUJBBz7invQNQutReCBiSdybNoAHHcmkFGV7oK7Ku5u5PA+a27oqw0bTFa8iu2u0T7lcJiPaBnGWAJb+DU2Mrw0n6Wdayd1tDpY9OSxwteajctLMT6ijHfzz44zWe9b9aBCbCELnbtbnhvIzVt1t+JinTfpdPDB1yGKtxt9vesP1C9N1cmQOW80WWdmqkqSLWa/kuroyTFcnsAO3miqaObMkfHnmihbt2zEklSRePo8IgE31MLTsRutgjb0HPckYP7+adOmbjRLPSZYdUt7rjJwJeGPjjsD/AJRRSwxV13VIZbiQ2WnWsMLrsG9N5+cnzS9NDlj9i899q4/qiiiMI4LeQTArgBeyt5+KKKK44//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAABAAICAwEAAAAAAAAAAAAAAAYHAgMBBAUI/8QAKRAAAQMCBQMEAwEAAAAAAAAAAQACAwQFBhESMVEHIUETFBWRIlJh0f/EABcBAQEBAQAAAAAAAAAAAAAAAAACAQP/xAAZEQEBAAMBAAAAAAAAAAAAAAAAAQIDITH/2gAMAwEAAhEDEQA/APlREW2CMzTxxtBLnuDQBug3Q0U80IkYwkOcGMaBmXngDysrpbaq11Xtq+F0M+kPLHbgEZjPjsrlwfYLrDh6e42q3CprqaPKE1DQI4uQM9z5P0qau/vPk6j5P1BWF5Mvqb6kVZI6SIiJclSXp3DFNi+3+4gM8TZASznjNRlT7pPHCLq6olmbE6M5t1jJpI8aj2H2jZ6v7qXh264uo7baMOVDbdQRyCSUNOnwQB27nnhUL1mt1NZ8RRW6OpbWVcMLRPUZ/kT4Dh+yl+M+slfSiagw/lTykFjqlrw4tHnT/VSc8slRM+aZ7pJXuLnPccy4nckrIrKtSIi1DJoLiANyveiZNa7O6VsmiSozbpB76dv9RFNrrrnLUfREVOQiIg//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Old Town Road (feat. Billy Ray Cyrus) [Remix]</div>
-                                    <div class="artist">Lil Nas X</div>
+                                    <div class="name">2 Hard 4 The Radio
+Explicit content</div>
+                                    <div class="artist">Drake</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUGBwEDCAT/xAAtEAABBAEEAQMDAgcAAAAAAAABAgMEEQUABhIhMSJBURMUYQcVI0JDYnGBkf/EABcBAQEBAQAAAAAAAAAAAAAAAAQDAgX/xAAZEQADAQEBAAAAAAAAAAAAAAAAAQIRAyH/2gAMAwEAAhEDEQA/AM4t6lCkqA+NetOawjW8YrOcyTMVEePzQ0TanFqV4/HQGo3jsiUkFwgf41rycLES8w1ksy3zhcEpfskABJ5AgAWqwKrroaZ2TwFypaY/UKf++5zcMZqNJ+yxcckNfSCVrXQJUpSj0kWPAs6oN5KwslxJQVdix7a6R2fvjBT945QzIiJWPWhx1qRKbSByRQSSCSTYvyOtUjvnKDMbrlv+hDKnClPEdJF+etEQssH9DJ6nsNksZxXTTgfbUR0SRSgPz0DWjSbZmSY2RmIKMkpbi3klElBSQhhDgSW3knwbFA9dDRq0XiI3GsaQH3FOelJ5fHnTecg5HGPwXKaUtNBRsFCv5T8+dJtuzIUZx5E9vlyB4OWbQfxWpFPykOTGvkJEvikc6UPbz5rTKW+YEnz0rQ4qHaYj8R8T20n6r7jyWWRx88RVk37338aictKY819lsh1BVQ4m7/3qycpttrN5BMlya7HSoAOJQm7oUK761CdtYHIZDecTDQmfrTvufphN0LSeyT7AVd/GgXDljotUh5Bnv5XcyWt2RpDqJrjLbqW00pDKAUpCaFgD06NdM7Y2vCjbyU7GYTKyWLbS2uQoUlx/qgK7CU1deT6b6PRrOmmVFsXOYDHwJ0fLYwTJkx1LQcNfw2/eu7Bv3H/RpxMzO02ozzeNwK2ZiHEhtx10uIIB9XV/AqvfRo10XKbAKng6x+5dsypr65uBTx/oEICLTV0QCAPi++vOtu3YGM21DzG9fteeSkpVHYQhaQEeopFfBvjZ/t0aNH6LEW5vWWtsqAYuDjxi6024tsOynieytXqV5N/jz0NGjRoopH//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">I Wanna Love You (feat. Akon)</div>
+                                    <div class="artist">Snoop Dogg featuring Akon</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -134,14 +142,6 @@ Explicit content</div>
                                 <div class="infos">
                                     <div class="name">Babydoll</div>
                                     <div class="artist">Dominic Fike</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAYHCAUDBP/EAC0QAAEDAwMCBgEEAwAAAAAAAAECAwQABREGEiEHMRMiQVFhoZEUFUJxUsHw/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAEFAwT/xAAcEQADAAMAAwAAAAAAAAAAAAAAAQIDBBESIUH/2gAMAwEAAhEDEQA/AKwyrcoDNIOpupsazuuRgyVSUqxtAK+PnkAH4qhMFDTqC9tQjcBlRwMntWY9UjF9mlQU4FvK5wCe/OT6cmkVt3NUNKXwcYnVq4SHkhQZbysAJ8LCcZ9TkmrDY5yrhbI8ladi1p8yf8SDg1lBiKtZQ4ltf6dTmzeRxxjPP9GtR6ddgxEItEeShyU20HlN58wSQOT+fuhmWpmp5OUzrPL+aKHEZ/iKKaKnTg6ut71309KjRcKlDDjAJ43pORnPH5qPawtyW1vPOJd37yCgq5Qr19O2Oe1VHVetbNpR1LM/x3JS0eIlllGSU5IyScAcj3qT37VzWo5siUmGmO2ogFpTxG8AeVRIHf4xjtSJe94Npp+xXs1ucuVyjxW96WivatQ7bfXn3xWhtN2Z1vVNxvKk7IjsdqNGbUckhKU5V/XAHvxUCt10chuPuNFCA4pQIQeDn0xj7pw031Vm2d9yNcI37hCyNh37HG+OQDjBGfQ/mg59eom07Lo4tWfSilXSuv7HqeYmHDElmaUlXhPN44HfCgSKKaLM5JpdTORr3p+rV13ROTcRFKGUs7Czv7EnOcj3pXX0WnI5avLCvjwFD/dFFIyya+On1o8R0eue7Yq5RgD/AC8Nf/fdfbG6KvKIVIvSQPZEYk/aqKKDOdXE/gyaT6bRdL3hu5NXCTJeQhSNqkJSnzDB7c/dFFFNHRGKZXEj/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">I THINK
-Explicit content</div>
-                                    <div class="artist">Tyler, The Creator</div>
                                 </div>
                             </div>
                         </div>
@@ -259,7 +259,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jul 2026, 17:05:09 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Jul 2026, 07:31:57 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
