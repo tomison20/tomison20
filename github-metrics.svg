@@ -33,12 +33,12 @@
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -129,18 +129,10 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAMFBgcIAgT/xAAsEAACAQMEAQIFBAMAAAAAAAABAgMABBEFBiExEjJBBxMiI3EUM0JRYoGR/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAMBAgT/xAAbEQEBAAIDAQAAAAAAAAAAAAABAAIRAxIhIv/aAAwDAQACEQMRAD8AzX+kuDGjrEzIxIGKSkR45CkiMrDsEVufSbK2GzLGcaRpnyoLSLylUKHP215IaPsggH8n3r1bg21Fd2t3ajRdNtpLiN4g6MM/Wvjn9vjkj3PVKjiWDFYZ9QpZefetsWehG3s4Il25o0ktvGI2cuv0v4eHRhJIwGx/3NZG1NZ9ybl1O8s7VIVuLh5VhTAWJSeFGOMAYHFZA91MLngmilru3ktneOYeLr2DRSWltPe8S2jiW6uQmCvj80+OOsYz/VJ6jcal46gU1C9U+DdTsP4/mnHTowyryM8/nuu7yBflX5yPS3t/jVUu+3tSO+tS1mxSwK6vqSlg65F044wOO+qkPwp23ezaJa6lBbC4W+mnhPkvECp4fczn3LEdHr+s0z/FlUWPSGQLKFd8qOQfTwce1Sqbfb7d2XpUu14Wt3+TIv21aRYVLkYPmWKknPBJA9iamk39bKrt+oY9xXkUiNHKn0ujjDKw7BFFWv8AFW+gvNiWETWtqNVOmwPcTyIBIfJlcBGwSTkEYJGBnuijc73SvS7eecKDM6qD0nFPkWgW0zsZyzu3q8mOTRRXoApZ5I+XUmzdLePi2hJHQYcVEt7bN3Dc29jFt+ysojbuR5pcgK8ZOSrKQMjIHvRRW5YiUzkyGkzbZvb+Itrdlp2IkxGUlZ2Ax16Bx/uiiigTu3//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUGBwEDCAT/xAAtEAABBAEEAQMDAgcAAAAAAAABAgMEEQUABhIhMSJBURMUYQcVI0JDYnGBkf/EABcBAQEBAQAAAAAAAAAAAAAAAAQDAgX/xAAZEQADAQEBAAAAAAAAAAAAAAAAAQIRAyH/2gAMAwEAAhEDEQA/AM4t6lCkqA+NetOawjW8YrOcyTMVEePzQ0TanFqV4/HQGo3jsiUkFwgf41rycLES8w1ksy3zhcEpfskABJ5AgAWqwKrroaZ2TwFypaY/UKf++5zcMZqNJ+yxcckNfSCVrXQJUpSj0kWPAs6oN5KwslxJQVdix7a6R2fvjBT945QzIiJWPWhx1qRKbSByRQSSCSTYvyOtUjvnKDMbrlv+hDKnClPEdJF+etEQssH9DJ6nsNksZxXTTgfbUR0SRSgPz0DWjSbZmSY2RmIKMkpbi3klElBSQhhDgSW3knwbFA9dDRq0XiI3GsaQH3FOelJ5fHnTecg5HGPwXKaUtNBRsFCv5T8+dJtuzIUZx5E9vlyB4OWbQfxWpFPykOTGvkJEvikc6UPbz5rTKW+YEnz0rQ4qHaYj8R8T20n6r7jyWWRx88RVk37338aictKY819lsh1BVQ4m7/3qycpttrN5BMlya7HSoAOJQm7oUK761CdtYHIZDecTDQmfrTvufphN0LSeyT7AVd/GgXDljotUh5Bnv5XcyWt2RpDqJrjLbqW00pDKAUpCaFgD06NdM7Y2vCjbyU7GYTKyWLbS2uQoUlx/qgK7CU1deT6b6PRrOmmVFsXOYDHwJ0fLYwTJkx1LQcNfw2/eu7Bv3H/RpxMzO02ozzeNwK2ZiHEhtx10uIIB9XV/AqvfRo10XKbAKng6x+5dsypr65uBTx/oEICLTV0QCAPi++vOtu3YGM21DzG9fteeSkpVHYQhaQEeopFfBvjZ/t0aNH6LEW5vWWtsqAYuDjxi6024tsOynieytXqV5N/jz0NGjRoopH//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">The Weekend (Radio Edit)</div>
-                                    <div class="artist">Michael Gray</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAQHBQYIAf/EACwQAAEEAQMDAgQHAAAAAAAAAAEAAgMEEQUSEwYhMVFxFBYiQQcVMjNSgaH/xAAYAQEBAQEBAAAAAAAAAAAAAAAAAwQCAf/EAB0RAAICAgMBAAAAAAAAAAAAAAABAgMRIQQTMUH/2gAMAwEAAhEDEQA/AOVFZf4YWA3TZ4vvy5/wKtFtfQt51WxKxri0nDgfQo9HqLF660m4dAnFurNE1w+lz24w4dwD6H3VIrobWpLN/SeKnHM99+u18tfeAwuiBAl893YDsk47/Zc/24zFZkY5pH1Hyo029ieTuypw9RHREViZ6p+j3DSvNlGPBHlQFLdp9xhG6tM3PjLCj2dRk4tNF66bDP8AKvxdiQw3oKsra9Rwy6w13gs/sn3VGXLT32JN7WEdxjYBhbjV17qirplPit8basLoYRsHI1pIyO7fPb1WoT09QsTySvrTve873O2HvnvlZqKZQbcvpa3kTsxlmPREWkzhERAZ/i6c+XOT4rUfzzb+1xt4c7v5Zz+nv7rAIiAIiID/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Money In The Grave (feat. Rick Ross)
-Explicit content</div>
-                                    <div class="artist">Drake</div>
+                                    <div class="name">I Wanna Love You (feat. Akon)</div>
+                                    <div class="artist">Snoop Dogg featuring Akon</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -152,10 +144,18 @@ Explicit content</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAYDBQcCBAj/xAArEAACAQMDAwMCBwAAAAAAAAABAgMABBEFEiEGMUETYXEUIgdCgZGhscH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQBAP/EABwRAAICAgMAAAAAAAAAAAAAAAABAxECIRITMf/aAAwDAQACEQMRAD8A89TXEkkz8nBNcollP5jUtnAs9wVQg8036Vo0TFDNhY8hSfc1bFFz2iCabr1QnlZsE5NdjS7S7vLhYLfc0jHGK0TWelokjhe2YenI3p9ucjHgfNN3TvSdtoOmteTMjXCruyDnH60ecXB1YqGfux5JGR9QdO6joU0KagrI0iq6jPg8g0Va9aatda3rYNwzOAdoJPjsKKU6Xo5W/DPo5GhuCUJBBz7invQNQutReCBiSdybNoAHHcmkFGV7oK7Ku5u5PA+a27oqw0bTFa8iu2u0T7lcJiPaBnGWAJb+DU2Mrw0n6Wdayd1tDpY9OSxwteajctLMT6ijHfzz44zWe9b9aBCbCELnbtbnhvIzVt1t+JinTfpdPDB1yGKtxt9vesP1C9N1cmQOW80WWdmqkqSLWa/kuroyTFcnsAO3miqaObMkfHnmihbt2zEklSRePo8IgE31MLTsRutgjb0HPckYP7+adOmbjRLPSZYdUt7rjJwJeGPjjsD/AJRRSwxV13VIZbiQ2WnWsMLrsG9N5+cnzS9NDlj9i899q4/qiiiMI4LeQTArgBeyt5+KKKK44//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBQQD/8QAMhAAAgEDAwIEAwYHAAAAAAAAAQIDBAURAAYhEjEHE0FRImGBCBQVI0JxJTKCkZKxwf/EABkBAAMBAQEAAAAAAAAAAAAAAAIDBAUAAf/EAB8RAQACAgMBAAMAAAAAAAAAAAEAAgMRBBIhMRMicf/aAAwDAQACEQMRAD8A99q1VnuFDU2xKWlho3kEiqKk/EcYBGW44PprD3ZvW6QpPQ7Ut9AbTQMaTza34/O6cghV7EA8ZPfUHFO6mqPUTGmel1zjOe4OqG16FRQW2qeWqY08DRfdXfEUvJOSmCCct3/bU3JqKIRvCx9ewu/7Oi3U1q3VM7XClNir4wDKKSPzIpeo4DKpPHOc4PHtptk8HZp6YJSXyArnqHnQMv14J51m+FE1JXLMs1whauWVQqzInUyYLFV4HGR7dz6ao1traWnvk38QdmKhmiYfDyMgA9uPl21wAa+MRnclbjX0ZMrn4U3ahqoIpLrapJJ26YYzJICx/wANGr0KikanepkeJTApfzHAzH8+e2jSm7GV9JlWrw12/s3ZNNS3Cgp7nOWD1dTUoJF8wjkqp4A9O2cd9JfiLRUEk6U1Ra0qLTUpiKogODFIRgsnScA4xweMj21bbPeLfuywLPTyJJDMvLA9vXI9vr9dTG4b02pWUNytizusBDxxztH0pIRkAqwOMk9sgamta3bbNDEHX5uROKkoLRUvTWuNJVhkYR1jhTKwJHJYAHHB49tNVgjNReRDyVb8wgduk4JH+xqdy10cMrOXCuffTrtmur6hoYbVSCScKDLK4wkSjJyTqnKoROKvb2PG+4/w7bz39I3atgZYWRDgSo7AFHHqB6D0+p0azftA3Y0GyqG3IzJU1cqyP0t0lQv/ADOjRcfEZKbsQb5vxuhiv4S7mrpdtXnbFDK8c00Xlq456Y3/AJsex5I/q+WmCLwcuiGaM3KCBgB5cbnqB4/Vjto0aHlW628nnGXpOWz+FtxpbjM1RDBLVujR9SRsVjz+sMR09ufT++te0WdKOsjoJpXitVkU1Vc8cZL18q8sPcxoBz6E4HOjRoD9vsNsmyRrxU3bJvjdFVc6dJUoY0C08L940Bxk44BJGT++jRo1pUqVNEjv67Z//9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Old Town Road (feat. Billy Ray Cyrus) [Remix]</div>
-                                    <div class="artist">Lil Nas X</div>
+                                    <div class="name">Motion Party
+Explicit content</div>
+                                    <div class="artist">Bossman Dlow</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAcDBggCBAX/xAAwEAABAwMDAgQEBgMAAAAAAAABAgMEAAUREiExBgcTIkFRCBRhcSMyM4GRoUKxwf/EABcBAQEBAQAAAAAAAAAAAAAAAAMEAQL/xAAbEQEAAgMBAQAAAAAAAAAAAAABAAIDESESMf/aAAwDAQACEQMRAD8Antlrs2CtVrg5G+VNIH+69+deram1G3utW5yIkfpKbSpIP7Dbes2udcXkrKkvox/inQCAffB5P3qK0r6g6nuTNqt7j778lWlLDR0JPuSBgY9ya3SqsLyajGvFrsEhD860WiLLksqSnwGz5MqOMlI229qoE5TMhao0m2R4rijpBba8NSCeOOf+05rF2zndD2uZNvUiLKL5bSPBdUC2rfIOdjsefeq7dLPbp843GUzLbtUYgOzGkKeKSCSRgcnbG+wzvUt8y5fJLcWGph9biSebWy6ttxJStCilQI4I2NFdq7PGVcpUnzYeeU55udyTvRVUm5H3N+G99TqHLZe0eAVeduU0QtI+6dj/AFTG6U6G6Z7W2125PPl6dpIVMeGFEeqW0fX+aYQe/CT4xJSfasz9wp99uF9uMO1xJy1sLwnJ16UpODjUc4zvkUXptxdEwqrwlrj9SOdyOq0W9MYu29KCpLOrDbKfV1ZHKsbY9zjbmnFbLdAt0RuHDZbbjsJ0hAAwMj1+9LbsnZDZOmXZT7QN2nL1PISkBTaBskHHHqf4q8tOFtUjS2pIWrUvfO+KJqb3WNtDyzOfxGdO2e13uNLssZMT5nV4zKBhBUMHUkemc8DaiufxFT2pF3tzCE+dptZUrPIJ2H9UVZQ5Afs0O9eYico+YSQc4IyR+5FZv7r9RPK6xamW1iWqO2RrDjSkBSgMHTn0IweOd/WiijrQtxnRZqiSboruW5b56pDkKQ6soKQyygqKd+TwDV+T3ValMKEjp68pQAVA/L5Kj9N8D7k0UVhirThOr5LXdsQncK9OX3qJ+WY7zDZSlLbbv5gkDk0UUUwQ5//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Billie Jean</div>
+                                    <div class="artist">Michael Jackson</div>
                                 </div>
                             </div>
                         </div>
@@ -273,7 +273,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Jul 2026, 07:22:35 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Jul 2026, 07:25:01 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
