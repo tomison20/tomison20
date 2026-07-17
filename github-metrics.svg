@@ -30,11 +30,11 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -129,34 +129,33 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBAYHAf/EACwQAAICAQIFAwMEAwAAAAAAAAECAwQRAAUGEhMhMQdBUSJhcRQygZEVQqH/xAAaAQACAwEBAAAAAAAAAAAAAAACAwQFBgAB/8QAIREAAgIBBAMBAQAAAAAAAAAAAQIAEQMEBRIhEyIxQVH/2gAMAwEAAhEDEQA/AHm5XnqzQoiIQ2SzMfAGrPD9kXa9m3ZgXp143k6eccxVSQCfgnH8a8s7O25PHIsqoqZVhjJIPxq1u6bbtPDskNqdoIGCx/R+5wTgjt3Ix8Y/PfUI9C5o8zanzN7Ush4P2u5c2yt/krkc96VeeRl5VRWOSVGAMAeO+TpqOG90JZGeqMgcrB/fI9tQwy7dtmyJu1RnenLHG/IvKzhmIUcy5+/gZOncW6zRwhkkj5AMhgg8efjxrsR5D2FGNTM4UDG1gf2Z+xtlupEZLPQaMkKDG2Tk5Pg/jRq9um6teqrGJEdOYOeVAPY476NEQJY6ZvInJ5T2+7VjDrJPGpJHk6pcXbJLxBFWqrMsFM5aWQjOR5wP6z8a4/xFuLUqaolhnsN2cgZzgex/OmO2pxBt/CXWuSbh1L9iOSpYEnWSIhSOnIucqpDHJAx/IxoaDCm+TLtu75iwC1OrbLtsUkUSR3juFUQmNOtEEwvgHI9sA+w+dc59VOKrm1WBstW6OlyqyGCMtIVxgAyE48jHYZAHnOsZa9Vd9tGBI5f00bqq2ekg5nwe4XzgY7fONeceWa68R1bUyvNFLXVo0Q8owGIx/X/dMCV8kfLreScZvPTTdnv/AKms9tZDXijHTbPU8diTjBx3B/jRpd6YJtLbrYs7OLQ6lRVmWcdkkDfUqnJyP2nJPvo0B9ejNHtBvTAjr7GW/cCjcbtWWrZirJHGyupBJLHIyMdvf7d/jTpae9wcMDbYb1U2VgFZJzzhVUZGeX5wfHjPfRo14yg1DXb8C8iq1cwqel9qtTaCpuFMPJgvPJES6474Q/6/nydT7hwmL230NuWxGt2ozsZLGXDKwwx7HJ+odj7aNGmqblZrduwYgpQfs0nBvDEuxSRNLZikVKxg5Y1IGTIXz3+xxo0aNLJl7p8KYMYRB1P/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAcFBggBBAn/xAAuEAABAwMDAgQEBwAAAAAAAAABAgMEAAURBgchEjEIQVFhFCIyQhhUcYGUwdH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A1TXFEJBKiABySTXaVPiU1dP0dtu5LtSB8TJkIipdIyG+oE5x+gP70FyGudLl1bYv1vJbIStQeBSkkZAKuwOOe9T8d9qSw2/GdQ6y4kKQ42oKSoHsQRwRXzRjawvMabcJLUlHXPUlUlJbSUuYzgYxwOcYGOK2j4WtTStTbauOTUx0ORJrkdKWUdI6elKu2cd1ntQOKiiigKVPietq7ls1eUtlHUwpqRhQySErGQPQ4P8AXnTD1DfbVpy2OXG+z48CE39Tr6+kZ9B5k+wyTWZNeb4xtbaysunrA4qPpgykLnPyUob+K6FBYT8+Qlv5RnIBPmMDkKHarxo86CNod0a7NfUpLiZylR2HkYwopLqUqWQTn7c4OMmn74Sobcfbm4Psx1RmZN0eW22VFQCAhCRhRAJ5Secd6y4yqA29LbZWhyMl1xtDicqQ4gE4I4Axj2HFMTbzcS/bVXWwN6mSFaVucTKm2ElRZUFryrB+lxJI6kD7SnjOKDZlFRGmNSWfVNsRcNP3GPPiK462lZ6T6KHdJ9iAaKCvbi7Z2DcF2GrUhnOIiAhppmQW0AnurA7nsM+gqnfhp28/K3L+Yr/KKKD2RvD5oWM2UMR7igHPIlqzzjOPTtUnqfZnSmp4drj3oXCQm2tKaZUZRCiCRkrOMqVwBk88CiigkdutsNO7fSJrumxMb+MSlLyHpBcSrpJIOD5jJ596KKKD/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Harleys in Hawaii</div>
-                                    <div class="artist">Katy Perry</div>
+                                    <div class="name">4 Raws
+Explicit content</div>
+                                    <div class="artist">EsDeeKid</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAUGBAIDB//EAC4QAAEDBAEDBAAEBwAAAAAAAAECAxEABBIhMQUTQSJRYXEGMjPBgZGhsdHw8f/EABkBAQEBAAMAAAAAAAAAAAAAAAMCBAEFBv/EABsRAAMBAQADAAAAAAAAAAAAAAABAhEhAzFR/9oADAMBAAIRAxEAPwCydU6ytSlFwOdz070Rvn/tdvOvuIbDyVAzkklHkcSCY/nTLqhZecacZbJCVDIEYqH5jO/EQfqtbRQ60hiGe8+FJ9apgASCkkc6PnXvXmqjp283wS3aEN5ZWrW09wJTEYxkN8SD96pV23SlSm2lesk/l0T8QYj6qtPSr17pzbZLWBcDwfzHb94mNHxHG6w3TISFNNobN20eA4YgjmR4gDmkmGjh0iYLS1AyhaXAog5ce4+qKZISpZcSyjukuRkngkp8fGifGqKtIN0d2928hLKnnWFtqUFBC3I9MSQQdpn5Pn2NMPw71C2a6i64wy6GlLVKXQFSgwfOpkCI8VKdxDASpGKiVjJKuFaiCAZ41W5XVA42pCQ1kkSq7yKIk/pgEb0IB8VBefS6R1zp6rU2eCU2uJBTJiOfv96Sfiy2t1XluXc0WspgNECUb/rM6PiopLNylS7gXLGnMS2ViYJjKOMZ1VAjqi20JDnZLlwEhF22ruEYqEoWjkaGzHsaWa1Yw6nuo9Es3dp37dgWxycmQvZTBxH9+D8UVssOzfXDbb1wnusqWptxAxUhQSk6B/iNz5opF4m+oh2l7PnZu0YJIecDuc6MAD48g/5oQ62++lsvwknlTg/cxRRWZmkbNizCAVFHdICc1AaTMZRHPB14pMq8VbPusIuEFCF8tuggniQQY480UVRJtseqhuFd103GejOScYgz5J/2aKKKaaeBVK0//9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAMGBAEI/8QAKhAAAgEDAwIFBAMAAAAAAAAAAQIDAAQRBRIhEzEyQVFxgRRhkaEVgtH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAQIDBP/EAB8RAAICAgEFAAAAAAAAAAAAAAABAhESITEDBEFh4f/aAAwDAQACEQMRAD8A8q1qs7SS63BPIqPknAFZfOq3TLQ2OhWl3LgNcTl493C7lGFLH0ySeeKqKLjBytrwTphgTU+i0pNsJdhkA525wTj2p+r6TcaZI3UxJB1XhWZPC5XGcfBU+zClS2FzA69eF1OTkEcgA4JNUdxZTzaFfo7MwjKXK57jjGSO4yue/pSjByehUqyI6iiikSdFXmktqulWFjG1/BLZ3Ks30joZgFxySoHb2+9QdWGh3Tfx+nzRPJ1YnmtmwfDuXcpB8jnP4q4NJo6+0ayafP0JtG1kyLNZ2rC3kkJQAhQvIHKEnaM+R+adNpFxcPOFu2hbazTwuSJTtUk7/UY7Ht7VJyTXEUxEjuGByQSf3VRrGsXcdhCXcC4ayEbswyziU5OP6Koz/tNz59meXTSla2RpxnjtRXKKzMDta7K+ns2UwvgLIsu3y3L2P7P5oooqxxk07Qq5lE11JIQQruWx6DPamajeS39288xJZsAfZQAAPgACiigG9mSiiigR/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">No Church in the Wild (feat. Frank Ocean &amp; The-Dream)
-Explicit content</div>
-                                    <div class="artist">JAŸ-Z &amp; Kanye West</div>
+                                    <div class="name">Am I Dreaming</div>
+                                    <div class="artist">Metro Boomin, A$AP Rocky &amp; Roisee</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAMEAQUGCP/EACcQAAEEAQQCAQQDAAAAAAAAAAEAAgMEEQUSITFBUSIGYXGREzKh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDzNVowyaZNalsBs+9sVes1u58zj2fs0D9k4HnEN/T7NC1Zr2onMlrSfwyjsMfz8SffB/ShrTyVbEc8DiyWMhzHDtpHRH3W60jWImyaZW1Fhfptad1uaNv9p5O/kfw0NHrJ9lFc+rVClPft1q0DQZLEgij3ENaXEgAZPA7VovgZosE0ZAvi29zuOmbWFv8Au5bHVNdgtO1qJldramoyttsZtGYJuSdvpvye3HrafCg1+q6fDSgYwvmj1GKR8N2nNHtdC9pxkHyD1jsEHxhFUv3bGoWTYuzPnnLQ10j+XOwMDJ8nAHJ5RVFVERBnJxjPCwiICIiAiIgKem6BtyB1trn1xI0yNacEszyAfeERB1H1HY+jpdLe3QqWow39zdrppQ5uM85H4REQf//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcDBgECBAX/xAAuEAABAwMDAgUDBAMAAAAAAAABAgMEAAURBhIhEzEHFCJBUTJhoRVxgZFSYpL/xAAYAQADAQEAAAAAAAAAAAAAAAAAAQMCBP/EAB4RAAICAgIDAAAAAAAAAAAAAAABAhESIQNRIjEy/9oADAMBAAIRAxEAPwBxMCY9GRGaaPTa+rqqwUj5we9K7xamwILiZEqeEREK6bYA3OynM8pQO+0e6v4pdX3VOuphXNt0G5QkPNnc7MySB7hP2+5rewaVh36WLpcNdvT7s7E6ceFDaUJKJB7JORtS2Dye2ftXQ5dEFHs9WV5e++H8h5lt9hxcxMPLrZSpSVDeRz7YRUl08NYQsEWVDj3f1NBS3XOihsnHO3coEjNXLxFtKdMaI05ZXpSpEnzXUfcVypRCMHP/AGBUF1hWedZo3mZkpS0xkpK2umoDCAMYIB4xjnP70/Y1oQ+o9EvQ20FDExDilfU+E7FD/VSSQT/NFMKZbNtqjpjvvOsJc3dFewLTxjPpAP25JopLjs05Ds8ZrnKt0aN+mQVSUspHXDaRwg96pVputpsTCrramENSHU7tp5SlX2Hsa2j6ynPR4czXnmo7QZ3qjRWtjaiBx1D3+OM8/FKnxB1na58bOn1hQccLYHbB75x8U14rZP6eiw3jVrmobql6SouBjPP+Sj3H4H9VarBP06qKhh6FKmOFvcp5LobTuI5SPSTweOTSPtcoNNtpaWTsVlR7nPuad1qnT12y3CJ5YlTCQQmVJaBTgY9KRtBx3I9+aVo3R2XC122HEakJDiUO4SGCsOlB7gggA/x+aK77/KcTYYTkwICkkISC886c4yeHB+RRVY1Rh3YjNX600gq1pa0/Z5z0xed8ifMdXz+27B/qltYpLMC7RJcqMmSw04FOMqOAtPuKKK5W7ZZKi83XWmnpVtfZh6aajylNlDTu/wChXHq49x8Vm36+Yhx0RhB6kYoCXUB91vccYJ9K8HJ57UUULQyO+68al26O3CjliQ3lKikrKduPYqUr8AUUUUZMMUf/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">All The Stars
+                                    <div class="name">You Know How We Do It
 Explicit content</div>
-                                    <div class="artist">Kendrick Lamar, SZA</div>
+                                    <div class="artist">Ice Cube</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAYHCAUDBP/EAC0QAAEDAwMCBgEEAwAAAAAAAAECAwQABREGEiEHMRMiQVFhoZEUFUJxUsHw/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAEFAwT/xAAcEQADAAMAAwAAAAAAAAAAAAAAAQIDBBESIUH/2gAMAwEAAhEDEQA/AKwyrcoDNIOpupsazuuRgyVSUqxtAK+PnkAH4qhMFDTqC9tQjcBlRwMntWY9UjF9mlQU4FvK5wCe/OT6cmkVt3NUNKXwcYnVq4SHkhQZbysAJ8LCcZ9TkmrDY5yrhbI8ladi1p8yf8SDg1lBiKtZQ4ltf6dTmzeRxxjPP9GtR6ddgxEItEeShyU20HlN58wSQOT+fuhmWpmp5OUzrPL+aKHEZ/iKKaKnTg6ut71309KjRcKlDDjAJ43pORnPH5qPawtyW1vPOJd37yCgq5Qr19O2Oe1VHVetbNpR1LM/x3JS0eIlllGSU5IyScAcj3qT37VzWo5siUmGmO2ogFpTxG8AeVRIHf4xjtSJe94Npp+xXs1ucuVyjxW96WivatQ7bfXn3xWhtN2Z1vVNxvKk7IjsdqNGbUckhKU5V/XAHvxUCt10chuPuNFCA4pQIQeDn0xj7pw031Vm2d9yNcI37hCyNh37HG+OQDjBGfQ/mg59eom07Lo4tWfSilXSuv7HqeYmHDElmaUlXhPN44HfCgSKKaLM5JpdTORr3p+rV13ROTcRFKGUs7Czv7EnOcj3pXX0WnI5avLCvjwFD/dFFIyya+On1o8R0eue7Yq5RgD/AC8Nf/fdfbG6KvKIVIvSQPZEYk/aqKKDOdXE/gyaT6bRdL3hu5NXCTJeQhSNqkJSnzDB7c/dFFFNHRGKZXEj/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAMFBgcIAgT/xAAsEAACAQMEAQIFBAMAAAAAAAABAgMABBEFBiExEjJBBxMiI3EUM0JRYoGR/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAMBAgT/xAAbEQEBAAIDAQAAAAAAAAAAAAABAAIRAxIhIv/aAAwDAQACEQMRAD8AzX+kuDGjrEzIxIGKSkR45CkiMrDsEVufSbK2GzLGcaRpnyoLSLylUKHP215IaPsggH8n3r1bg21Fd2t3ajRdNtpLiN4g6MM/Wvjn9vjkj3PVKjiWDFYZ9QpZefetsWehG3s4Il25o0ktvGI2cuv0v4eHRhJIwGx/3NZG1NZ9ybl1O8s7VIVuLh5VhTAWJSeFGOMAYHFZA91MLngmilru3ktneOYeLr2DRSWltPe8S2jiW6uQmCvj80+OOsYz/VJ6jcal46gU1C9U+DdTsP4/mnHTowyryM8/nuu7yBflX5yPS3t/jVUu+3tSO+tS1mxSwK6vqSlg65F044wOO+qkPwp23ezaJa6lBbC4W+mnhPkvECp4fczn3LEdHr+s0z/FlUWPSGQLKFd8qOQfTwce1Sqbfb7d2XpUu14Wt3+TIv21aRYVLkYPmWKknPBJA9iamk39bKrt+oY9xXkUiNHKn0ujjDKw7BFFWv8AFW+gvNiWETWtqNVOmwPcTyIBIfJlcBGwSTkEYJGBnuijc73SvS7eecKDM6qD0nFPkWgW0zsZyzu3q8mOTRRXoApZ5I+XUmzdLePi2hJHQYcVEt7bN3Dc29jFt+ysojbuR5pcgK8ZOSrKQMjIHvRRW5YiUzkyGkzbZvb+Itrdlp2IkxGUlZ2Ax16Bx/uiiigTu3//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">I THINK
-Explicit content</div>
-                                    <div class="artist">Tyler, The Creator</div>
+                                    <div class="name">The Weekend (Radio Edit)</div>
+                                    <div class="artist">Michael Gray</div>
                                 </div>
                             </div>
                         </div>
@@ -274,7 +273,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Jul 2026, 07:18:32 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Jul 2026, 07:22:06 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
