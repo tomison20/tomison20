@@ -30,8 +30,8 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -129,6 +129,13 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEAAwAAAAAAAAAAAAAAAAQFBgEDB//EACwQAAEDAwQABQMFAQAAAAAAAAECAxEABAUGEiExBxMiQWEyUZEUFkNxobH/xAAYAQADAQEAAAAAAAAAAAAAAAADBAUGAv/EACgRAAEEAgIABAcBAAAAAAAAAAEAAgMRBCEFEhUiMWEGEzKBkaHB8P/aAAwDAQACEQMRAD8AjZq8w2mtPYi+vMbdZBV6fKS226BCgJmCKkXfiFhcK8EP6Wyto8qFAurTu+IkcU14nvO4vS+lXWEBb9reFwpWJ52TEV5zrfUF7q+9tn7izbt/JRsAQCaj4OAZ2NcW2Ddm0/IXWeq3I8XMSpClJw+VKAoSoOJmT1z9+K4a8UsDfvpab03kbm4WSEhDiNyifgDk/wDKz2MtFYvTy3Mc8i3u1plbjaXeRP547mODyKz+PzOZs83aZFZbunbYKQlLjYCVJVO4GADzJ57qk3io3GgD+0uZZSD02QvW8JmsNqXTOUft8S5aO2qw1Lzm5RVE8RRUrwntJ0dqJCWy2p26SW2/q/jPHNFQ8mL5Mzoxqk00ktHYbV7XbaLnFYtpSSoeeogEEzDcmB2eKyycKnygtDfrHqLUQpKfb4rX5pq3vcfp9+8feaSw4p1XkK9Th2ARu9pnmKkMFmwedft7q7umfrLVwkKUkBUgJVwT3HNbf4eMnhwLWX6717qPyHI5eNN1hb5RV+Ukb90gptSGEgh6CngB3n8911jFoU15qmYcV6g0eVKHuZ6/NVEXL/mFBSjjjZCQCfjgn4iYjjquXlW94ErvHL1qQFJFosIVyqVBSon29uqf46HIjc62/wC+6DNyEsDmswgXF2zon+BP6RQ01h8m2EQA6kqAnstyJHfR67oruxyLOwwmcuscq8Up51K1G4clSVFMCD3AEdz/AHRWE5kuOdL2FG/4FbglfLE18gp1bvR/Ch53F43UemsYyvIFpbCispaICpIjmR1SmP0Bik2V3ZJzFzF1sCpUgrMGRtPtz3RRU2PNngHSN1BHfGyT6gn/ANm2Jy5yoy7ouz6Nh8vb9OyY+8f7zSOQ0BizY2lm5m7kfpitKdu3cJMkKI75+9FFd+K5fp3QxjRNohqbxOOstOabyVjb3rt4bpQc3LAJSQIiRRRRQhI6Ql7jZKOAAKX/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Universal Joint</div>
+                                    <div class="artist">Secret Agent 23 Skidoo</div>
+                                </div>
+                            </div>
+                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAIDBAEGB//EACUQAAEEAQMDBQEAAAAAAAAAAAABAhEhAwUxQQQSUQYTImFicf/EABgBAQEBAQEAAAAAAAAAAAAAAAADAgEG/8QAGREBAQEAAwAAAAAAAAAAAAAAAAIBESEx/9oADAMBAAIRAxEAPwD5LkzI1I9vEscq2zBnh7lWGt+k2NGa5Mzm2eehVUsJsESfJ1WhEsqLsLoWLAxAlvouyruZ3Osvyramd3B2RBzu5aSjrZUgu9HW908m+Bpx/wBAZNAnonlbalDkvYA7IqRLpCbZ82Aa0ek1LJ6fdpiJpuHq2dd8ZdkfLf1wADNV2P/Z" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">untitled 08 l 09.06.2014.
@@ -145,18 +152,10 @@ Explicit content</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcDAv/EADAQAAEEAQMCBQIEBwAAAAAAAAECAwQRBQASIQYxEyJBUXEUYRUjMoEWJJGhscHh/8QAGQEAAgMBAAAAAAAAAAAAAAAABAUBAgMG/8QAJhEAAgIBBAAFBQAAAAAAAAAAAQIAAxEEEiExI0FRYXETIjKR0f/aAAwDAQACEQMRAD8AS9NRcK7jkNu4pTzyGhTikgqcXutRPPAHYe9H9pEuR0xElOoewj7YQUhdbRsQnknhXJPv6jjg95/Sj8RvHONko+qASdrifKpJAHBvvuv25GknVjzRWtxhJJYT4rqVHzrQlxB7fAP9DoUatl1RoKHA88mDLTa3iDG3zjGMvCBhhMjBT2HnQrwTMZ8Jp9w0QCbpII7ew+/OluBbxceM2qfCenuSlhSA2lIpAuwkFQO6x8Vp9lJuO6kxkSG3IDwBS7ubdKg2kCk7+PT7cc0dSsrNbVPSFwFw8W034rkho0lauTxtO21UmuDYo3xomm+xqyzLnn3hN1FVT7QwxjMrsvJ9PMocR/D5RLCDtS4QUhxR9aN7QO3r/nRrq5i4UrAJlF1AfcSSFbgdlE+Un3/YaNXTXaUZVtwI77gvidhOPiTo/QGSymJ+rjS4yn0JKm223/BcSO9ElO0/BFX2I9UfTMSNKnOJnNP7m2lqcDj2xwKTuSnkCuCCKqufm7lBz0HKYJgN5NhBbRQTJ8uyr4CxfHzWsyyjjcuZIUoKUjxipC23CNwoAgkfqSSkH+/rqQGvcrX36xrfoKtLWtu7dk/j7TSekI0LpnBTlswAZciX4T0lhwgBCeUpoXtCvagDXOuGenQIsqVEySz9SQCltxQJ2FIO0VwDZNirs6SdBMZKb1C0+3Neis2S68FkbqH6ePft7DWxTOnMEFHJSUMD8lKlKQqvOkm1ke+3njub1vrqqrE+luwe+PWc/uC25cAzCY+HZeQ2gieyuRSWt5HhrX3CFIuxdUCfXuNGrTMyWOjsrdckRX3Yo/k0MbiVvcAOKCuUgCzXuABo1fRLc1eXXn4hmrStWApPGJn4hx1PbnGU3fJ22f8Aup0OGiU8pK3246QkqCnLon0HHro0aY3AIhKcGa1/cwBlow0n8KbU0jJQHEJPlsrHzRH+xrznM6+Y4SzIjOle5P5Slq2p+98aNGk9FKvcGfn9fybX6SkgsV5lVCbUCQdGjRp/AwJ//9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAcBBggCAwX/xAAyEAABAwIEAwUGBwAAAAAAAAABAgMEABEFBhIhBzFBEzI0YXIIFBUiQlEjJCZxdLHB/8QAGAEBAQEBAQAAAAAAAAAAAAAAAQAEAgX/xAAcEQACAgMBAQAAAAAAAAAAAAAAAQIRAxJBMVH/2gAMAwEAAhEDEQA/ANHSn3kyHAlxYAUdr1UM85y+CQH2YmJR28YshTTL67ApKwFHcgd3V1G9WqZ4t3b6jSC42p/WiP4jf9qoYo9uLxUzIGl9uMBU7cqH54gW1bJBHkbXIHd632vOSc4/GobTUvE4y8XV2ji2I6jZCAs6RzI7um+53rMmXHXcaclFloBppRF7ch9zTL4Mo0506eGc/wAohJStLhNOPqH3GkPqktJU6spKgDc86K4RfFNeoUV0BMw2lO+o0gOOLiW83FSlBIENG5PLdVP+Z4p71Gsy+00vRmLmAExWVHz+ZW1EnSOoq2UzKMiRHwSXMbW2gR2lJda7qn09CT0IPXr182BwFxpmfnksoQtDgiun7jbT1pIYVjJw/Eg6Ua4606XEHkpJ23FOf2fIbTfEF6UwsrivQ1mOU7i3y6gr7K2rPjuEnfTdlSy41XDSkW/vTW31iipi+Ka9QorSeedsph5Ul0pbWQVGxCapGc+F+BZymolY9DmuOpQEfhPKbFhe2w/c0UVEhZyeCAVGKhle7/aaUpRPXbRY7m6hve1MzJPDPB8oviVg8Sc0+WyhSXH1OJ3tfY+dFFWqHZ/S6xmHhJbKmlgBQNyKKKKgP//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Mimosa 2000</div>
-                                    <div class="artist">Furacão 2000</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAQFAwYHAv/EAC0QAAEDAwMBBwUAAwAAAAAAAAECAxEABAUGEiExBxMUFUFRwSIyYXGBI5Gx/8QAGAEBAQEBAQAAAAAAAAAAAAAAAwQAAQL/xAAeEQADAQACAgMAAAAAAAAAAAAAAQIDERIhMSJBUf/aAAwDAQACEQMRAD8A4P2fWLd4xmi5Et2+4cT7n4pKyw7jlr3qS4hS90KQfwTB/wBU/oa78Fhc+5t+9nbM9B0+aaxN4E26FpSChO8j6oJkfqp9rc+ijDNXyIeEsThnWHbS5VmjcBSL5Lv+NLQEFHdxySeZmnzpC38sN2q7UUjaCpQ5B2yRBIrCxmrROTCFNud6lyRHQH2p3M3KPDkLG1MAcqnoDQ63aaSfsbLOaTf4eu1XGJtrXEvJfSpIaDSUcTET6Gip+vr7xuJwigkABo8+/p8UVXmuJI69k3TLifLb5hSkS8pCAk9VSRNYWXgh64ban6FKSlM8eoFSLQLcebZb+9xQSkg9CSIqhp2yXe3wQhaUxypSjAA9ZJrlyuPImN9WbFaaeV5g1kC4uSsqCC1CFOAbigKn25mpuQuu9Uy3dJAcWUhYSeJ9f+1kLN55w4w2tSg2VbVokt7gATEGJjqfip2pbVdreEFSVpPIWkyD/RXh5/Jdhp0Sl9R/WSktsWtmkAG2cdbI/SiBRUHIuu7xbvg72CpKiZkmTMzRTJcEj8m0aIuNLNsIbzNhkrjKl6WV2rkADjbx7gzXU8DjtOaCxWV1VdtuXTzKtuPx9wsOIacP2JXHClep9h+aKKfOE5dMn1tqlK+xTsW1b51n8Djr5lITjTfZG4fUZVcPvykkiOm1UQa512osXmF1fkceLlw2e7ex9XVtXKQfeOn8oorVKcKjTTWjk1LK3KbzI3FylJSHVlcEyeaKKKJjn//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Touch the Sky (feat. Lupe Fiasco)
-Explicit content</div>
-                                    <div class="artist">Kanye West</div>
+                                    <div class="name">Pink + White</div>
+                                    <div class="artist">Frank Ocean</div>
                                 </div>
                             </div>
                         </div>
@@ -274,7 +273,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Jul 2026, 07:20:16 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Jul 2026, 07:37:26 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
