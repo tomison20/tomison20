@@ -129,11 +129,18 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcCA//EACwQAAEDAwMDBAEEAwAAAAAAAAECAwQABREGEiETMVEUIkGBIzJCYaFxkcH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQFAf/EACARAAIDAAEFAQEAAAAAAAAAAAECAAMRIQQSMUFxIjL/2gAMAwEAAhEDEQA/AM1tFlvF/v8AMZiyo8GFHYaUlS46CFEoSMDjk55PPHeniJWmrRe1265y5UgsPdFx9yMluPvPcKUkZ7c+AaR2i7yUalftyrtIhQnEtKUjqJ27g0kD2qH8+R91H1lOcMc2ibAQeo4HjLGEqeR+xR48HHP1WYDyFI9TYFJZWcHOZpDjOl/VBiRMYQ0G0ncwpJO7ccgn6pW3bdMXOY9Btl6fE5Cfan8ZSojxlHu+jxSRVktY0NBuqnUNpD6m33lKKjgkBOE8DjB5B+ea8rpIRpLbarOyuY3OZEhmQ4zsVyThSFbfcDj5HgZxS1LHjI+7p60IKv8AYvm2i8We6Q1yJCJltmtOlKgwE7SG1EpV7eCOPmio0SXqGZdnIt4febRDDpVGcARklChwBjP9gUUN47SA2bkTUQQc2c3pLLslUZtDQeUhsKUSUqz00Hv47VGflx5UeHB9P1/yNoW6HXCogoAIO4qG1J8Y5HGAaiX5luTrYsSFOtslps5Qdpz0U8im2lrXbZcpEg6pjWlyC6hwtSGVOFaknIKQkYPbsasrrHaIh7nU6fk0NVujNaSTZ5a2Y4W+llpt7CCQVFSlgEZxjHOP8Gsolvl914SHn/SMdRlpKnlrSNqSE7cY4UQAM9vnitNvMiDJttsuzzyHELmvP9QowpWXVkjJ+KyS4xWorq23Lkh9x1Zy0jPtB5Hfj+64g/XMazM66ss9gQ2kxo6yHnkMOuAhROAUK45zkA/VFJdOtdHWyI7S3HGGmHQkq5OOko/9oqW+sBvMJbXYYfXEtWqLIiZ6SfBmQDJ9O2SFSEA56YBBye/aksPTqnHNrwtzTfZazKTvUfk5CsUUUFNrDV3xK+pKuFYqNyW6ZaYcnSVusqJUNKY7zi1Oqmt7lBSsgfqzwc/7qpTdNlp0hoWx1AThC0SkBaT8EkqwaKKcbWHuThUY/wAgSw6bscaCiVMm3G2er6a8BMlGSNihgc+AKKKKmGvyTGdXae4KAAAJ/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAAAAYHCAIDBAEF/8QAMhAAAQMDAgMFBgcBAAAAAAAAAQIDBAAFEQYSEyExBxQiQVEyQmFxkcEIFSNSgaGx0f/EABkBAAIDAQAAAAAAAAAAAAAAAAMEAQIFBv/EACMRAAICAgECBwAAAAAAAAAAAAECABEDMRIEBRMhIkFRcZH/2gAMAwEAAhEDEQA/AI+fAWvaQhYOM7gTyrFlplglTamklXXhpFaoylOeNzahOPY2lVd7pU3DcdzggHA4eEk/X7Uv4R9jOqXq0Ithf38ThmPNpaU4lW4NkbiTjAOeY+hrU04l1a2yg8ZKAVDPLB9KYGpVp0npxLklLM+7TkArbkIKm0gkkbcjH90rwHhc7u9JbYLDYRhSWyduT0+XSpOAGCx91bkFAomh+amUoeEJQ2CM8vHy/wBor24NcNZKEbVJPmelFSAyiquDzPiyuWaxGvQ+mJuqrqmDbELCk+J11Q2tsp/cSOvpgc6nB3sstdu05LjwAJN2caKO8y1ZByMEJHRPXrgn40v/AIcVswtJ3OasEOyJnD3E58CEjA+qlVLzbiX8EEKSrmKYVL85kZs7XxGpSeXCukPUKbNMtpk3dtJjpjujcMnOFpI64Bznp61YXSfZXZIuiI9tmtlN0ILjk9seJLivL0UkdMH58s1IEy3sql8XYkuD3inmKxuLxiW591ASVobUpIUraCQMgE+Q+NF4iosHYNYMqZqWK7b50uDIdHFjuKbXsHmDjNFMWq7LfNTXt6aym3R1zFJ/TMwYCsAElWBgEjriilyK1NA9SpoyROxVAT2bx1c8uvvOZxj3sfany13BaQWyDhHL/lFFMLqZ7n1T6XfQp3FJ/ahqH8p0u/I7l3xorS081v25bUcHng+uP5ooqxgxKzapmwLvdXJFqgi3xFoSju+72jzBJA5edFFFLHce4ihP/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Runnin
+                                    <div class="name">HUMBLE.
 Explicit content</div>
-                                    <div class="artist">21 Savage &amp; Metro Boomin</div>
+                                    <div class="artist">Kendrick Lamar</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAQACAwAAAAAAAAAAAAAAAAMCBwEEBv/EADEQAAICAAMCDQMFAAAAAAAAAAECAAMEEUEFEgYTISIjMTIzUVRyktEVYWI0QlOxsv/EABkBAAIDAQAAAAAAAAAAAAAAAAABAgMEBf/EAB4RAQACAgEFAAAAAAAAAAAAAAABAgMRMQQSIVFh/9oADAMBAAIRAxEAPwDQ/R101lqQ5YE5liNT4GY8bV5Zfc3zOLe4o6uyf7MlOkxL8bT5Zfe3zHG1eWX3N8yEQ8Bc8W9TlawjKARkSdfuYmNPc3+ka/kIgF0qS6vDpZiEoG63PsBI7R8ATPZ/W9lMUSzDcH2pQV5oKHTfKqynnCveGeYJ5esD7zw1w6DDnxVv9GRld8UZOZTrftbQp4RcG68NWjbM2A7V110gmt+fu/ubos8znykEEkajknRx23Ngtg3qwuA2SjgOi2BCTka9xWOdXKQwD6eGs17ErjpaxO9ynOefUO21a1V4la7kuXdXnIDl2h4jOJKn9Pic8uyun5CJprH1VyMyPTSu/kyAg9Z1JmJRP5h7TERBzxdeXfDP0n4gV1HrvUH0H4iI9DSnRV0XBbg5cAABSNQdRERET//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Music Sounds Better with You (Radio Edit)</div>
+                                    <div class="artist">Stardust</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -144,18 +151,11 @@ Explicit content</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcDBgECBAX/xAAuEAABAwMDAgUDBAMAAAAAAAABAgMEAAURBhIhEzEHFCJBUTJhoRVxgZFSYpL/xAAYAQADAQEAAAAAAAAAAAAAAAAAAQMCBP/EAB4RAAICAgIDAAAAAAAAAAAAAAABAhESIQNRIjEy/9oADAMBAAIRAxEAPwBxMCY9GRGaaPTa+rqqwUj5we9K7xamwILiZEqeEREK6bYA3OynM8pQO+0e6v4pdX3VOuphXNt0G5QkPNnc7MySB7hP2+5rewaVh36WLpcNdvT7s7E6ceFDaUJKJB7JORtS2Dye2ftXQ5dEFHs9WV5e++H8h5lt9hxcxMPLrZSpSVDeRz7YRUl08NYQsEWVDj3f1NBS3XOihsnHO3coEjNXLxFtKdMaI05ZXpSpEnzXUfcVypRCMHP/AGBUF1hWedZo3mZkpS0xkpK2umoDCAMYIB4xjnP70/Y1oQ+o9EvQ20FDExDilfU+E7FD/VSSQT/NFMKZbNtqjpjvvOsJc3dFewLTxjPpAP25JopLjs05Ds8ZrnKt0aN+mQVSUspHXDaRwg96pVputpsTCrramENSHU7tp5SlX2Hsa2j6ynPR4czXnmo7QZ3qjRWtjaiBx1D3+OM8/FKnxB1na58bOn1hQccLYHbB75x8U14rZP6eiw3jVrmobql6SouBjPP+Sj3H4H9VarBP06qKhh6FKmOFvcp5LobTuI5SPSTweOTSPtcoNNtpaWTsVlR7nPuad1qnT12y3CJ5YlTCQQmVJaBTgY9KRtBx3I9+aVo3R2XC122HEakJDiUO4SGCsOlB7gggA/x+aK77/KcTYYTkwICkkISC886c4yeHB+RRVY1Rh3YjNX600gq1pa0/Z5z0xed8ifMdXz+27B/qltYpLMC7RJcqMmSw04FOMqOAtPuKKK5W7ZZKi83XWmnpVtfZh6aajylNlDTu/wChXHq49x8Vm36+Yhx0RhB6kYoCXUB91vccYJ9K8HJ57UUULQyO+68al26O3CjliQ3lKikrKduPYqUr8AUUUUZMMUf/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAABAAIDAAMAAAAAAAAAAAAAAAQFAQIGAwcI/8QAKxAAAQMDAwMDAwUAAAAAAAAAAQIDBAAFEQYSIQcxQRNRYQgUMiIjYoGx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/APlYYwcjnxWKVsBg5zQa8UrOKY4oHFKY4pQe+unfRWDd7Fb7hcn5Eh2awmQhhpQb2pUMj3JPzwK7WV0Q0tIfeUtlxl1tI9RpEkIDYAAyU+OBkn35qN9N1tscu6W+S7BecuEa2hX3Li/2xnjalPvg1R64s1gg3rUKI1vktTGR6r0hSiUyGlYBbCcgDhQ5/jQXK+humGmPuXW5QibQr1jKwjb77u2Pmplu6RaQiKfbYaZkyXWSPSeeDqkoIzuSnOQePyHauY01o2DerHapxZdFtkvGKtjClKaTtSQcdseOSO1W1j6aS509C7fp5LMdalstz5LobcSAkp5b/LHj570HDa96babhW64zLFfWkyoLSnHoS3EuZx3Awcg545zSvH1R6aO6RefRKZdU64wp5L7KUhs7RlR2DlKcjFKDbSWs126zW9pV2gMtMx0o2Jx6ox47YzU468TIccTKvLCWV4JCdp3DPnP+UpQT4nU9MUORol2YSwohW0pbSj9PbgDA/qrAdSVS7m3Le1HHStLYTuLqUkfHFKUFHrnVkC52acl+7xJshUVxtslzeoKPOEnPFKUoP//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">You Know How We Do It
+                                    <div class="name">Century
 Explicit content</div>
-                                    <div class="artist">Ice Cube</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcDAv/EADAQAAEEAQMCBQIEBwAAAAAAAAECAwQRBQASIQYxEyJBUXEUYRUjMoEWJJGhscHh/8QAGQEAAgMBAAAAAAAAAAAAAAAABAUBAgMG/8QAJhEAAgIBBAAFBQAAAAAAAAAAAQIAAxEEEiExI0FRYXETIjKR0f/aAAwDAQACEQMRAD8AS9NRcK7jkNu4pTzyGhTikgqcXutRPPAHYe9H9pEuR0xElOoewj7YQUhdbRsQnknhXJPv6jjg95/Sj8RvHONko+qASdrifKpJAHBvvuv25GknVjzRWtxhJJYT4rqVHzrQlxB7fAP9DoUatl1RoKHA88mDLTa3iDG3zjGMvCBhhMjBT2HnQrwTMZ8Jp9w0QCbpII7ew+/OluBbxceM2qfCenuSlhSA2lIpAuwkFQO6x8Vp9lJuO6kxkSG3IDwBS7ubdKg2kCk7+PT7cc0dSsrNbVPSFwFw8W034rkho0lauTxtO21UmuDYo3xomm+xqyzLnn3hN1FVT7QwxjMrsvJ9PMocR/D5RLCDtS4QUhxR9aN7QO3r/nRrq5i4UrAJlF1AfcSSFbgdlE+Un3/YaNXTXaUZVtwI77gvidhOPiTo/QGSymJ+rjS4yn0JKm223/BcSO9ElO0/BFX2I9UfTMSNKnOJnNP7m2lqcDj2xwKTuSnkCuCCKqufm7lBz0HKYJgN5NhBbRQTJ8uyr4CxfHzWsyyjjcuZIUoKUjxipC23CNwoAgkfqSSkH+/rqQGvcrX36xrfoKtLWtu7dk/j7TSekI0LpnBTlswAZciX4T0lhwgBCeUpoXtCvagDXOuGenQIsqVEySz9SQCltxQJ2FIO0VwDZNirs6SdBMZKb1C0+3Neis2S68FkbqH6ePft7DWxTOnMEFHJSUMD8lKlKQqvOkm1ke+3njub1vrqqrE+luwe+PWc/uC25cAzCY+HZeQ2gieyuRSWt5HhrX3CFIuxdUCfXuNGrTMyWOjsrdckRX3Yo/k0MbiVvcAOKCuUgCzXuABo1fRLc1eXXn4hmrStWApPGJn4hx1PbnGU3fJ22f8Aup0OGiU8pK3246QkqCnLon0HHro0aY3AIhKcGa1/cwBlow0n8KbU0jJQHEJPlsrHzRH+xrznM6+Y4SzIjOle5P5Slq2p+98aNGk9FKvcGfn9fybX6SkgsV5lVCbUCQdGjRp/AwJ//9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Mimosa 2000</div>
-                                    <div class="artist">Furacão 2000</div>
+                                    <div class="artist">EsDeeKid</div>
                                 </div>
                             </div>
                         </div>
@@ -273,7 +273,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jul 2026, 07:19:16 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Jul 2026, 07:26:33 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
