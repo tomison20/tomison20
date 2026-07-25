@@ -129,34 +129,32 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAABAAIDAAMAAAAAAAAAAAAAAAQFAQIGAwcI/8QAKxAAAQMDAwMDAwUAAAAAAAAAAQIDBAAFEQYSIQcxQRNRYQgUMiIjYoGx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/APlYYwcjnxWKVsBg5zQa8UrOKY4oHFKY4pQe+unfRWDd7Fb7hcn5Eh2awmQhhpQb2pUMj3JPzwK7WV0Q0tIfeUtlxl1tI9RpEkIDYAAyU+OBkn35qN9N1tscu6W+S7BecuEa2hX3Li/2xnjalPvg1R64s1gg3rUKI1vktTGR6r0hSiUyGlYBbCcgDhQ5/jQXK+humGmPuXW5QibQr1jKwjb77u2Pmplu6RaQiKfbYaZkyXWSPSeeDqkoIzuSnOQePyHauY01o2DerHapxZdFtkvGKtjClKaTtSQcdseOSO1W1j6aS509C7fp5LMdalstz5LobcSAkp5b/LHj570HDa96babhW64zLFfWkyoLSnHoS3EuZx3Awcg545zSvH1R6aO6RefRKZdU64wp5L7KUhs7RlR2DlKcjFKDbSWs126zW9pV2gMtMx0o2Jx6ox47YzU468TIccTKvLCWV4JCdp3DPnP+UpQT4nU9MUORol2YSwohW0pbSj9PbgDA/qrAdSVS7m3Le1HHStLYTuLqUkfHFKUFHrnVkC52acl+7xJshUVxtslzeoKPOEnPFKUoP//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAIDBAEFBgj/xAAqEAABAwMDAwMEAwAAAAAAAAABAAIDBAUREiFREzFBBhRhFSJxsTJCkf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAwL/xAAcEQACAgMBAQAAAAAAAAAAAAAAAQISAxExIUH/2gAMAwEAAhEDEQA/APLzAATgblPlRud52Q13jKQDFvycrDh2CYAlpxkgd9kuxOAd0IBf6nGELLzjIxshMCWko5quZscDS5xxhoGSSrFPaaqe5igbBK6qLzH0g37tXGOcqSy1tTbK2Koijy6NwcAeRur8V8qYb425thAqBIZTv5O/K0q+bLQWPSsy3bvS1TV0spbWQ0jqRx60czJCWEbZOlpAH5PK0jrdJPU6aMdRxfoLWg/yzgEecHx/i6mzerJIILz1xpfXsLSANsnPf43XN0tzmpa1tRAPva7V3TdPjKThhVXF96UblRVNvq301ZG6OeM6XMcMEHgoVy911Rd7jLWTNb1ZDqc1vP7QsSa34RkoqTrwvRfR22Pr/Vphcg3PtPakt1Z7a88b5wtPNV9UjUBn8IQlpEzLJW/CZsrM7/pCEtAT++ZGWujaNWO6EISqgP/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Century
-Explicit content</div>
-                                    <div class="artist">EsDeeKid</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBwQD/8QALRAAAgEEAQMCBAYDAAAAAAAAAQIDAAQFESEGEjEUQSJRcYEHExUjUpEyobH/xAAZAQEBAAMBAAAAAAAAAAAAAAAEAwIFBgf/xAAkEQACAQMDAwUAAAAAAAAAAAAAAQIDESEEEjEFIlETIzJBYf/aAAwDAQACEQMRAD8Ad4HEqLcdgIAH9Uoz9v63Mw40aESL3sdckmq/ByBLcLscipTqDIC36lklt7cXCogVtDWmGydH3rz/AEs25tnQVP0U53pr0EAljdiD7GtB6Aea8wNul6C5RCFk3yV3obqFzvUK3VmiSWMqNz8wB9/eu38NupDa5CayuGka2mTabOwjA/8ADT6kZzpd3KD2V8F3msdGiBl1r24orrv7iKa0YIQ3dRWqcmuCyXkynE9UvcRGKBRHvhXc7/0Kb2XpII0kuCzTM3Pk8HzWZ4W3lSYIFcupJ8VR3180NsJySEiPa31806dCKlth9lr3V2Psn+XeTTIoD26NqMv8z5P2196ncVffoGVW4kT1CcqwXjj56rlw1/PevMIkeSRzsBRvivabp3NyOXCoiH4tO3j+qTGKh2TeCTzlF7B1Rj8h+3YTqZf4Hgg/Q0Vil5Mwu2DExzI5BI419KKxfTU8pmPqpcovcLdCViDEez+dPL20sb2yCShZE/yYA0UUOa2yuhXKyMelMbbw2XbZ2ywLsgDXPn3Pk04mtwkLd2tiiip1JPddkl4MP68tUhzEvaV7j8Z7R7UUUV0WnftoHU+TP//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Mask Off
+                                    <div class="name">LIL DEMON
 Explicit content</div>
                                     <div class="artist">Future</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAMFBgcIAgT/xAAsEAACAQMEAQIFBAMAAAAAAAABAgMABBEFBiExEjJBBxMiI3EUM0JRYoGR/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAMBAgT/xAAbEQEBAAIDAQAAAAAAAAAAAAABAAIRAxIhIv/aAAwDAQACEQMRAD8AzX+kuDGjrEzIxIGKSkR45CkiMrDsEVufSbK2GzLGcaRpnyoLSLylUKHP215IaPsggH8n3r1bg21Fd2t3ajRdNtpLiN4g6MM/Wvjn9vjkj3PVKjiWDFYZ9QpZefetsWehG3s4Il25o0ktvGI2cuv0v4eHRhJIwGx/3NZG1NZ9ybl1O8s7VIVuLh5VhTAWJSeFGOMAYHFZA91MLngmilru3ktneOYeLr2DRSWltPe8S2jiW6uQmCvj80+OOsYz/VJ6jcal46gU1C9U+DdTsP4/mnHTowyryM8/nuu7yBflX5yPS3t/jVUu+3tSO+tS1mxSwK6vqSlg65F044wOO+qkPwp23ezaJa6lBbC4W+mnhPkvECp4fczn3LEdHr+s0z/FlUWPSGQLKFd8qOQfTwce1Sqbfb7d2XpUu14Wt3+TIv21aRYVLkYPmWKknPBJA9iamk39bKrt+oY9xXkUiNHKn0ujjDKw7BFFWv8AFW+gvNiWETWtqNVOmwPcTyIBIfJlcBGwSTkEYJGBnuijc73SvS7eecKDM6qD0nFPkWgW0zsZyzu3q8mOTRRXoApZ5I+XUmzdLePi2hJHQYcVEt7bN3Dc29jFt+ysojbuR5pcgK8ZOSrKQMjIHvRRW5YiUzkyGkzbZvb+Itrdlp2IkxGUlZ2Ax16Bx/uiiigTu3//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBggHA//EADMQAAIBAwMCAwUGBwAAAAAAAAECAwQFEQASIQYTBzGBFBUiQWEWIzIzcdIXQkNRdJGU/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAwDAQACEQMRAD8AZ9I3jwqhtlkS9fZbupRRCrMtKC/c7YDbsry27POf96tA6i8Blzg9Kf8AEP2ax08b1FQqRozyStsRFHJJOAP1zp8YoOmIqapiWCeRZ1E8zfimAPxrA3koXyLcPyGGFI0GkBefDI3Humi6S90938z2Hnt/3/K88fLPrpr9oPAQnOOk8/4I/ZrMll6nnuVzpIKOyVNZVJFhu3UuXlZY5B3GPyGXVm5A+7HOp1/sUNzo/a3ielj2J26yqZA5LfAu51OJgzK5JGSg+ZwV1YO+9VXzwXk6Wu62gdMi4PRzCmMNGA/c2Hbg7eDnGjWSaWGSCpenmRkljco6HzVgcEH10agZ9OSbLnJOeXp6WeoQeXxrExB9Dz6avljqaO8UMtVWosr0tTJBCXijqMJDQVEkYEmF3AOM8jkBc5wNc2tdUltusNRIDJAuY5VB5aNgVYD67SfXV56sjqq23NeLfLT1NSIQtWki79yBCFmjJ4wU3cAAKMLy2RqiIOkquw1sFPaK6puc9VUS0s1NFSbRthjSR3YliCqGRTgjB2ZOONeVDWXS22VpbjUGSGprTFFUJOEaZcSCZhJhiFJWPLgZIAGdenR1yophK17rlonm301VTwUxWR6dlUsFwrZLkYLAblCcA7uLheaxKi8+92pXs8FNSvS2mlBMRjRTiSaQK33QUADYQfh2g5JBIctuh7t5p5/wmopoJmBP8xjAOT9cZ9dGodfcErrxPVRbhCcRxBvPYoCrn64AJ+ujUCWUOGIPnpjbrzJT0po541qqJ8gwSkjbkgnawIK8gHHkSBkHGjRoLd/EWoMvfMdb3sq2faIvluA/peWHIxjy/TVWv3Ulbdg0ch7UL7S6q5ZpSowpd2JZsADgnA+QGjRpQqgcllHB+g0aNGg//9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">The Weekend (Radio Edit)</div>
-                                    <div class="artist">Michael Gray</div>
+                                    <div class="name">Bayside (Radio Edit)</div>
+                                    <div class="artist">Obskür</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAICAwAAAAAAAAAAAAAAAAEEAgYDBQj/xAAnEAABBAEEAQMFAQAAAAAAAAABAAIDEQQFEiFBEzFRYQYUIjJxgf/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABkRAQACAwAAAAAAAAAAAAAAAAABEQIhQf/aAAwDAQACEQMRAD8A8vIimuLVVCIiAiIgLKMAvAJ4PCxRBy5WO/FyJIZRT2GirODgsycTMldP43ws3taW2H88i+lGNI3JeGZpL2NaacHU/wCKPfJuj8rbZ/p7StGwDl6hkT5Ega132ViOyQK3OBur6Auh0pbUY3toqK46ZmTH45GxwBpPjEcQ7N0537Ee13SKsqaDmqCIg7fT49Oi02ebLyXtz/IwQxMZuGzncSb4PpSr6jqMmdtbKGkMcXb6/JxPZJPt/iIhfFjF0zDyNIly5dYxIMhm7biSNeXur0ogVz/UREH/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAMGBAEI/8QAKhAAAgEDAwIFBAMAAAAAAAAAAQIDAAQRBRIhEzEyQVFxgRRhkaEVgtH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAQIDBP/EAB8RAAICAgEFAAAAAAAAAAAAAAABAhESITEDBEFh4f/aAAwDAQACEQMRAD8A8q1qs7SS63BPIqPknAFZfOq3TLQ2OhWl3LgNcTl493C7lGFLH0ySeeKqKLjBytrwTphgTU+i0pNsJdhkA525wTj2p+r6TcaZI3UxJB1XhWZPC5XGcfBU+zClS2FzA69eF1OTkEcgA4JNUdxZTzaFfo7MwjKXK57jjGSO4yue/pSjByehUqyI6iiikSdFXmktqulWFjG1/BLZ3Ks30joZgFxySoHb2+9QdWGh3Tfx+nzRPJ1YnmtmwfDuXcpB8jnP4q4NJo6+0ayafP0JtG1kyLNZ2rC3kkJQAhQvIHKEnaM+R+adNpFxcPOFu2hbazTwuSJTtUk7/UY7Ht7VJyTXEUxEjuGByQSf3VRrGsXcdhCXcC4ayEbswyziU5OP6Koz/tNz59meXTSla2RpxnjtRXKKzMDta7K+ns2UwvgLIsu3y3L2P7P5oooqxxk07Qq5lE11JIQQruWx6DPamajeS39288xJZsAfZQAAPgACiigG9mSiiigR/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">FE!N (feat. Playboi Carti)
-Explicit content</div>
-                                    <div class="artist">Travis Scott</div>
+                                    <div class="name">Am I Dreaming</div>
+                                    <div class="artist">Metro Boomin, A$AP Rocky &amp; Roisee</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcIAf/EADEQAAIBAwMCBQEGBwAAAAAAAAECAwQFEQASIQYxBxNBUWEiCBQWUnGBFSQyQoKh0f/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAAB/8QAHREBAAIDAAMBAAAAAAAAAAAAAQACAxEhEjFBE//aAAwDAQACEQMRAD8A0Lwy6qoYluCxw4p2qmaWRSMq7kAOwwCFOAN3ODwdPNVc6lJ6gkhKQKVUopZt2PU/rnWJ00kHhh1Ne4IaWStrZAm2J3Kr5GAdykhifqbBzwNh+NLtWx8Quq7jV3Sunt1LDAjtTQuZF4+ngMwAPr276RZ0HOyrw27PTNprutrRbXqpK27UUckpUCN5xuXavJwpY8n0wDqmbxAtdRJJHbEra5z9W2mpGf37Fsccn09dKEPQ3TVDloWqqqoVAUX+4kjIOxVCnv2Yn51H8BK2KTqi5wwIsMbU7bY+5wsilST74fBxxxxrDkUDRCtUqbY51996nuwCUXTNSke0r/OVQiV8jByq86NaBLwpI7DRonAvW0T+h8Jh32iL5QUXV0kUdTLU1z2/7s8MOAKYZyu4nkltzEj0GPfSJ0zZ7ybBe7vRpC9JDAtPJL5oDbcoSVHfkY1c+K9ntdpvDtSSRz1VweSoqz5rSYbj6cscgHcTjJ/1qq6e6moemOjLrartUyTUlydQrUeGZVZTkNn+k4ABGP8AuliWdx4NQJd2629QW7oTqiuiucC/w9seXsLTQ4Cncj5GAQcjv68ao/De9w2Se33b72aWYVTRVZlCnzI2UNwO4GFxntnGlm/9Z0UlmnoLHHcFapTZUT1FQD5iflKKACfk5Oo/iOPL6gjMEaRwzUtI6qOFBMCBv0wcj9tc7YH1qFZKqHZ17071NaOp7e1ZY61KqnDFGwCrIfZlIyP3HOjXP3hnW0dl8T5bbQqVoqWieOWdWJM74UlmA47nAHoPnRqumQTsktjR0Sb+IIqiBZKlVgdAdsUlG023/NSBz8AaTeuampvtnp/Mt9JQxRTgjbKA8hIxtUHk8c9saNGp7Mpr9Ir/AIYlVWkXbGuCds0gG4/lT3bnt3Om22WZrrXTQ3a30sUFTRvCJwgjFOyjcsnoAeMEn0Pxo0aCjuxCQ0zyy2esoen6drOIoLos8iVEm0eY8ZwVwSeVBHt30aNGhye4dOE//9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Softcore</div>
+                                    <div class="artist">The Neighbourhood</div>
                                 </div>
                             </div>
                         </div>
@@ -274,7 +272,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jul 2026, 07:22:28 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Jul 2026, 07:22:22 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
