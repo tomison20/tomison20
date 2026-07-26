@@ -129,32 +129,32 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAIDBAEFBgj/xAAqEAABAwMDAwMEAwAAAAAAAAABAAIDBAUREiFREzFBBhRhFSJxsTJCkf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAwL/xAAcEQACAgMBAQAAAAAAAAAAAAAAAQISAxExIUH/2gAMAwEAAhEDEQA/APLzAATgblPlRud52Q13jKQDFvycrDh2CYAlpxkgd9kuxOAd0IBf6nGELLzjIxshMCWko5quZscDS5xxhoGSSrFPaaqe5igbBK6qLzH0g37tXGOcqSy1tTbK2Koijy6NwcAeRur8V8qYb425thAqBIZTv5O/K0q+bLQWPSsy3bvS1TV0spbWQ0jqRx60czJCWEbZOlpAH5PK0jrdJPU6aMdRxfoLWg/yzgEecHx/i6mzerJIILz1xpfXsLSANsnPf43XN0tzmpa1tRAPva7V3TdPjKThhVXF96UblRVNvq301ZG6OeM6XMcMEHgoVy911Rd7jLWTNb1ZDqc1vP7QsSa34RkoqTrwvRfR22Pr/Vphcg3PtPakt1Z7a88b5wtPNV9UjUBn8IQlpEzLJW/CZsrM7/pCEtAT++ZGWujaNWO6EISqgP/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAYEBQcBAgj/xAAvEAABAwMCAggGAwAAAAAAAAACAQMEAAUREiEGIhMUMUFRYXGBBxVicqHBkbHR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDAP/EABkRAQEBAQEBAAAAAAAAAAAAAAABIRECMf/aAAwDAQACEQMRAD8ATHEMLfMiO4UnxEUVOwcLmqaDbiZhyYxEBG5owuNtlzvXee8w4haYkolTO6k5v+agtw2XiJQ680WcZAj2296rNSufDvw02cWLHiPIqAKihOCu2O9fHatNKDFtkUXFNTU9hx+689g/dLY8BhKuDrSc3M2qpjPYua0pOL27xFBWM60FNQ9492F86awspsSazHYIBJdK52zRWeSp0ktgQ19tqKAsucht75amL900a5jwebKMy8fTLGnmRwLww1st2n6vvBfxiq8+CLehD1O4SnA+ttBVP9oefXTesV0SNIbFCZO+tebb4OJ/CKlO/wAP45PvyVmSHpWhvkGRH0OAud+btVPel5vgtwCRY9zdH17P7pssjPyOC2kiQ89KLOozXl9B8qZPpvaYjxgIlZFxfBRopQnX9crpNUWihxuso4kZudhfYD5mrvSoq8gadOPWojHEd4aVMzndPoi/qiiluKTYcbXNuzrLD71wAxIUNQ6HfHhmraTOlSgHALoRMIuKKKZOoLjZCWXVQs+FFFFFn//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">LIL DEMON
+                                    <div class="name">One Dance (feat. Wizkid &amp; Kyla)</div>
+                                    <div class="artist">Drake</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcDBQYECP/EACsQAAEDBAEEAgEDBQAAAAAAAAECAwQABREhBhITMUEHUSIVI5FhcYGhsv/EABoBAAEFAQAAAAAAAAAAAAAAAAABAgMEBQb/xAAgEQACAgEEAwEAAAAAAAAAAAABAgADBBESEyEUMVEi/9oADAMBAAIRAxEAPwDStxH3VdKASo1J+mzBkdpX8isZxL5eRdXy05xmWp8JJSIjgc948K6fZ+zWpHyjxpF0bgzHp0IrV2w/JjdDQV7HVn0dE+M+8VonMlPhna9a5bSOvpCk+8GuYRnfo1Fy35U4zZGo/alpuqnFrbcRBUlRaCdEqz43ofdQW/5P4XKgIkuzH46sZcbVGWotH6UpIKf7b3QMr7DinYY7ufFFUqPl/hqwSlNy97McAf8AVFL5cTimJsV6jqil0W6BFkod7bHbjpAdCxtIAGsn2KvFWWDyoJiFph1uMpXfSywG0xd+CUDJ9aG95Os0u+CqkT+TNuJbD7IZWlKnNIbJSQMn7zTY4OzyXi8GVEYVBeZkOdwJ2QNY1hJO9evVc/fkFfyPc2KcMMA0y8qzWK0xpdsttuZkvuqSX3GnHFJWwn8lALI/FRONAk6qr5NaoDPHYrlnsgjoUoKmfvKcKUgJzgk5x+QycfX1Tovlsv67O4JPDo70nfbTFIUAokflnII16IG6TnL7bMtsl6ZdAq39vpC4/QoJkZTlKR1eCMdKsZ9EbqFN+8FtZOy1FNFl4fiy2C3RpjbLrkeQ0l5ODvpUARmitbwPnVsk2m2Wu4PLTM7YbBSwQyhIAASpfj15Ps+aKtjIsQaFQZQelSeiYtuCXLhURhVu5U1JjSlKyibHKm+kYx0nGiAfsf5pu8U4fA/VoF34vyZ2XAacS44wsdxS0A7AIIB/iiinsiv2RHpa6LopjIRyhKHXGXCkgbzsK/g7/wBVS86etPKOKXBqeodqEDJR14IKkpOM59bxrdFFRWkgEQxjusAM8/LEZtntMxYy4qiSWSolGT5OARv+tFFFZK2v9nTnGqPtRP/Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">No More Tears</div>
+                                    <div class="artist">Modjo</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAQFBgEDBwL/xAAvEAACAQMEAAQFAgcAAAAAAAABAgMABBEFEiExBhMiQRQVUWFxgcEHMkKRk6HR/8QAGQEAAwEBAQAAAAAAAAAAAAAAAgMEAQAF/8QAHhEBAAICAgMBAAAAAAAAAAAAAQACAxEEIRIxQVH/2gAMAwEAAhEDEQA/AOWWFvDawu0iu2OeF/enfCt9puteKLPSJpHs4J2KtduBtTCk9Ej6VjVg0DRhXYKwOQKT1CaaPUNPSOSJLc20bFSqZZizA9jJ4GKr5FmttEbwgcQjrc6XqX8O7W1b160khjKecsSKdudu4AlsHk8e5AJAPVco8QyLpOsXFhIxmCO3lyx4Kypk4YYJ7Az3TE1xqc0dyLq8BmCMyys8bjhuBkHg+3NV/WFuoZreSK4ilhKKxI2j1E9fnHFTWWV0v+sZtriN5924BMdniioZGdri8MYORIcKozRQjCtkPsvfiWYL5HPODSTavp002lJc2vxUdrhZ/R7eo7c945ByOj1Vc1LU3nfdNdFpACAgQYFabfVrq3sp4reUKkmM+kfXPf1yKo5GUvdSedw8bTCVs+pZPi47CK18iS9siwZLuUhZP6hxHj7Z3KeR+a0XgifRPMW3knt1kKmQOoKEcKSoORyf7VB6nqCC3jM0S3Er7ZNzk4BwR0O+B+KybqzgSBLa5fDRgSYXaM95IB79v0pO/I7jCzW/UsfgxvDI0TXn1iSb507t8DsDbVP3xwc/eiqSkywzttlG0tnIHH/aK4dfIfkPe2eTHItyJoygYMGAPPPf61NL4k1JEzs05n3BsfCRjOPc4HvRRTGpI62SI32qTtIdrwvGP5cQhQD3wPYZJ/akvmU5I9MH+Fef9UUUtIe3cVkYySs5ABY5wOqKKKyZP//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Midnight City</div>
+                                    <div class="artist">M83</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBQQD/8QAMhAAAgEDAwIEAwYHAAAAAAAAAQIDBAURAAYhEjEHE0FRImGBCBQVI0JxJTKCkZKxwf/EABkBAAMBAQEAAAAAAAAAAAAAAAIDBAUAAf/EAB8RAQACAgMBAAMAAAAAAAAAAAEAAgMRBBIhMRMicf/aAAwDAQACEQMRAD8A99q1VnuFDU2xKWlho3kEiqKk/EcYBGW44PprD3ZvW6QpPQ7Ut9AbTQMaTza34/O6cghV7EA8ZPfUHFO6mqPUTGmel1zjOe4OqG16FRQW2qeWqY08DRfdXfEUvJOSmCCct3/bU3JqKIRvCx9ewu/7Oi3U1q3VM7XClNir4wDKKSPzIpeo4DKpPHOc4PHtptk8HZp6YJSXyArnqHnQMv14J51m+FE1JXLMs1whauWVQqzInUyYLFV4HGR7dz6ao1traWnvk38QdmKhmiYfDyMgA9uPl21wAa+MRnclbjX0ZMrn4U3ahqoIpLrapJJ26YYzJICx/wANGr0KikanepkeJTApfzHAzH8+e2jSm7GV9JlWrw12/s3ZNNS3Cgp7nOWD1dTUoJF8wjkqp4A9O2cd9JfiLRUEk6U1Ra0qLTUpiKogODFIRgsnScA4xweMj21bbPeLfuywLPTyJJDMvLA9vXI9vr9dTG4b02pWUNytizusBDxxztH0pIRkAqwOMk9sgamta3bbNDEHX5uROKkoLRUvTWuNJVhkYR1jhTKwJHJYAHHB49tNVgjNReRDyVb8wgduk4JH+xqdy10cMrOXCuffTrtmur6hoYbVSCScKDLK4wkSjJyTqnKoROKvb2PG+4/w7bz39I3atgZYWRDgSo7AFHHqB6D0+p0azftA3Y0GyqG3IzJU1cqyP0t0lQv/ADOjRcfEZKbsQb5vxuhiv4S7mrpdtXnbFDK8c00Xlq456Y3/AJsex5I/q+WmCLwcuiGaM3KCBgB5cbnqB4/Vjto0aHlW628nnGXpOWz+FtxpbjM1RDBLVujR9SRsVjz+sMR09ufT++te0WdKOsjoJpXitVkU1Vc8cZL18q8sPcxoBz6E4HOjRoD9vsNsmyRrxU3bJvjdFVc6dJUoY0C08L940Bxk44BJGT++jRo1pUqVNEjv67Z//9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Motion Party
 Explicit content</div>
-                                    <div class="artist">Future</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBggHA//EADMQAAIBAwMCAwUGBwAAAAAAAAECAwQFEQASIQYTBzGBFBUiQWEWIzIzcdIXQkNRdJGU/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAwDAQACEQMRAD8AZ9I3jwqhtlkS9fZbupRRCrMtKC/c7YDbsry27POf96tA6i8Blzg9Kf8AEP2ax08b1FQqRozyStsRFHJJOAP1zp8YoOmIqapiWCeRZ1E8zfimAPxrA3koXyLcPyGGFI0GkBefDI3Humi6S90938z2Hnt/3/K88fLPrpr9oPAQnOOk8/4I/ZrMll6nnuVzpIKOyVNZVJFhu3UuXlZY5B3GPyGXVm5A+7HOp1/sUNzo/a3ielj2J26yqZA5LfAu51OJgzK5JGSg+ZwV1YO+9VXzwXk6Wu62gdMi4PRzCmMNGA/c2Hbg7eDnGjWSaWGSCpenmRkljco6HzVgcEH10agZ9OSbLnJOeXp6WeoQeXxrExB9Dz6avljqaO8UMtVWosr0tTJBCXijqMJDQVEkYEmF3AOM8jkBc5wNc2tdUltusNRIDJAuY5VB5aNgVYD67SfXV56sjqq23NeLfLT1NSIQtWki79yBCFmjJ4wU3cAAKMLy2RqiIOkquw1sFPaK6puc9VUS0s1NFSbRthjSR3YliCqGRTgjB2ZOONeVDWXS22VpbjUGSGprTFFUJOEaZcSCZhJhiFJWPLgZIAGdenR1yophK17rlonm301VTwUxWR6dlUsFwrZLkYLAblCcA7uLheaxKi8+92pXs8FNSvS2mlBMRjRTiSaQK33QUADYQfh2g5JBIctuh7t5p5/wmopoJmBP8xjAOT9cZ9dGodfcErrxPVRbhCcRxBvPYoCrn64AJ+ujUCWUOGIPnpjbrzJT0po541qqJ8gwSkjbkgnawIK8gHHkSBkHGjRoLd/EWoMvfMdb3sq2faIvluA/peWHIxjy/TVWv3Ulbdg0ch7UL7S6q5ZpSowpd2JZsADgnA+QGjRpQqgcllHB+g0aNGg//9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Bayside (Radio Edit)</div>
-                                    <div class="artist">Obskür</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAMGBAEI/8QAKhAAAgEDAwIFBAMAAAAAAAAAAQIDAAQRBRIhEzEyQVFxgRRhkaEVgtH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAQIDBP/EAB8RAAICAgEFAAAAAAAAAAAAAAABAhESITEDBEFh4f/aAAwDAQACEQMRAD8A8q1qs7SS63BPIqPknAFZfOq3TLQ2OhWl3LgNcTl493C7lGFLH0ySeeKqKLjBytrwTphgTU+i0pNsJdhkA525wTj2p+r6TcaZI3UxJB1XhWZPC5XGcfBU+zClS2FzA69eF1OTkEcgA4JNUdxZTzaFfo7MwjKXK57jjGSO4yue/pSjByehUqyI6iiikSdFXmktqulWFjG1/BLZ3Ks30joZgFxySoHb2+9QdWGh3Tfx+nzRPJ1YnmtmwfDuXcpB8jnP4q4NJo6+0ayafP0JtG1kyLNZ2rC3kkJQAhQvIHKEnaM+R+adNpFxcPOFu2hbazTwuSJTtUk7/UY7Ht7VJyTXEUxEjuGByQSf3VRrGsXcdhCXcC4ayEbswyziU5OP6Koz/tNz59meXTSla2RpxnjtRXKKzMDta7K+ns2UwvgLIsu3y3L2P7P5oooqxxk07Qq5lE11JIQQruWx6DPamajeS39288xJZsAfZQAAPgACiigG9mSiiigR/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Am I Dreaming</div>
-                                    <div class="artist">Metro Boomin, A$AP Rocky &amp; Roisee</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcIAf/EADEQAAIBAwMCBQEGBwAAAAAAAAECAwQFEQASIQYxBxNBUWEiCBQWUnGBFSQyQoKh0f/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAAB/8QAHREBAAIDAAMBAAAAAAAAAAAAAQACAxEhEjFBE//aAAwDAQACEQMRAD8A0Lwy6qoYluCxw4p2qmaWRSMq7kAOwwCFOAN3ODwdPNVc6lJ6gkhKQKVUopZt2PU/rnWJ00kHhh1Ne4IaWStrZAm2J3Kr5GAdykhifqbBzwNh+NLtWx8Quq7jV3Sunt1LDAjtTQuZF4+ngMwAPr276RZ0HOyrw27PTNprutrRbXqpK27UUckpUCN5xuXavJwpY8n0wDqmbxAtdRJJHbEra5z9W2mpGf37Fsccn09dKEPQ3TVDloWqqqoVAUX+4kjIOxVCnv2Yn51H8BK2KTqi5wwIsMbU7bY+5wsilST74fBxxxxrDkUDRCtUqbY51996nuwCUXTNSke0r/OVQiV8jByq86NaBLwpI7DRonAvW0T+h8Jh32iL5QUXV0kUdTLU1z2/7s8MOAKYZyu4nkltzEj0GPfSJ0zZ7ybBe7vRpC9JDAtPJL5oDbcoSVHfkY1c+K9ntdpvDtSSRz1VweSoqz5rSYbj6cscgHcTjJ/1qq6e6moemOjLrartUyTUlydQrUeGZVZTkNn+k4ABGP8AuliWdx4NQJd2629QW7oTqiuiucC/w9seXsLTQ4Cncj5GAQcjv68ao/De9w2Se33b72aWYVTRVZlCnzI2UNwO4GFxntnGlm/9Z0UlmnoLHHcFapTZUT1FQD5iflKKACfk5Oo/iOPL6gjMEaRwzUtI6qOFBMCBv0wcj9tc7YH1qFZKqHZ17071NaOp7e1ZY61KqnDFGwCrIfZlIyP3HOjXP3hnW0dl8T5bbQqVoqWieOWdWJM74UlmA47nAHoPnRqumQTsktjR0Sb+IIqiBZKlVgdAdsUlG023/NSBz8AaTeuampvtnp/Mt9JQxRTgjbKA8hIxtUHk8c9saNGp7Mpr9Ir/AIYlVWkXbGuCds0gG4/lT3bnt3Om22WZrrXTQ3a30sUFTRvCJwgjFOyjcsnoAeMEn0Pxo0aCjuxCQ0zyy2esoen6drOIoLos8iVEm0eY8ZwVwSeVBHt30aNGhye4dOE//9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Softcore</div>
-                                    <div class="artist">The Neighbourhood</div>
+                                    <div class="artist">Bossman Dlow</div>
                                 </div>
                             </div>
                         </div>
@@ -272,7 +272,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jul 2026, 07:22:22 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Jul 2026, 07:25:36 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
