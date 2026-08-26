@@ -129,31 +129,33 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAMEBQYHAv/EAC0QAAIBAwMDAgUEAwAAAAAAAAECAwAEEQUSIQYiMUFRBxMUYXEVMpHRFkJy/8QAGQEAAgMBAAAAAAAAAAAAAAAAAwQAAgUB/8QAIBEAAgICAgIDAAAAAAAAAAAAAQIAEQMhEjFBcQQTMv/aAAwDAQACEQMRAD8A41bX/SaW0Bm/VHnVRuT6aILuxg85yR55PjjirKzl6TlnFy51O3ZSWULBCc+3rxj39zxXPh+0bWIPnOKdYyuD5wP25yeD7nHJrUXEpYAw2HKA/VzoF/qXSUllcGJtR/UMsYi1tEdzc7QxznHjPPNV8Gp9MSWEa36XouWXEht7WIDOSe07v+R/Pjis/dvGSZFcszJ3swByf6qvRc79owAPb+6YyYBjPFTJ8ly7+5sU1DpVtPnYW+oPqDwsFV4Y9gfHBBBzj80VmNlvMrFQybcbt7ZZ/wAccUVzHgcrrcUq+5W9uCqu27PPoPvzTQ6tbLGB37uSOKc8KbFUALuyAcZwPOajJiJ8qQxT19xVAhNXqH5Bfzu40rJMUkJMgB27WOcH71JgjEcoWUna47j6YrwoLWrNjvLZAAxtHrTJGCOR2ufIJ8Z4phaFte5biEdWMGSIyyFVbavIA9vSipVxEWsjOq7EDKhI++Tz/FFHXJwsAQuTGMdX53Ndo3QOiaroNpqV515pNlcTRNI9pKFzEcuNp7857QfHhq83fw/6fs9SSAddaU0D288vzyFYK8ZUKpCOxAffuB84B4yKKKxPtc7uJqa6ltbfDjQ1lf5nXuiM6zsrGKRW2wgNiQAPzllA2+cMDz4pF38O+mIrJrr/AD3Tp9jptjjiTeyvs/0MgORv5BxjYfxRRRhkbiBcOxtVMbd9C6JHoWoywdfWDSW7yj6aSJEknaMuoKj5h7WK5XGchgcUUUUUWfMjtZpt+5//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Push the Feeling (feat. Big Narstie)</div>
-                                    <div class="artist">Nightcrawlers &amp; John Reid</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAABAAICAwEAAAAAAAAAAAAAAAIHAQMEBQYI/8QAKRAAAQMEAQMCBwEAAAAAAAAAAQACAwQFESEGEkFRIjEHExRCYXGBkf/EABcBAQEBAQAAAAAAAAAAAAAAAAADAgT/xAAcEQACAwADAQAAAAAAAAAAAAAAAQIDEQQSIWH/2gAMAwEAAhEDEQA/APnZw/1a8eVtJydna1k+/thc5UwQo4/ClkeQsFw8hAANYCLIxjSID0tjulqo+P3GluVAK2ommifEOroLWtDur1jY9xruu/peT8XpX01Yy2O+ojpI6ZtOYGSMYQ4l7iX6eSMNyRnG1XZPZRJ2oTojPdb9KKxot2x8m4xbKJ0VPb2vidUOnaJ6aJ7msfgiPqOSQCCP0udS804zE2RjbTTROefSTRwuwOuQ47gac0fxUmgUXwot65MquR8LA+Jl/s96hpRZ6KKlc2d8j/l07IuoFkY+3tlpOD5RV/nSLqrrVceqITl3eglRztEWzIymURAM+EREB//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Habibi (Albanian Remix)</div>
-                                    <div class="artist">Ricky Rich &amp; Dardan</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAcIBQYE/8QALhAAAQMDAQcDAwUBAAAAAAAAAQIDBAAREgYFCBMxMmFxByFRF1KBFBYikaFB/8QAFwEBAQEBAAAAAAAAAAAAAAAABQQGA//EACMRAAICAgEEAgMAAAAAAAAAAAECAAMEEQUSITFRBnFBgdH/2gAMAwEAAhEDEQA/AKf2jOjbNgvzJ77ceIwgrcdcNkpSOZJqbtd7xEx2S7F0ZEbZjJNhNlIyWvulHJI83PYUb1WsHndpRdKxHCmM0hMmWEnrWehJ7Afy8kfFIFhGSu1anieIresXXDe/Akl1xB0IwUer+vlP8U6gdve+PAax/rGmNoT1/mIkNxtZRW3Y6jYzYqMVI7qRyI8W8GkPHUxe2f5t7VoKi2A9hTlvF4ty9LIB9djJReynzLx2fMjbQhMS4TyH4zyQttxBulSTyINFT9uz6oeY2hJ0xKcKo7iDIiAnoUOtI7EHK3yD80Vhc/DbDuNR7+vqI12B13FZ6+8X6uah43PiN43+3hIt/lcKyqzajY+xB9vY0/d6vRzze0Iuq4bRVHcQmNMKR0KHQo9iDjf5A+an1lzBVbXjb1txkI/A1IrVIYzYZcdxuEyM8r8xbG3i97/9rVjm8JvK9zc/isKOtnIK4Yv/AJXuMvIc6SXQ8SZgTO/9GM/qnsHg883L2+3hLvRXabsulnn58rVEtspjtoVGiEjrUetQ7ADHyT8UVifkF62ZWk79I1+4liqVSUFtCFG2lBfhzmG34ryChxpwXStJ5gipt17u6ym5LsrRUttyOo5CFKXipHZK+RHmx7miijcbMtxW3Wf5OroG8xfJ9HPUBL/C/b7nO2X6hrH+8qY+g932auQ3J1nLbajpNzCiryUvspfIDxfyKKKRv5nJK9IIG/U5LSu5Rmz4cfZ0JmJCZQxGZSENtNiyUpHIAUUUUGSSdmUT/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Follow God</div>
-                                    <div class="artist">Kanye West</div>
-                                </div>
-                            </div>
-                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAMEBQYHAQL/xAAuEAACAQMDAwIEBgMAAAAAAAABAgMABBEFEiEGMYETUQcUIkEVMkJhkaFScbH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAGxEAAwEAAwEAAAAAAAAAAAAAAAERAhITMSH/2gAMAwEAAhEDEQA/AMN6a0u71q8tbK3lmeabBLNI2AO5Jwe1Wvq74f6h03AkjaujMVyU3OD45pT4OQTfOS3kd7DYwQQos08m3dhgcKmf1EgeAan+temb+zsBLqGsJepN9Uczys8sufcHhQB9hWetTUHnNRk0M0hxmSXcPt6jdv5p2LiRpCzOxHblif8Aprs2m3NldXsF1GVlttu85+nDY2+ealbTpfWp7S3uobEm3uVJicuoDgAnjJ9lJrVQliWn3F0Luwl9eVkS6iUbnOAN4ypBOCCM8cg0UlqFld6TrtvY6lF6EyTxbl3Bu5UjkHHY0VOvRqjnoG9FvHJDN8u0M0KOY7gqEdkIIyWBA4JPb9qc9adbNqVzFHI0btDhd0IwmB7Yqq2zD5GAgZIjXjxUddSeuYpFUJNKvI/fOMjxjzT4pugmy1a31DBq1yk8aMjSSepNFu4Bwqrn3PBPnFT3SfVi6feEancXZsYLWQR2scpVXbgBQARgnJ5/ms+sYBCjHBYEkMD3I+/mpd3R1VmRJYiMcjBz/sUcUh9jkLl1N1ToWqKY9O0+7TUZpoN9zcMGJVJEIySxIOBjiiqiIY2vbV4pRGFZc7jz3HHtRUv0E/hCxSKNLtxE6+rIuzP+GPzE+KR9NIAjMMXEv1KD3Vft/X90UVoQe3uVhQYxheAKbficm0rtUIzAnHcYNFFAzltdXD3tmJJmIMiEqeP1UUUVDKR//9k=" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Give It Up to Me</div>
                                     <div class="artist">Sean Paul</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAIDAQEAAAAAAAAAAAAAAAQFAwYHAgj/xAAtEAACAQMDAgUBCQAAAAAAAAABAgMABBEFEiEGEwcxQVFhkRQVFyQyYnGBsf/EABkBAAIDAQAAAAAAAAAAAAAAAAIDAAEEBf/EACMRAAICAQMDBQAAAAAAAAAAAAABAhEDBAUSEyFxFCIxUdH/2gAMAwEAAhEDEQA/APmylKz29rcXO77PC8m3z2jOKlhKLfwYKVL+7rzB/KzcftrFPaz24XvwvGG/TuXGaq0Xwl9GWO5tl0+SB7FHuGbK3PcYMo442g4P9j1pUSlWCdh6X8HF1HQ9P1m86mtNOjuVR4Y5rcne5AYJnd7euK06+1OWzupoysFwQ/BAKjAPl8/zXX+l/Ebo38O49J1m9RL+2sVS2V7aRwk6xEA5AxnJ884rgclzbiDMbN3WJLDFJy4Y5H7kP2/ctVpovpurNl6flk1aGZR22vF3kR9s8oFyeQfPj2quttWeFRHDaxYiG1csRxxn/K9dIdQLpbXEEswgguI2R5VTc2DjcPoMVU6lcRGJhasp7zliMHKLngZNI9NDk1XY6S3rVpJ8+/hfhBKhy7ZOTk4pVlpmoafa6LqcFxpve1OfYLa77pAgXneNg4JII5Pl7etK2JHFlJydsqKlWMMEjbri4iiQHBVi2W+RhSKUqMKMqdls0WjvtQzQJGq7Q4aTexySSx24PHHAFVV9DBE+62uY5Y2PCjduUfOVA+lKUKjTH5MznFJpLwiJSlKMzn//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Popular (feat. Playboi Carti) [Music from the HBO Original Series The Idol]
+Explicit content</div>
+                                    <div class="artist">The Weeknd &amp; Madonna</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAUGBAIDB//EAC4QAAEDBAEDBAAEBwAAAAAAAAECAxEABBIhMQUTQSJRYXEGMjPBgZGhsdHw8f/EABkBAQEBAAMAAAAAAAAAAAAAAAMCBAEFBv/EABsRAAMBAQADAAAAAAAAAAAAAAABAhEhAzFR/9oADAMBAAIRAxEAPwCydU6ytSlFwOdz070Rvn/tdvOvuIbDyVAzkklHkcSCY/nTLqhZecacZbJCVDIEYqH5jO/EQfqtbRQ60hiGe8+FJ9apgASCkkc6PnXvXmqjp283wS3aEN5ZWrW09wJTEYxkN8SD96pV23SlSm2lesk/l0T8QYj6qtPSr17pzbZLWBcDwfzHb94mNHxHG6w3TISFNNobN20eA4YgjmR4gDmkmGjh0iYLS1AyhaXAog5ce4+qKZISpZcSyjukuRkngkp8fGifGqKtIN0d2928hLKnnWFtqUFBC3I9MSQQdpn5Pn2NMPw71C2a6i64wy6GlLVKXQFSgwfOpkCI8VKdxDASpGKiVjJKuFaiCAZ41W5XVA42pCQ1kkSq7yKIk/pgEb0IB8VBefS6R1zp6rU2eCU2uJBTJiOfv96Sfiy2t1XluXc0WspgNECUb/rM6PiopLNylS7gXLGnMS2ViYJjKOMZ1VAjqi20JDnZLlwEhF22ruEYqEoWjkaGzHsaWa1Yw6nuo9Es3dp37dgWxycmQvZTBxH9+D8UVssOzfXDbb1wnusqWptxAxUhQSk6B/iNz5opF4m+oh2l7PnZu0YJIecDuc6MAD48g/5oQ62++lsvwknlTg/cxRRWZmkbNizCAVFHdICc1AaTMZRHPB14pMq8VbPusIuEFCF8tuggniQQY480UVRJtseqhuFd103GejOScYgz5J/2aKKKaaeBVK0//9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">No Church in the Wild (feat. Frank Ocean &amp; The-Dream)
+Explicit content</div>
+                                    <div class="artist">JAŸ-Z &amp; Kanye West</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUGBwEDCAT/xAAtEAABBAEEAQMDAgcAAAAAAAABAgMEEQUABhIhMSJBURMUYQcVI0JDYnGBkf/EABcBAQEBAQAAAAAAAAAAAAAAAAQDAgX/xAAZEQADAQEBAAAAAAAAAAAAAAAAAQIRAyH/2gAMAwEAAhEDEQA/AM4t6lCkqA+NetOawjW8YrOcyTMVEePzQ0TanFqV4/HQGo3jsiUkFwgf41rycLES8w1ksy3zhcEpfskABJ5AgAWqwKrroaZ2TwFypaY/UKf++5zcMZqNJ+yxcckNfSCVrXQJUpSj0kWPAs6oN5KwslxJQVdix7a6R2fvjBT945QzIiJWPWhx1qRKbSByRQSSCSTYvyOtUjvnKDMbrlv+hDKnClPEdJF+etEQssH9DJ6nsNksZxXTTgfbUR0SRSgPz0DWjSbZmSY2RmIKMkpbi3klElBSQhhDgSW3knwbFA9dDRq0XiI3GsaQH3FOelJ5fHnTecg5HGPwXKaUtNBRsFCv5T8+dJtuzIUZx5E9vlyB4OWbQfxWpFPykOTGvkJEvikc6UPbz5rTKW+YEnz0rQ4qHaYj8R8T20n6r7jyWWRx88RVk37338aictKY819lsh1BVQ4m7/3qycpttrN5BMlya7HSoAOJQm7oUK761CdtYHIZDecTDQmfrTvufphN0LSeyT7AVd/GgXDljotUh5Bnv5XcyWt2RpDqJrjLbqW00pDKAUpCaFgD06NdM7Y2vCjbyU7GYTKyWLbS2uQoUlx/qgK7CU1deT6b6PRrOmmVFsXOYDHwJ0fLYwTJkx1LQcNfw2/eu7Bv3H/RpxMzO02ozzeNwK2ZiHEhtx10uIIB9XV/AqvfRo10XKbAKng6x+5dsypr65uBTx/oEICLTV0QCAPi++vOtu3YGM21DzG9fteeSkpVHYQhaQEeopFfBvjZ/t0aNH6LEW5vWWtsqAYuDjxi6024tsOynieytXqV5N/jz0NGjRoopH//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">I Wanna Love You (feat. Akon)</div>
+                                    <div class="artist">Snoop Dogg featuring Akon</div>
                                 </div>
                             </div>
                         </div>
@@ -271,7 +273,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Aug 2026, 06:13:32 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Aug 2026, 06:14:29 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
