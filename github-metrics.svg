@@ -129,6 +129,14 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAYHBQQCCP/EAC8QAAEDAwMCBQMDBQAAAAAAAAECAwQABREGEiETMQcUQVFhIjJxJIGRUrHB0fD/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8Aw/DOBeNSzSqQH/IywuI1KABQ0rGVKwfZPAPvW14pyXrSlsWdKWYcZfRaAGckJG0fOASo+5Nbnh5ao9jjXRQuM52UxHSvy5VhOQlQGOeTgE5GB2pJlaR1bqmdDjCeQ47+vKFMrS2ylwJ4CyMKIAA70HjTcO7yXLW7MWpLT7zqSnbzkBPB/enGfHtcayON+cZbQ46G3CpWFNNuEjckdztPOB7UuXuFqmIyiJEZfXPYlplNvJaVsI6e1YzjHJSk1KkolSgl2at0lZV3PO1J5x8enyfxQXN/UWnVMRoaX3JsxtT2FhJcC1rUCFKUfx2xxRUm0484/PSlvaw22U7WmxgEZ5ye5P5ooPrZh7Tt2bWzBbjId2Kb3BQT2HY454J/msC7anj6bsUdDsgMKbbbaSvy6n1LwAMJSkg+nfOKwtO6J0lf7S5crY+89Gl5Sh0I2KynjI3Djke3esFy4XvRd1RaL9ChXS2SQWYEtaQ2lxWchtzHCVH37E0D2Lyu92OC1BeU4JTZ6srpKZSlOSD9J5z6AZ/eoJrCA5FvnkYSxKjtxw2hXTCS2hBVlBwBzx3xk01DUWp7jrZh9yAbVbrX0jKhpdADrJcx9p4IB9qavEvUUJmA/LgNtpmtMLYyU5SjfjPxn/dBD9NNF27NyW8hG8/xkA/3orh0s1IavDAKiApedpPp35ooLv4Y3m3wbHAsLT5YucRtXWYczyvcSopPYjn0NNmp4UXU1jft004Dg+lxI5QschQ+QeaKKCR6005qky3psRxTgUlCJDLaiOolH2rH9Qx6dwa54Mi73Z+JDnMJZt4WlT24fSfX/veiig5rhpqZF1U5KUy4ITjxW0vbjfz/AIooooP/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Dracula
+Explicit content</div>
+                                    <div class="artist">Tame Impala</div>
+                                </div>
+                            </div>
+                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAMBAgQGBQcI/8QALhAAAgEDAgMFCAMAAAAAAAAAAQIDAAQRBSEGEkEiMTJRcQcTFHKBkZKxFTPB/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAEDBAX/xAAeEQACAwABBQAAAAAAAAAAAAAAAQIDEQQFEhMxcf/aAAwDAQACEQMRAD8A2t2KrkKWPkKhm7OdvvR7xMeNfyFUflZdnB+tZjWWU5HSr9KRGUXYOufWmqyt3MD6GlqGLlcrLAoIw7EHbpyk/wCUVEykzW5GcByT+LUUxHnHS/ZxxVHO/wAXpk6wmNgQskbcxxkL4tsnr0rtnhP2a2Gg6jJcrqV8Ybm1eJ7dTyiMuMHtA5OMnG3eM1vLyLHsxP2pT3cKDtvjPnUeRU7lnc18HXlb9aazFwlp/DfB+qafoiXd5d3aHLMQWd8ELzE4AG/Suf0J7j+Et0vbb4e5XHMux887isi3uorh3WIklMZPT6U+sq6dBSUpSbae6W87zEkhb/2R/Mf0aKmTxx/Mf0aK6BAXPE0jggDGPOseS2kOAoPqpxRRQBNlatDJMWBUPjcEZz13rOoooYIVMjNLAy9ysS2/TlI/ZooooA//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Babydoll</div>
@@ -136,26 +144,18 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUGBwEDCAT/xAAtEAABBAEEAQMDAgcAAAAAAAABAgMEEQUABhIhMSJBURMUYQcVI0JDYnGBkf/EABcBAQEBAQAAAAAAAAAAAAAAAAQDAgX/xAAZEQADAQEBAAAAAAAAAAAAAAAAAQIRAyH/2gAMAwEAAhEDEQA/AM4t6lCkqA+NetOawjW8YrOcyTMVEePzQ0TanFqV4/HQGo3jsiUkFwgf41rycLES8w1ksy3zhcEpfskABJ5AgAWqwKrroaZ2TwFypaY/UKf++5zcMZqNJ+yxcckNfSCVrXQJUpSj0kWPAs6oN5KwslxJQVdix7a6R2fvjBT945QzIiJWPWhx1qRKbSByRQSSCSTYvyOtUjvnKDMbrlv+hDKnClPEdJF+etEQssH9DJ6nsNksZxXTTgfbUR0SRSgPz0DWjSbZmSY2RmIKMkpbi3klElBSQhhDgSW3knwbFA9dDRq0XiI3GsaQH3FOelJ5fHnTecg5HGPwXKaUtNBRsFCv5T8+dJtuzIUZx5E9vlyB4OWbQfxWpFPykOTGvkJEvikc6UPbz5rTKW+YEnz0rQ4qHaYj8R8T20n6r7jyWWRx88RVk37338aictKY819lsh1BVQ4m7/3qycpttrN5BMlya7HSoAOJQm7oUK761CdtYHIZDecTDQmfrTvufphN0LSeyT7AVd/GgXDljotUh5Bnv5XcyWt2RpDqJrjLbqW00pDKAUpCaFgD06NdM7Y2vCjbyU7GYTKyWLbS2uQoUlx/qgK7CU1deT6b6PRrOmmVFsXOYDHwJ0fLYwTJkx1LQcNfw2/eu7Bv3H/RpxMzO02ozzeNwK2ZiHEhtx10uIIB9XV/AqvfRo10XKbAKng6x+5dsypr65uBTx/oEICLTV0QCAPi++vOtu3YGM21DzG9fteeSkpVHYQhaQEeopFfBvjZ/t0aNH6LEW5vWWtsqAYuDjxi6024tsOynieytXqV5N/jz0NGjRoopH//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAIDBAEGB//EACUQAAEEAQMDBQEAAAAAAAAAAAABAhEhAwUxQQQSUQYTImFicf/EABgBAQEBAQEAAAAAAAAAAAAAAAADAgEG/8QAGREBAQEAAwAAAAAAAAAAAAAAAAIBESEx/9oADAMBAAIRAxEAPwD5LkzI1I9vEscq2zBnh7lWGt+k2NGa5Mzm2eehVUsJsESfJ1WhEsqLsLoWLAxAlvouyruZ3Osvyramd3B2RBzu5aSjrZUgu9HW908m+Bpx/wBAZNAnonlbalDkvYA7IqRLpCbZ82Aa0ek1LJ6fdpiJpuHq2dd8ZdkfLf1wADNV2P/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">I Wanna Love You (feat. Akon)</div>
-                                    <div class="artist">Snoop Dogg featuring Akon</div>
+                                    <div class="name">untitled 08 l 09.06.2014.
+Explicit content</div>
+                                    <div class="artist">Kendrick Lamar</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYDBwQFCAH/xAAvEAABAwMDAgMIAgMAAAAAAAABAgMEAAURBhIhBzETFEEVIlFhcYGhsSPBMpHR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AKbvXT9yP4k2HIa8q8d0aM+v+ZSCeBhPc49eBUMfp/qSa0nwLb4Kioe8t0EY+PHI/NWZH0ulp4XOVdNjDjaUj+Lcr5Ac9637kWW66w6xc5HshLBW62hIQ6oj0yOP3QL3TzpZcYLxlXWa2NiSTHZJUhxWDt3jHPPoOT8aStUSGYso+Qusae0tSh4ZhqQWseitwH7NXNcNU2zp30w049cosqRcpraltFs5wo5V7ylHsAsYHyqmdLahGoeozUrUnlJbU1C0pjqQnw0KxlKcfjPcmgUJ85t4FLkaKCSPeTlJx96K6FjaH0TfboiBIsKmJDwUUuxX1t7QBk5GSPSig09zguLjNKZdJXGO0IUrgoPYj5/usBi8It9sm28ur85NcDYOw4Rngj48jPOKXEdS7RHihCGZjqwMA7AD9M7v6rDka4a1FaHWFiNBuCFBTbiwEbuCP8kgD19QPrQP3Xi4tXbRERuCnMVkNeESoAEDjIz9R86ozT1lus+5R02uJIXKQ4hSFITwkhXdR9OR+Klnyri5BZZluyjCUsjY4olBI+HOP9Vt+md1asusYq31qQw6hbS92QO2U/bIFB0LLbkaft10vEoBCm4LqWSg5PiKThJ47fWiqpjain6n05cFOoDMpbhbEdpR95OUknaTn1/5RQUnTHpKyKvnm2mnUNuNhKwVd8cg/wBUUUEmpNMXGzxEPvOJcj79o2E8HBOcfavNLt2qTMT7cmzWdqfdLSN3I4Az37fSiigcEwoEqzx1W5B2+Y2hW1JUspyT4hVn1xwDgZooooP/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAQFBgEDBwL/xAAvEAACAQMEAAQFAgcAAAAAAAABAgMABBEFEiExBhMiQRQVUWFxgcEHMkKRk6HR/8QAGQEAAwEBAQAAAAAAAAAAAAAAAgMEAQAF/8QAHhEBAAICAgMBAAAAAAAAAAAAAQACAxEEIRIxQVH/2gAMAwEAAhEDEQA/AOWWFvDawu0iu2OeF/enfCt9puteKLPSJpHs4J2KtduBtTCk9Ej6VjVg0DRhXYKwOQKT1CaaPUNPSOSJLc20bFSqZZizA9jJ4GKr5FmttEbwgcQjrc6XqX8O7W1b160khjKecsSKdudu4AlsHk8e5AJAPVco8QyLpOsXFhIxmCO3lyx4Kypk4YYJ7Az3TE1xqc0dyLq8BmCMyys8bjhuBkHg+3NV/WFuoZreSK4ilhKKxI2j1E9fnHFTWWV0v+sZtriN5924BMdniioZGdri8MYORIcKozRQjCtkPsvfiWYL5HPODSTavp002lJc2vxUdrhZ/R7eo7c945ByOj1Vc1LU3nfdNdFpACAgQYFabfVrq3sp4reUKkmM+kfXPf1yKo5GUvdSedw8bTCVs+pZPi47CK18iS9siwZLuUhZP6hxHj7Z3KeR+a0XgifRPMW3knt1kKmQOoKEcKSoORyf7VB6nqCC3jM0S3Er7ZNzk4BwR0O+B+KybqzgSBLa5fDRgSYXaM95IB79v0pO/I7jCzW/UsfgxvDI0TXn1iSb507t8DsDbVP3xwc/eiqSkywzttlG0tnIHH/aK4dfIfkPe2eTHItyJoygYMGAPPPf61NL4k1JEzs05n3BsfCRjOPc4HvRRTGpI62SI32qTtIdrwvGP5cQhQD3wPYZJ/akvmU5I9MH+Fef9UUUtIe3cVkYySs5ABY5wOqKKKyZP//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Victory Lap Five
-Explicit content</div>
-                                    <div class="artist">Fred again.., Skepta, PlaqueBoyMax, Denzel Curry, Hanumankind, That Mexican OT, D Double E &amp; LYNY</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAUGAwQHCP/EADEQAAEDAwMDAwEGBwAAAAAAAAECAwQABREGEiETMUEHUWEUCBUicYGRIyQyQqGisf/EABkBAAMBAQEAAAAAAAAAAAAAAAIEBQEAA//EACMRAAICAgEEAgMAAAAAAAAAAAECAAMREjEEBSEiQlGRscH/2gAMAwEAAhEDEQA/AKq560NoslmuFyinE9sFSGML2q257lQGO/k+K1bfqmcbm8uc2wbUtxYb2Jw82kA4zzg9vPNI9P3GOdTpsybMhViYbQiJuQpaEZIKv6gRwSeMjtSPVepINk1XcYyWo6Og4pvcWlK3k+MJUAPzPzU9skesoVuASX4l5qDWVotb7aHlSHSuGqcnpt92wCe5OM4SeK1YWtnprrbFot6mvqLa5MQ+4CooV01KQCAMdwPJzUP6xFCbs3EgLdYcjWdKwtlZKskgBo+wIP54+Kn9KOXOLrxCYsh56ei0np5/EQogDACuM44rdSOZxOckcCXGqZerJnp3cZaZVzckOXJlOGGlNJbb6SwoJxglvO05PmiqObeblE9N9SSp/wBV1GXIYSmZtcGS5hRSjJAHx8UUS5IEXfXbzID0d15dLo9cI9+vO8hUctF9aUd3QFAYA8A+/eqnUYnybtfIrMNDDJZT9PMdZAbLhUCf4hScccDvzXDLNYZsS4tSGWXZYTlP8q7hSFEEDKh2H75prcbzc23l/UTlRS+tBXHS+XOByk4PYA/Pn4rWXbyk9V2q9bQRKX1Dh3O1epbin/p5Lk1CZCNuMdPBSUnOOcD9cDFY5ioi/WGSzeXHrfFkwemVxykuI3IBTjjAP/KRTXpl4mOzJUh9x+GwnpqVyfwkkZ9049qX6yYumotQvXdMB4RnUoAU2OplKUgZx3wcZxiiNxsVVbxqP3CNLjOgyD/J6HsFt0zb9E3xiOq7ahYcUy69GcYK3FEFWzaEAE8558Y5opd9nln7vbvjhQWlPOsjGR/alWCABx37UUurZAOZllTK2GE5ja9XvtWwkdBxhbKytvAxuG3H6Z/wKgtUXFV2EKa4orUpC2VK99qyR/qpNFFHSMHH0ZZ7wdkBPyGT+RG+k2p0pl1mfIltxkI2M5UQU57gA+PjtXStMtMR4saLIknY2Npe25P7A0UUtexLkSl2/p0rpUjmVtonRXNTxYENbjMR99LK3Q06hS0H3Vv2iiiima9SOBIfXPZTaVVzP//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">500lbs
-Explicit content</div>
-                                    <div class="artist">Lil Tecca</div>
+                                    <div class="name">Midnight City</div>
+                                    <div class="artist">M83</div>
                                 </div>
                             </div>
                         </div>
@@ -273,7 +273,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Aug 2026, 13:35:28 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Aug 2026, 10:23:09 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
