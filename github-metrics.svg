@@ -129,32 +129,33 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAECAwUHBgj/xAAtEAACAQMDAgQEBwAAAAAAAAABAgMABBEFEiEGQTFxgZEHUWGhExQiscHh8P/EABoBAAEFAQAAAAAAAAAAAAAAAAQAAgMFBgH/xAAfEQACAQQDAQEAAAAAAAAAAAABAgADBBESBTFBEzL/2gAMAwEAAhEDEQA/AMp064kVEjWOEgcDMKk+5GTVtc6beQR/mHt5YlPO7YVH9VN8NYYbrqiyinkWOMszb2AwpCkjx+orW5LVpo5ot9vMm0jIkUgjHnVIlv8AYE7YIm1uuRaxqIgp7A+zC5tWuouN+4fWmRazOzcBfJlDD2NLrFtjVri1gAOJmRB4dyBSWWi3hkCyIsZJwMndn2zQ2qgZPcvwx2AJ7kj3s0gYMIcMMcQqD744opLq2NtMYy6vwG3KOOfOiuQkUVMZ0DrsGj9V2NzdI8sKFg6R4JwVI78d69PdO69oV1oUNvE6CX8BY23RgHO3GRXjnSmFtKrlhu+feuwtOoZRtIZ129wMH/fSj6iFfzMS1YXBy5xidF1V0RqGm6y17YzLfWxmMnH6XUE55HgfT2qjXqy80LWbWaxt911byh3WVDgjBBHqD2q3h6plmj2PKwbuG7fehr+2mO2QCSTGckYGPvQ4BByw6hzXDVFxtOV1PXDfancXU9s8CytuAB3BfM4H7UVd3EdpITiMFe/GBRSwp8k6cjXpjUMDM8iGPDPpxVjBK3eUIB4BR/JooqzYTKqxk4kIGA4c/MtzUsVzLGeBN6PkUUVEQJOGMc1zLIcEOKKKKbqI/Yz/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcD/8QAMxAAAQIGAQMDAgENAAAAAAAAAQIDAAQFBhEhEgciMRNBUWFxwRYXJzIzNEJEZHSRobL/xAAXAQEBAQEAAAAAAAAAAAAAAAABBAUC/8QAHhEBAAICAgMBAAAAAAAAAAAAAQACAxEEIQUiMRL/2gAMAwEAAhEDEQA/AO3Ue+bop9+1uTka3NsSrMwUttoIwkYGhqFdIvS9KnNLZZuCeyltSyRxJ14AGPJOBEPqsD+ci4T/AFJ/5EVZC1ozwUpOfPE4jUpjGh13My2VL9/JpCK5fTSfUqd1Gnta7nXkKP24pBJMKZ/qBcrTiEyd01CYHHvUWw2OX0yMkffEV9F6TkmhimyzTaVpQOD4Y9RxsfRZ/V3vQ1C55xbzy3XVFTi1FSlEeSfMFKCuwje+tamjdPb6umfvqhyk7W5x6VemUocbWRhQ3o6givdLx+kW3v7tP4wRLyahY0SjBZa/ZP6mSb011BuVcu0p0MzJ9Thvh2g7+NRTw2Nxp10y0+z1YrC1NNt0115aiWdl1ZSkAr9wQNDyP8wgvFLzL1ORKolmmnng2pbjOSlf8IyPAP29oKc78+qRyePbe1WSH7Jpi7SXWUiZbqUrLJcylXY4lSvdPzj3BxFLDJxnicRrtLqUs3a9ZZn0OKl5OWUy7rBUkFR5JB1jicxTZ71G5SRdbkmJmnqUnmtlJU4lkpB5Hejn48Q4+WU+m9wy8O2R9XWpx6ZN46g0A4/m0/jBDPpmiVm70oUzJPo/e+5pR7gASMgnyP8AftBBny1uiTnDivQSxGPUO1bvnb3rM1ISFSelVTXJoIa7FoASQQrO9gjERfybuZbUsiZtmpzDQ/aIW143oed4wDnWDBBEbUmiWSNJi1bheptQYYpE+hc40pLinGjsK7eIGfIGfv8ASFooF2UigtylJt6puzDaPTQXGPAxgA7wcQQQoPUCybkjpnaVfZuejztVt+fkJlqeDrrgYw3xIOSTnXwfnR9oIIIQnK7n/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Borderline</div>
-                                    <div class="artist">Tame Impala</div>
+                                    <div class="name">Young Dumb &amp; Broke</div>
+                                    <div class="artist">Khalid</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAcBBggCAwX/xAAyEAABAwIEAwUGBwAAAAAAAAABAgMEABEFBhIhBzFBEzI0YXIIFBUiQlEjJCZxdLHB/8QAGAEBAQEBAQAAAAAAAAAAAAAAAQAEAgX/xAAcEQACAgMBAQAAAAAAAAAAAAAAAQIRAxJBMVH/2gAMAwEAAhEDEQA/ANHSn3kyHAlxYAUdr1UM85y+CQH2YmJR28YshTTL67ApKwFHcgd3V1G9WqZ4t3b6jSC42p/WiP4jf9qoYo9uLxUzIGl9uMBU7cqH54gW1bJBHkbXIHd632vOSc4/GobTUvE4y8XV2ji2I6jZCAs6RzI7um+53rMmXHXcaclFloBppRF7ch9zTL4Mo0506eGc/wAohJStLhNOPqH3GkPqktJU6spKgDc86K4RfFNeoUV0BMw2lO+o0gOOLiW83FSlBIENG5PLdVP+Z4p71Gsy+00vRmLmAExWVHz+ZW1EnSOoq2UzKMiRHwSXMbW2gR2lJda7qn09CT0IPXr182BwFxpmfnksoQtDgiun7jbT1pIYVjJw/Eg6Ua4606XEHkpJ23FOf2fIbTfEF6UwsrivQ1mOU7i3y6gr7K2rPjuEnfTdlSy41XDSkW/vTW31iipi+Ka9QorSeedsph5Ul0pbWQVGxCapGc+F+BZymolY9DmuOpQEfhPKbFhe2w/c0UVEhZyeCAVGKhle7/aaUpRPXbRY7m6hve1MzJPDPB8oviVg8Sc0+WyhSXH1OJ3tfY+dFFWqHZ/S6xmHhJbKmlgBQNyKKKKgP//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAICAwAAAAAAAAAAAAAAAAEEAgYDBQj/xAAnEAABBAEEAQMFAQAAAAAAAAABAAIDEQQFEiFBEzFRYQYUIjJxgf/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABkRAQACAwAAAAAAAAAAAAAAAAABEQIhQf/aAAwDAQACEQMRAD8A8vIimuLVVCIiAiIgLKMAvAJ4PCxRBy5WO/FyJIZRT2GirODgsycTMldP43ws3taW2H88i+lGNI3JeGZpL2NaacHU/wCKPfJuj8rbZ/p7StGwDl6hkT5Ega132ViOyQK3OBur6Auh0pbUY3toqK46ZmTH45GxwBpPjEcQ7N0537Ee13SKsqaDmqCIg7fT49Oi02ebLyXtz/IwQxMZuGzncSb4PpSr6jqMmdtbKGkMcXb6/JxPZJPt/iIhfFjF0zDyNIly5dYxIMhm7biSNeXur0ogVz/UREH/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Pink + White</div>
-                                    <div class="artist">Frank Ocean</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAYHBQMECP/EADAQAAEEAQMDAgUBCQAAAAAAAAECAwQFEQAGIQcSMRNBFBUiMlFxCBYXQmGBgpGh/8QAGQEAAwEBAQAAAAAAAAAAAAAAAwQFAAIB/8QAKBEAAQMCBQIHAQAAAAAAAAAAAQACAwQREiExQVETcQUUI0JhgcHR/9oADAMBAAIRAxEAPwCfdJtm7S3ZBUu43DYw7RtS3FxIkJTiW2xj6ioJUMf60+StpVVZfVUXb9k/NhvOoYXKfaCW21qWUgd44J4JxgcY/OvH0frfkHTmdezIzZiWcj4MvqP1NNtqGDgEeVZH+PvnTjN3E5IgSBftw5FemMhz5WhKAtpBAPqenyf0II5wSNW5fEp6SUtjeSN782/EvNRR1QwSC639xbCoXWJtVDnzl2yY6vTjuJGHCE5GD2AHx7HU8gbY2fbXMKlsn32IsqOVgoUEekoZOSV5/BBPHPt51vdM5c7dVXYVlpJTBoq8/FLfypTrKf5W0uKJ7eE5Oc/90g7kq5K4cOyr3GFNSZC2GUjh5Pb4Kx4yryB58fkaR87LIzGJD2/UyygZRB0BYANcvkadwu/VHpptuj6ZyNxbOupc9pqQiM6p1SVhSc4KRhIwQSP7aNJFxdWrdRdVRSTDlrYdkMkntS6g93d2nwV8ZP5GNGjRVPUb6z8xlumBC9wBjuQsnaV5bKgJ263cP/KZaVF6EtaktIUVe+f0ByNUButvYVxTxZ9e781WpK4rWPUdeaxhBBOUqAxj3IA54xpr/Zo2nt792k7imqqJO40esqI1Jk49JIwApxBz28j7gDgHPk6qEYOyd60ltfO1ip8CvW+p9gKDZZJWFOZPgYP0jkEdxJ4GkagseBh13K8gldHtopDSM7nqqx+pvWpNZHtLQeoZja2m/qRwpbnaUkFYCfIJJHnjHCTRbpkwFxnts3U1zt+HV6bHYyoIyG3UK892AB/UefbTrvS9myqm3O3pMrcdK0+yXpcpr64TqXUENN8JK+49vtxx5zpxu90KZbdsau6SisbuYYcVlJbQwtpIU0cj6R3cnwQT7c64s4MHCzndR9hqV8vbsm3NnNVYXLTXq17KI8v0miC0pOQkOnAAXwRzySNGqzueO1YbS6jPvOMIj2NrFWHUntHCsEkgEkdySQecg8edGhHD7ifpXqIVMbCyECw57BT3plunb9X06sq3dEX5gmbLb7oQQoOhAAHrNrxgFI7uMjnj307/AMXqKq37Nd+BckUroZhsuZKSzHQ0UKCkEZxk5x588c6NGuyFFlaGi/I/iydz9VK16RSUu1FP/IK5wOvOPLJclO5+8q8qCTzyOT7DA1yT1TjObWXXX1Olch1RfcMR3sCngSW1qynykdvhRBx4OdGjWIQmvLXgt2WQ11JhPbRlsTFzJ105KZkJfU8W2wUH7SnPOMqwR7qz7aNGjQirTaqQDEN81//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">JET SET!
+                                    <div class="name">FE!N (feat. Playboi Carti)
 Explicit content</div>
-                                    <div class="artist">XmegaLxl</div>
+                                    <div class="artist">Travis Scott</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAQACAwAAAAAAAAAAAAAAAAMCBwEEBv/EADEQAAICAAMCDQMFAAAAAAAAAAECAAMEEUEFEgYTISIjMTIzUVRyktEVYWI0QlOxsv/EABkBAAIDAQAAAAAAAAAAAAAAAAABAgMEBf/EAB4RAQACAgEFAAAAAAAAAAAAAAABAgMRMQQSIVFh/9oADAMBAAIRAxEAPwDQ/R101lqQ5YE5liNT4GY8bV5Zfc3zOLe4o6uyf7MlOkxL8bT5Zfe3zHG1eWX3N8yEQ8Bc8W9TlawjKARkSdfuYmNPc3+ka/kIgF0qS6vDpZiEoG63PsBI7R8ATPZ/W9lMUSzDcH2pQV5oKHTfKqynnCveGeYJ5esD7zw1w6DDnxVv9GRld8UZOZTrftbQp4RcG68NWjbM2A7V110gmt+fu/ubos8znykEEkajknRx23Ngtg3qwuA2SjgOi2BCTka9xWOdXKQwD6eGs17ErjpaxO9ynOefUO21a1V4la7kuXdXnIDl2h4jOJKn9Pic8uyun5CJprH1VyMyPTSu/kyAg9Z1JmJRP5h7TERBzxdeXfDP0n4gV1HrvUH0H4iI9DSnRV0XBbg5cAABSNQdRERET//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBQYDCP/EAC8QAAEDAwMDAQcEAwAAAAAAAAECAwQABREGEiExQVETBxQiI2FxgTNCkcFSobH/xAAaAQACAgMAAAAAAAAAAAAAAAADBAEFAAIG/8QAIBEAAgICAgMBAQAAAAAAAAAAAQIAAwQREiExQVEyYf/aAAwDAQACEQMRAD8AXj0V1CiAnn7VZEwVJWHY6senhICtpCvJyfiP4A+laD2h6IubenX5NtbcMhr5iUoOFcdcDuceKXGhtUNvzUQb820RtO2Qo7Tkdl9vzxT5I3qV4BI2Jot1vcX8uKEZHT1c9/uMHGOefsa4NxorQlOTIylNKA9NYc4RwQcnIHXFb+2t2IBL7UdpaVpyFt/EMeRzipjwsb7oiqei7XRtU0tSU9exFSQB5MxQ7/ldxAR5C5l3Lbf6aM5x4HX/AHxRTl057LZtt1OlcBcFyySEkv8ArkB1vqUhKsZIzt/uihqPpm7H4I6Dc0utpS22lav25T3rztrbSO25S9Vv2hqPbTcFNIg+k5vkAKOXnDnCEqIJCRgEY886206kgNPIIuDylk4SrAA+30P/AGr+5XaBc7JLhNznXnZDZTsWseR2PPahWkhTqHxgptHMdGQpVkZe0Rd5OnoYirZTI9FtsjGUEg4AGBnBOKQseIpenXLq/NbUVrLbcZPKgoEZJ58ZPTpzW11jIFjizbTpyTIRp6UlpyayVArSsAbghR/y756keKXbSz7pKDCE4BSreVYUnnnHnj+KSe1n19nRYmOtCllbrY/kevsSu0y8WGVFkLW8qCtKW1E5+BQJxn8H8UVA0dqu26WYlItEWI21MWHVpdc3Y4wBzzgc9T3opyvkq6Mo8yyuy5mXoRQm0qRbfe2bzEXJUkH3QsrKwc4xnGKurDLvUZ+IuNbLTIfCwElC9rn8E/1RRS93W4bFcu3E+pXanuVxkbmXojLLYJISpZJWrPkdayDJcBUpW7cOSKKKiiGy9hQ2/c7yUrWlC2g9hQyoKHGfpiiiimB4lZa23M//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Music Sounds Better with You (Radio Edit)</div>
-                                    <div class="artist">Stardust</div>
+                                    <div class="name">Up
+Explicit content</div>
+                                    <div class="artist">Cardi B</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAECAwb/xAAfEAEBAAICAgMBAAAAAAAAAAAAAREhMUGx8FFhcZH/xAAXAQEBAQEAAAAAAAAAAAAAAAABAAIH/8QAFREBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhEDEQA/APS3Fyv9SW7WsuhtS3jpIS7O8dCon6LjIi5z3bXlzmdcN52U1Gup8sTLU92Kl8iQScJeGwNNXbQAVZd/QCD/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Princess Bubblegum</div>
+                                    <div class="artist">ilyTOMMY</div>
                                 </div>
                             </div>
                         </div>
@@ -237,7 +238,7 @@ Explicit content</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    139 MB used
+                                    140 MB used
                                 </div>
                             </section>
                             <section>
@@ -272,7 +273,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Sept 2026, 07:40:05 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Sept 2026, 07:45:32 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
