@@ -129,32 +129,32 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAMEBQYHAv/EAC0QAAIBAwMDAgUEAwAAAAAAAAECAwAEEQUSIQYiMUFRBxMUYXEVMpHRFkJy/8QAGQEAAgMBAAAAAAAAAAAAAAAAAwQAAgUB/8QAIBEAAgICAgIDAAAAAAAAAAAAAQIAEQMhEjFBcQQTMv/aAAwDAQACEQMRAD8A41bX/SaW0Bm/VHnVRuT6aILuxg85yR55PjjirKzl6TlnFy51O3ZSWULBCc+3rxj39zxXPh+0bWIPnOKdYyuD5wP25yeD7nHJrUXEpYAw2HKA/VzoF/qXSUllcGJtR/UMsYi1tEdzc7QxznHjPPNV8Gp9MSWEa36XouWXEht7WIDOSe07v+R/Pjis/dvGSZFcszJ3swByf6qvRc79owAPb+6YyYBjPFTJ8ly7+5sU1DpVtPnYW+oPqDwsFV4Y9gfHBBBzj80VmNlvMrFQybcbt7ZZ/wAccUVzHgcrrcUq+5W9uCqu27PPoPvzTQ6tbLGB37uSOKc8KbFUALuyAcZwPOajJiJ8qQxT19xVAhNXqH5Bfzu40rJMUkJMgB27WOcH71JgjEcoWUna47j6YrwoLWrNjvLZAAxtHrTJGCOR2ufIJ8Z4phaFte5biEdWMGSIyyFVbavIA9vSipVxEWsjOq7EDKhI++Tz/FFHXJwsAQuTGMdX53Ndo3QOiaroNpqV515pNlcTRNI9pKFzEcuNp7857QfHhq83fw/6fs9SSAddaU0D288vzyFYK8ZUKpCOxAffuB84B4yKKKxPtc7uJqa6ltbfDjQ1lf5nXuiM6zsrGKRW2wgNiQAPzllA2+cMDz4pF38O+mIrJrr/AD3Tp9jptjjiTeyvs/0MgORv5BxjYfxRRRhkbiBcOxtVMbd9C6JHoWoywdfWDSW7yj6aSJEknaMuoKj5h7WK5XGchgcUUUUUWfMjtZpt+5//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Push the Feeling (feat. Big Narstie)</div>
+                                    <div class="artist">Nightcrawlers &amp; John Reid</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAMFBgcIAgT/xAAsEAACAQMEAQIFBAMAAAAAAAABAgMABBEFBiExEjJBBxMiI3EUM0JRYoGR/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAMBAgT/xAAbEQEBAAIDAQAAAAAAAAAAAAABAAIRAxIhIv/aAAwDAQACEQMRAD8AzX+kuDGjrEzIxIGKSkR45CkiMrDsEVufSbK2GzLGcaRpnyoLSLylUKHP215IaPsggH8n3r1bg21Fd2t3ajRdNtpLiN4g6MM/Wvjn9vjkj3PVKjiWDFYZ9QpZefetsWehG3s4Il25o0ktvGI2cuv0v4eHRhJIwGx/3NZG1NZ9ybl1O8s7VIVuLh5VhTAWJSeFGOMAYHFZA91MLngmilru3ktneOYeLr2DRSWltPe8S2jiW6uQmCvj80+OOsYz/VJ6jcal46gU1C9U+DdTsP4/mnHTowyryM8/nuu7yBflX5yPS3t/jVUu+3tSO+tS1mxSwK6vqSlg65F044wOO+qkPwp23ezaJa6lBbC4W+mnhPkvECp4fczn3LEdHr+s0z/FlUWPSGQLKFd8qOQfTwce1Sqbfb7d2XpUu14Wt3+TIv21aRYVLkYPmWKknPBJA9iamk39bKrt+oY9xXkUiNHKn0ujjDKw7BFFWv8AFW+gvNiWETWtqNVOmwPcTyIBIfJlcBGwSTkEYJGBnuijc73SvS7eecKDM6qD0nFPkWgW0zsZyzu3q8mOTRRXoApZ5I+XUmzdLePi2hJHQYcVEt7bN3Dc29jFt+ysojbuR5pcgK8ZOSrKQMjIHvRRW5YiUzkyGkzbZvb+Itrdlp2IkxGUlZ2Ax16Bx/uiiigTu3//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">The Weekend (Radio Edit)</div>
+                                    <div class="artist">Michael Gray</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEDBAUGB//EAC0QAAIBAwIDCAEFAQAAAAAAAAECAwAEEQUhBiIxBxITQVFhcZEUQlKBobHB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOJOfc1O0XS7rWNRis7JGknkOwA8huSfQY86gPsTWo4JuJ7WPWru1UGaKxbB6Yy6g/1/lBIuuCxbhlm1aFHQZbkyqn5z/wArNyWRguliM0cqMcCSI5B+9/utx2aX2ky6w8vFlqbm26hmjaQDyPKOvX0rcduWm8F2fD2l3PD1ta22ozSpMn48bJ4kBBBJ8uuPeg4LOvhzSICSFYr9Gii53uJiP3nf+aKBJM5OOtaBmS0nj0yGWO3VoSk8xOQ7kE4OOgzy+1U1lEst5Aj57ryKpwd+oqz1fTrWK9aDS5mmwebxSEcH03wG+RQazsm4zi4fmvEv4xMjIxjHhh3Ejbcvyeu/SrHtB1m+ueAtP0rVrBILuGYXUcnfyWh3B+OZxsNvTpXLxFNDcMVVkkj5mBGCKfuXmuEIZj3gO6wzhQBvj7oIEp5yfU0U46oM7kn18qKB2BzFMkijdGDfVSb++/MAaVD4q/r23HodqKKBmGbw1k7699mAAyfmleUSSs0oJVgM904JPvRRQJOsDRsYwyPnYFs7fVFFFB//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">In My Feelings
+Explicit content</div>
+                                    <div class="artist">Drake</div>
+                                </div>
+                            </div>
+                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAQFBgcCA//EAC0QAAEEAQMDAgUEAwAAAAAAAAECAwQFEQASIQYTMSJBBxQyUXEWJEJhgpGx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIEAAX/xAAfEQACAgICAwEAAAAAAAAAAAAAAQIRAxITIRQxQYH/2gAMAwEAAhEDEQA/AOYtw4X6RacFbVLR2QtyeudiSlzfgoS3v549tnIOc6tWcKgVIhBUOkZ/dOtxwzOKkyWQ0otqePcOzK9gzlHk+McK1kvpNTLioEW1gWMXDjUolLzbiQfV3Ufx9vGdSOs0ZcaWs0rhPBeryAXOMgrQPpOD9h/vTwyRl0+mbR/g5cVFfMnuNQo9bGmqrUuqjxZYLLcjvAEJWpZBPb5I3HBJ1mY8VlFbb99LPzLIbDeVjcD3MK24Pq4+2eNFdXuWEtmNGQlTzqglAJAGfydVa/pK2sbN6tr696VNZJC22UbynHBPHGOfPjRbQ3G62ropWEWn/Rri241U2tLMdUeS3K3SnXTt7qXEbzgD1/xGMDB50ai2VLLq5L0Swiux5LRwtp1G1ST/AGDo0u46w39NTD6NkzoBlWJfaTGSlkIgxA64keStYRwoDnJKgrSLkiqZeMe+fkXCUNJbhPhamkMjkesFO4gcHAz9s61fTVzZx56kSKymZLi3UvFUF2OpkZIKS4yB6TyOCR5B071pIrm57FfV2aYXaZ2NrZccfbT3OVICXE5Ax7hWAdRby2pm6MrE6fkx5MCzpEMLiOyUx2ltulYU4QCQQQFJ4PuPxro1Wq06HvpvUEl15TT0p+slllndsKdhQQSR9RPGft76X+Gf76+fqVShLW1IizGnduzulpQQvAPP0LJ/x1X+NQlBifEiF31XeS2jOFlTDak/k5BxrovEpKn7aKsVOHH89mQ+McV+X1i9IUiVvfZbWBI+rx4GOMfgkf37A071NKkyJcK5iIsmZqWW3JSnkYDTiANykEjGOM86Nc6O6VMMXFKrJvSfxBmVje1oVkWucCgltpfbeaQd5Cc+M58kjknPGdeeu+tpVyiM1Es4zJKFJWVvhZIyoYUSDjjHvz/w0ao8bHe1EG7ozXT16/T2FTZVdhGjyu4v1lXDXsrenB9Kgf71UteqbG0tG7SbcwTJW8h8oQ7tAUkJCVbcYyAcff0nOjRqhTY8cskj7yuvbmXVTPmLquW2ELb+XcUnc4nHsAnnOcec6NGjSOKBsz//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Gangsta's Paradise (feat. L.V.)</div>
                                     <div class="artist">Coolio</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBQYCA//EAC4QAAEDAwIEBQMFAQAAAAAAAAECAwQABRESIQYHEzEUIkFRgSNhcRYyYpHRof/EABcBAQEBAQAAAAAAAAAAAAAAAAQDBQL/xAAfEQACAgMAAgMAAAAAAAAAAAABAgARAwQhIkETFYH/2gAMAwEAAhEDEQA/AFbbeU1zm8APcTw3X3JbM7wyYTLBWojAOvUO2M+1PPgvltNkWyz3G7vxlJejpekxlgtqbyDgqyDtkY7UoOG3rlKektQ73NgJbTqHSeUNSjt2BAphcpr67crdOZvUl6VJjPdJTjrylFSM5TnftnPzvVm3BrWF/ZdNcuAZq+K+XL8ibIl29VvgR1uKQllJWQkp2OAE/Y/5Vwrhm5L5dx7D0mS8pWpvypUNZOsA7ZQSnJ1HG2x9qh3OVHMYrdW46pCitvW4pelRIJIydjkZzWS/Vl/gcUstu3e8yIs5IHSbOpLSgoZOcEjYjYbH1qf3AelPqdDQZeiKHi/lndrBb5V7cTbptqbklp12DJDgZUTslQxkd8eoorY8z+ILtdYM2BLRObsqFqfGlttpDqu6FLCUDJJxsSd6Km2dWNrOTgINVMRwaGVTw684UoR3SFYyR7n0rd8ACKq63xy3pU1GWpCg2pYUU99sgkH+6TUOU9HccWy4Ukd/Y/mmBy2nvKjzJr8hGXFhvpl1IOAM5AJye/4o+1jZySIrXzIqhTyNC4vqbS4pIUUtpC8k4Se/r9sVRvXmb4KfMhOMsyG2xoKV5wkncnGxI7437Yqqn3Rz6zSpCRlGd9++3b/dqqESrfFQ6nxheccQpLgaQCk/1t/34oSauQng7GfKt8Nzi/35+4W5i3POh10/uKScK/kQQMH4orA2+T4a5OpLgabCifN7e35oqzYGQ0JNcq5BZNSe9wbPVZXbmw/DebbZEh1lDv1W0HfJTj0/NT7ZBk2IuRbklCFr0uJCV6x5kpI7euCNqKK18B85na/i4Ika+paXkeZp4b40kZH3Fe1tfgRVx0v6lRtaerpI1KTnfGds4oopYa7MaMhazLO7ucDOQJXhG5njuivpklO68eX4z80UUUAjszPc/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Sexy and I Know It</div>
-                                    <div class="artist">LMFAO</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAAAAECAwUEBgcI/8QALBAAAgEDAgUCBQUAAAAAAAAAAQIDAAQREiEFEzFBUQYiFDIzcbFCcoGSof/EABkBAQACAwAAAAAAAAAAAAAAAAQAAQIDBf/EACARAAICAQUAAwAAAAAAAAAAAAECABEDBBITITEFFEH/2gAMAwEAAhEDEQA/APOFzKUbSQGJ9xJ85NLBzpgeTb68b7CoLkgsAP0jTWw+jl1XukrkVpytxoWqIwJzZQl+ymltb+NdckNyinfocViyM+4kMmfBNdiniRoCrKMVzH1FEI7yTC4GaPpdXzGiKjNf8d9VQwa5UoMuoAO7AUU+2UGeHUMjmKD9s0UwmpzFWxC42mlHh2/NOtria3kElvI8ci9waS8GLqcZP1G/NQ53q6sdzHcVbqbZc8d4pJwaKVZVDOxQlOu3etcupriQg3EskjN3c53rJsb8QpFE+oqr6vIxWbxqfh4Q/BwqHfqR0/ijIoxNQX2Pyuc6bmfz8MpISdcen5uYuKKWzGq5gXfJkUf7RSGPcGgsR94Nd3MVDFTIxBA7ZqERtv7X/rRRV3QlEAkxRG5GdD4/bQsMjZAjlP2QmiioSZAolhwqxYyLO8iQrDIrFZchm3z7dqKKKM7G43HjXbP/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">I Was Never There</div>
-                                    <div class="artist">The Weeknd &amp; Gesaffelstein</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAUGAwQHCP/EADEQAAEDAwMDAwEGBwAAAAAAAAECAwQABREGEiETMUEHUWEUCBUicYGRIyQyQqGisf/EABkBAAMBAQEAAAAAAAAAAAAAAAIEBQEAA//EACMRAAICAgEEAgMAAAAAAAAAAAECAAMREjEEBSEiQlGRscH/2gAMAwEAAhEDEQA/AKq560NoslmuFyinE9sFSGML2q257lQGO/k+K1bfqmcbm8uc2wbUtxYb2Jw82kA4zzg9vPNI9P3GOdTpsybMhViYbQiJuQpaEZIKv6gRwSeMjtSPVepINk1XcYyWo6Og4pvcWlK3k+MJUAPzPzU9skesoVuASX4l5qDWVotb7aHlSHSuGqcnpt92wCe5OM4SeK1YWtnprrbFot6mvqLa5MQ+4CooV01KQCAMdwPJzUP6xFCbs3EgLdYcjWdKwtlZKskgBo+wIP54+Kn9KOXOLrxCYsh56ei0np5/EQogDACuM44rdSOZxOckcCXGqZerJnp3cZaZVzckOXJlOGGlNJbb6SwoJxglvO05PmiqObeblE9N9SSp/wBV1GXIYSmZtcGS5hRSjJAHx8UUS5IEXfXbzID0d15dLo9cI9+vO8hUctF9aUd3QFAYA8A+/eqnUYnybtfIrMNDDJZT9PMdZAbLhUCf4hScccDvzXDLNYZsS4tSGWXZYTlP8q7hSFEEDKh2H75prcbzc23l/UTlRS+tBXHS+XOByk4PYA/Pn4rWXbyk9V2q9bQRKX1Dh3O1epbin/p5Lk1CZCNuMdPBSUnOOcD9cDFY5ioi/WGSzeXHrfFkwemVxykuI3IBTjjAP/KRTXpl4mOzJUh9x+GwnpqVyfwkkZ9049qX6yYumotQvXdMB4RnUoAU2OplKUgZx3wcZxiiNxsVVbxqP3CNLjOgyD/J6HsFt0zb9E3xiOq7ahYcUy69GcYK3FEFWzaEAE8558Y5opd9nln7vbvjhQWlPOsjGR/alWCABx37UUurZAOZllTK2GE5ja9XvtWwkdBxhbKytvAxuG3H6Z/wKgtUXFV2EKa4orUpC2VK99qyR/qpNFFHSMHH0ZZ7wdkBPyGT+RG+k2p0pl1mfIltxkI2M5UQU57gA+PjtXStMtMR4saLIknY2Npe25P7A0UUtexLkSl2/p0rpUjmVtonRXNTxYENbjMR99LK3Q06hS0H3Vv2iiiima9SOBIfXPZTaVVzP//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">500lbs
-Explicit content</div>
-                                    <div class="artist">Lil Tecca</div>
                                 </div>
                             </div>
                         </div>
@@ -272,7 +272,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Oct 2026, 08:32:03 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Oct 2026, 08:55:16 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
