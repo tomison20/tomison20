@@ -129,35 +129,34 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBAcGAv/EACsQAAIBAwMDAwQCAwAAAAAAAAECAwAEEQUSIQYTQTFRgRQVImEHoTJx4f/EABkBAAIDAQAAAAAAAAAAAAAAAAMEAQIFBv/EACERAAICAgMAAgMAAAAAAAAAAAECAAMRIQQSMQUiQXGh/9oADAMBAAIRAxEAPwDLOk7ULCkUuztMSe2Vwc/s0a1pFl3kX6Kd5bjIRIc7Rg4GMAnNR6OYrjqeO5dmdY4+7t3eAM4r1rep3tzfOyzz2lvnckUchC5xwxA8n3rpuqrXsQFj9rOg/EUWHSd9qQuUzBavao0zd8lDtUeRjI8D0AzSG1QXTLlQW8ZGf1XdWmp2th01LcJplrcanvxPPIAVcZOFZRxyPPp81HpF011ZJeHT9Ktp8swaBTGx2842j8fPHHqKz+NQ72fbQh+c9XHqwvs42fT+2yzJuYLwUU4YY9/aimGr3Uj6rcC2eSP/ACYKMAk+o/v59qKlyiMQJnJY5UE4jvpmaBbC6uXcLKibYyCByfQDz5qLWnVox+DCZvxXyeBxSKwuH+3OgQFN642nkHycf6q5Pqv0rMjwhgmNu455x/2nLb1PHwDuP2qi2qce+/qal0n/ABnrh6TfWWtUdTIkxWVtoZRxxjk+58eOeayq7ujdXd5LCioXdikagcDPGP15rQNE60u/tljYPfoRHnarS7e6jDDIw9d4IBB5B+a4DW4zZajdl7numIlI8lVJBAwdoHHBrM4/Ksz1cSfkasP3U5U/yLNRvlkZHaJu8MF29yP7oqIT70CXCBkI4PsaKP8AZtjETUBRjEqQSooJ5HnaDUpuu4pUtyxHLDJoopQ68j6bO57u8oyyK+UQjgnBPx61bv8AU479LV5EVZlgEUrY5cgkKSfPGB8UUURgBZqUsOQRFjyYVyNvAwBmiiiqM5BwIIAYn//Z" width="32" height="32" alt="" />
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Woman
+                                    <div class="name">Like Him (feat. Lola Young)
 Explicit content</div>
-                                    <div class="artist">Doja Cat</div>
+                                    <div class="artist">Tyler, The Creator</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAAAAYHCAIDBAEF/8QAMhAAAQMDAgMFBgcBAAAAAAAAAQIDBAAFEQYSEyExBxQiQVEyQmFxkcEIFSNSgaGx0f/EABkBAAIDAQAAAAAAAAAAAAAAAAMEAQIFBv/EACMRAAICAgECBwAAAAAAAAAAAAECABEDMRIEBRMhIkFRcZH/2gAMAwEAAhEDEQA/AI+fAWvaQhYOM7gTyrFlplglTamklXXhpFaoylOeNzahOPY2lVd7pU3DcdzggHA4eEk/X7Uv4R9jOqXq0Ithf38ThmPNpaU4lW4NkbiTjAOeY+hrU04l1a2yg8ZKAVDPLB9KYGpVp0npxLklLM+7TkArbkIKm0gkkbcjH90rwHhc7u9JbYLDYRhSWyduT0+XSpOAGCx91bkFAomh+amUoeEJQ2CM8vHy/wBor24NcNZKEbVJPmelFSAyiquDzPiyuWaxGvQ+mJuqrqmDbELCk+J11Q2tsp/cSOvpgc6nB3sstdu05LjwAJN2caKO8y1ZByMEJHRPXrgn40v/AIcVswtJ3OasEOyJnD3E58CEjA+qlVLzbiX8EEKSrmKYVL85kZs7XxGpSeXCukPUKbNMtpk3dtJjpjujcMnOFpI64Bznp61YXSfZXZIuiI9tmtlN0ILjk9seJLivL0UkdMH58s1IEy3sql8XYkuD3inmKxuLxiW591ASVobUpIUraCQMgE+Q+NF4iosHYNYMqZqWK7b50uDIdHFjuKbXsHmDjNFMWq7LfNTXt6aym3R1zFJ/TMwYCsAElWBgEjriilyK1NA9SpoyROxVAT2bx1c8uvvOZxj3sfany13BaQWyDhHL/lFFMLqZ7n1T6XfQp3FJ/ahqH8p0u/I7l3xorS081v25bUcHng+uP5ooqxgxKzapmwLvdXJFqgi3xFoSju+72jzBJA5edFFFLHce4ihP/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAIDAQEAAAAAAAAAAAAAAAQFAwYHAgj/xAAtEAACAQMDAgUBCQAAAAAAAAABAgMABBEFEiEGEwcxQVFhkRQVFyQyYnGBsf/EABkBAAIDAQAAAAAAAAAAAAAAAAIDAAEEBf/EACMRAAICAQMDBQAAAAAAAAAAAAABAhEDBAUSEyFxFCIxUdH/2gAMAwEAAhEDEQA/APmylKz29rcXO77PC8m3z2jOKlhKLfwYKVL+7rzB/KzcftrFPaz24XvwvGG/TuXGaq0Xwl9GWO5tl0+SB7FHuGbK3PcYMo442g4P9j1pUSlWCdh6X8HF1HQ9P1m86mtNOjuVR4Y5rcne5AYJnd7euK06+1OWzupoysFwQ/BAKjAPl8/zXX+l/Ebo38O49J1m9RL+2sVS2V7aRwk6xEA5AxnJ884rgclzbiDMbN3WJLDFJy4Y5H7kP2/ctVpovpurNl6flk1aGZR22vF3kR9s8oFyeQfPj2quttWeFRHDaxYiG1csRxxn/K9dIdQLpbXEEswgguI2R5VTc2DjcPoMVU6lcRGJhasp7zliMHKLngZNI9NDk1XY6S3rVpJ8+/hfhBKhy7ZOTk4pVlpmoafa6LqcFxpve1OfYLa77pAgXneNg4JII5Pl7etK2JHFlJydsqKlWMMEjbri4iiQHBVi2W+RhSKUqMKMqdls0WjvtQzQJGq7Q4aTexySSx24PHHAFVV9DBE+62uY5Y2PCjduUfOVA+lKUKjTH5MznFJpLwiJSlKMzn//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">HUMBLE.
+                                    <div class="name">Popular (feat. Playboi Carti) [Music from the HBO Original Series The Idol]
+Explicit content</div>
+                                    <div class="artist">The Weeknd &amp; Madonna</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAIDBAEGB//EACUQAAEEAQMDBQEAAAAAAAAAAAABAhEhAwUxQQQSUQYTImFicf/EABgBAQEBAQEAAAAAAAAAAAAAAAADAgEG/8QAGREBAQEAAwAAAAAAAAAAAAAAAAIBESEx/9oADAMBAAIRAxEAPwD5LkzI1I9vEscq2zBnh7lWGt+k2NGa5Mzm2eehVUsJsESfJ1WhEsqLsLoWLAxAlvouyruZ3Osvyramd3B2RBzu5aSjrZUgu9HW908m+Bpx/wBAZNAnonlbalDkvYA7IqRLpCbZ82Aa0ek1LJ6fdpiJpuHq2dd8ZdkfLf1wADNV2P/Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">untitled 08 l 09.06.2014.
 Explicit content</div>
                                     <div class="artist">Kendrick Lamar</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQFBgcCA//EADEQAAIBAwMDAgQDCQAAAAAAAAECAwQFEQAhMQYSQRMiFVFhcQcUkSMyQlNiobHB0f/EABgBAAMBAQAAAAAAAAAAAAAAAAQFBgMH/8QAKREAAQQBAgUCBwAAAAAAAAAAAQACAwQRBSEGEhMxQRQiFSNRYZGh4f/aAAwDAQACEQMRAD8Az2io2qpWUMEVVLM7AkKB9t/+6lKyyR2yleouEsvaM4RE9ze5V2BO+SwwPI340pQVM9IXEDoveMN3KDsDnz9RnTbXCreMtHWyJEW7UPb6YJxuOOdOdRittmDWSBjT+T+ljWdCWEuaSVIQdP0xx3f1ctnIBwT7Sfv8yNe3wClXCywqOPcJDjO+fAPj++2kun1a517QVlVUuSuUQM3vI5434+WuerbLLZq5EcSKkqkr3tn74+m450sFGwbPppLBDu/b+ph8sVvUtYMfTO6jr3HTwyQxU8SxyKgMva/cO474z9sD76NJFdGqeCk6JgYTnHkpK+UPcSBhPSU4aNlzjII1bbqKy49JUrV9RHPTUkYKR08IiCvx6pYEnG4GDjJ1aOj7db7d081zr6VamSR/5YdlXOBgH9dQ9ll6dvXU81HZ7bBHbgwmqZQhBY7nswThQSCWIHAI86nOIeI4JbfLFESITufBx3CZ0KTo4ve7d42+yzn4tVWlTcaVJmVWUKkQw7Lndtx+gPjnVpa5XXqq4wXOS1RUNDHEVElQ472XnLKThQMZzjO+3OrNfrtSVHVdUYVWdI1jijaA5D+0OcEHGxbVVvt2kqYZKOmwlN3EsqDZj/kjQljUPicjbIZyHCXSTz0ya4Htz3VIvvVVFV9R0dLa3eakQmN52QJ6rMRwB/CDxnfnRp6z9DBC13rIni7GHpxNt3HP72OR/s6NV+gwzTVssfsD5WNi1HI8loytAlvNFaaWBPhQmrnk9AJjtFQGIILNwcY87jxq89MdIW6xU3q08b/nZcySvI2SWbwfoM40aNcx4pBr3enGdnO3VXpjurGC4dgFg72q+xfiNfGrGmhjkqpsOF7Y5CTyo441pVnttvobc7ymJMKf28zAYPjc7DfRo02sDphob5AUXrD3GblztlL3S/2uQLD8QoXMxC5WpQlSfoDvv8tGjRoqrenqs5InYCHbXY0bL//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcBA//EADEQAAEDBAECBAQEBwAAAAAAAAECAwQABREhBhIxBxMiQRQyUWEWM3GRI0NSgcHR8f/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABoRAQEBAQEBAQAAAAAAAAAAAAEAAhEhAzH/2gAMAwEAAhEDEQA/ALrL5pyCHdHYUeZhtoIAR5aVa6RneN01PL72ElXxpIAz+Un/AFWPeI93+E5BMbgLdK0LST0+nI6RrX+K5J5E5+G4q40wrkfkOjp9QyM5/YYzQ0MDxLuk67+Upx5pLij5anG0gqI7jGO9XDhfLLym5PdMwg+Sf5af6h9qwhmJOcfdajyShDvpWrr10k5xn9voa0Lw+YuFtWth6c2q1NepsKKSVuHOQD3AxvBq7RbrYeUXiTfYMZ6UFtOuELCkJAx0k9wPtRWOeGMm4TPE2HKcDjaEqdLinMpSE9Jx1H+2hnANFJTIeavIe5dPkBlCEqUnCT8uSkDP/aUxI7sgyLbICkNBwKyO4UOxp9c7S7c73O8uRGbUlbacPr6OolOdHGPb60x4vxV9U95uRcIgS26WyrzM/KEk4129Wj77qoGkiypt1ijxWEtJ6x1LccSCpSsEgq1v7V58Zbac47EbW6CJ6FBS1Jwc4O/1Bp7fOMqkSkuLuzCCjSUFwDGRnI1vWs9valCmUcaREEtDb7bYIjht0LS2f0Gs73vVE/jNOD2WLab9bXLk9IkPrJaU2hRQlRIIGQPYnW6K7xGbAPOoElKXXviFK+KZUrKRhJ6CM/LsfXAopIeVUv8Axu/Sb3JWxEUIrmClSun1qCQANnI3UtXh/wApbg4EJLrq95QUnA+lFFMn23nPB8pY4fenOPPKnW8mUyrDSfMAUs4GSR3xv2qLx/hN1dTLSq3KEmKyHEdTgCXD7jBNFFXLLp160jhfG71C5M3NlQFJTn+Ic6HpIHaiiiks9v/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">OK
-Explicit content</div>
-                                    <div class="artist">Joey Valence &amp; Brae</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwACAwAAAAAAAAAAAAAAAAcIBAYBAwX/xAAuEAABAwMDAwIFBAMAAAAAAAABAgMEBQYRABIhBzFBE1EIFBVxgSIyYZEjodH/xAAZAQADAAMAAAAAAAAAAAAAAAACBAUAAwb/xAAgEQACAgIDAAMBAAAAAAAAAAABAgADBBESITEFQVFh/9oADAMBAAIRAxEAPwCcIsdyQ8htlCnHFHASkZJOqYtKix+m9upbKj9YnqbW+6poBYQQP8KTuBCSfyT440v+glFekVpqopacS21IShLyCOSBkp58ftJP41SDtHtuXfrbvy651SabCnv1EstrHIJJ7rx2SOw51z/yGQ1rmlToD2V8WtKlFjjexuYls0KpyVS5lZYS9HfQG0JUnatTSgApC0+2P+6yb9tSzLneptKrbIafeeJbWwQ24tYbxyoDkbUjg+w1u1bqiIFElykp2uMM79ik5OccJwO5z40lZIqt2y0KUy1FmwzktyWFoSoL7gK3bkkeDgH+SNJORhEKjb33DrU5hLv0BEj14sqHZd6qi0r1Pp0hlLzPqHJSeQpOccgEf0Ro00fiBtiqvWBTqrUEt74KgCGlbwAo7cZxwMbT+NGr+FebagX6Mn21hG0Due98NEalSLGWgoQmU06XFFCxuVxnn2Hj7DXF311+3YktFHW1BkvrWrfvG5G7ndnnOcfycn7aQfSm6ZNv3A2hLxREkAtOZOBz2/3jTwgWDOraV1RTKpzBWtIYc4IRnO5OSM85AHB7eNRc7GK2jr+9fcs4bVMpsdtDzRm/WpcUysUV6nzHlyCqMEioNtYWpRTkq44yM8djx20puhN0VKqV2ZRGIwqgaQ48w5Klek4E78bs7VZIChx99MSiWdWYtMegvQ3E09aW1oZZe9MqOcqQryARwSD2zrSrStO6RfdwXpaAgYhTVRjCALaJwAHrIQT+0Z7E+efGjwqjeSmQu/zcUy2Wok0Ho/kYXXxM9jopNjFj5iSpDKJLkcYQjCgVqweduRj86NY/U67Xaj0tuIVCh1GkLLXppampALiVdlApJAOQeM5HHuNGqjWcWKp4IvTTzXkZFLS8HjOdUT0S61N0SL9LuhxxbIx6UnvtHssYyfv/AHo0aZvrBXl9iL1HR4/RlUQ5KJcRqQ2f0OoC0n3BGRrtQ2hvdsSBuOTjydGjWVNyQMfZpYaOpKnX+/jVUVi3ZExpoxJJCGURFhS9pwAVlRHbnOBo0aNFSqkb17DZ2HQM/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Space Cadet (feat. Gunna)
-Explicit content</div>
-                                    <div class="artist">Metro Boomin</div>
+                                    <div class="name">Rasputin</div>
+                                    <div class="artist">Boney M.</div>
                                 </div>
                             </div>
                         </div>
@@ -275,7 +274,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Oct 2026, 10:09:53 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Oct 2026, 08:19:04 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
