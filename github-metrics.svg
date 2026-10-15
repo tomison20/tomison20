@@ -129,34 +129,32 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAAAAECAwUEBgcI/8QALBAAAgEDAgUCBQUAAAAAAAAAAQIDAAQREiEFEzFBUQYiFDIzcbFCcoGSof/EABkBAQACAwAAAAAAAAAAAAAAAAQAAQIDBf/EACARAAICAQUAAwAAAAAAAAAAAAECABEDBBITITEFFEH/2gAMAwEAAhEDEQA/APOFzKUbSQGJ9xJ85NLBzpgeTb68b7CoLkgsAP0jTWw+jl1XukrkVpytxoWqIwJzZQl+ymltb+NdckNyinfocViyM+4kMmfBNdiniRoCrKMVzH1FEI7yTC4GaPpdXzGiKjNf8d9VQwa5UoMuoAO7AUU+2UGeHUMjmKD9s0UwmpzFWxC42mlHh2/NOtria3kElvI8ci9waS8GLqcZP1G/NQ53q6sdzHcVbqbZc8d4pJwaKVZVDOxQlOu3etcupriQg3EskjN3c53rJsb8QpFE+oqr6vIxWbxqfh4Q/BwqHfqR0/ijIoxNQX2Pyuc6bmfz8MpISdcen5uYuKKWzGq5gXfJkUf7RSGPcGgsR94Nd3MVDFTIxBA7ZqERtv7X/rRRV3QlEAkxRG5GdD4/bQsMjZAjlP2QmiioSZAolhwqxYyLO8iQrDIrFZchm3z7dqKKKM7G43HjXbP/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Like Him (feat. Lola Young)
-Explicit content</div>
-                                    <div class="artist">Tyler, The Creator</div>
+                                    <div class="name">I Was Never There</div>
+                                    <div class="artist">The Weeknd &amp; Gesaffelstein</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAIDAQEAAAAAAAAAAAAAAAQFAwYHAgj/xAAtEAACAQMDAgUBCQAAAAAAAAABAgMABBEFEiEGEwcxQVFhkRQVFyQyYnGBsf/EABkBAAIDAQAAAAAAAAAAAAAAAAIDAAEEBf/EACMRAAICAQMDBQAAAAAAAAAAAAABAhEDBAUSEyFxFCIxUdH/2gAMAwEAAhEDEQA/APmylKz29rcXO77PC8m3z2jOKlhKLfwYKVL+7rzB/KzcftrFPaz24XvwvGG/TuXGaq0Xwl9GWO5tl0+SB7FHuGbK3PcYMo442g4P9j1pUSlWCdh6X8HF1HQ9P1m86mtNOjuVR4Y5rcne5AYJnd7euK06+1OWzupoysFwQ/BAKjAPl8/zXX+l/Ebo38O49J1m9RL+2sVS2V7aRwk6xEA5AxnJ884rgclzbiDMbN3WJLDFJy4Y5H7kP2/ctVpovpurNl6flk1aGZR22vF3kR9s8oFyeQfPj2quttWeFRHDaxYiG1csRxxn/K9dIdQLpbXEEswgguI2R5VTc2DjcPoMVU6lcRGJhasp7zliMHKLngZNI9NDk1XY6S3rVpJ8+/hfhBKhy7ZOTk4pVlpmoafa6LqcFxpve1OfYLa77pAgXneNg4JII5Pl7etK2JHFlJydsqKlWMMEjbri4iiQHBVi2W+RhSKUqMKMqdls0WjvtQzQJGq7Q4aTexySSx24PHHAFVV9DBE+62uY5Y2PCjduUfOVA+lKUKjTH5MznFJpLwiJSlKMzn//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcCA//EAC0QAAIBAwMCBAUFAQAAAAAAAAECAwAEEQUGIRIxBxMiQVFxgaHBFTJhkdHh/8QAGgEAAgIDAAAAAAAAAAAAAAAABQYEBwABA//EACIRAAEDBAICAwAAAAAAAAAAAAEAAgMEERIhBTETFGFigf/aAAwDAQACEQMRAD8Az7bMMb3TO8YeNMZX2I96c2FlbTX24eiBGEMBaL0j0H4jP4qHte3b9JuZ1Pq9Q+w/2lA1KdNSuJYiyGVSrAH2xg1ZJy9qVrT1ZKg2NKdqcm0Z9Wnili0oSRLERJMLhjKWQFs9PbpJI/k85qbsjVdqaXYLH16W88ruAmJwzFXbpGO3KkYJxxweRSaTXrRdRj6dv6SHIVvM6G6m6e6nnkH3qq7pv4b+8gtrfSLLTpI2ZxLbBgZMgYzk47j2pUraKWF5n+xCNRyNkZ4/hbJuGC1uJ5JooVitpVB8tTkLxg8nnvRVU2ZuAaxpy212MyRjy3UnGR74oolSyN8d8iLoBUQv8hsnGzAG0RkGCTMVP1AP4qo28ywXU5kLeqORBj4sCB9KfeH97HHfNZ3DhY5SrKxPAZf+ZFItVjEeoyqOwc4/s04R0w9mUOHditMeQ8tS14Q8kUmQGQ/auJYVkYMVHUOxr3FcuCpwRzWVNAxzXWHaktkNwvKzRLNzLbEpKxyfnRQRjmig4poYhg4dLqTkblSIXKOGUkEU2WG2uLKW4uLnouVA6Ex+/vnn2xx880UU0yXMdxoqO0DJaTp3h/t+5hR5NM3crEZ4CerAySMpjH15ql+IWh2OjPYtp9tq1qJvMV01LpDkqVGV6QOOaKKr7hORqqjkBFK8lu9fiM1VPGyHJo2qcRxRRRTjJG3JCQV//9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Popular (feat. Playboi Carti) [Music from the HBO Original Series The Idol]
-Explicit content</div>
-                                    <div class="artist">The Weeknd &amp; Madonna</div>
+                                    <div class="name">One Kiss</div>
+                                    <div class="artist">Calvin Harris, Dua Lipa</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAIDBAEGB//EACUQAAEEAQMDBQEAAAAAAAAAAAABAhEhAwUxQQQSUQYTImFicf/EABgBAQEBAQEAAAAAAAAAAAAAAAADAgEG/8QAGREBAQEAAwAAAAAAAAAAAAAAAAIBESEx/9oADAMBAAIRAxEAPwD5LkzI1I9vEscq2zBnh7lWGt+k2NGa5Mzm2eehVUsJsESfJ1WhEsqLsLoWLAxAlvouyruZ3Osvyramd3B2RBzu5aSjrZUgu9HW908m+Bpx/wBAZNAnonlbalDkvYA7IqRLpCbZ82Aa0ek1LJ6fdpiJpuHq2dd8ZdkfLf1wADNV2P/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAcBBggCAwX/xAAyEAABAwIEAwUGBwAAAAAAAAABAgMEABEFBhIhBzFBEzI0YXIIFBUiQlEjJCZxdLHB/8QAGAEBAQEBAQAAAAAAAAAAAAAAAQAEAgX/xAAcEQACAgMBAQAAAAAAAAAAAAAAAQIRAxJBMVH/2gAMAwEAAhEDEQA/ANHSn3kyHAlxYAUdr1UM85y+CQH2YmJR28YshTTL67ApKwFHcgd3V1G9WqZ4t3b6jSC42p/WiP4jf9qoYo9uLxUzIGl9uMBU7cqH54gW1bJBHkbXIHd632vOSc4/GobTUvE4y8XV2ji2I6jZCAs6RzI7um+53rMmXHXcaclFloBppRF7ch9zTL4Mo0506eGc/wAohJStLhNOPqH3GkPqktJU6spKgDc86K4RfFNeoUV0BMw2lO+o0gOOLiW83FSlBIENG5PLdVP+Z4p71Gsy+00vRmLmAExWVHz+ZW1EnSOoq2UzKMiRHwSXMbW2gR2lJda7qn09CT0IPXr182BwFxpmfnksoQtDgiun7jbT1pIYVjJw/Eg6Ua4606XEHkpJ23FOf2fIbTfEF6UwsrivQ1mOU7i3y6gr7K2rPjuEnfTdlSy41XDSkW/vTW31iipi+Ka9QorSeedsph5Ul0pbWQVGxCapGc+F+BZymolY9DmuOpQEfhPKbFhe2w/c0UVEhZyeCAVGKhle7/aaUpRPXbRY7m6hve1MzJPDPB8oviVg8Sc0+WyhSXH1OJ3tfY+dFFWqHZ/S6xmHhJbKmlgBQNyKKKKgP//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">untitled 08 l 09.06.2014.
-Explicit content</div>
-                                    <div class="artist">Kendrick Lamar</div>
+                                    <div class="name">Pink + White</div>
+                                    <div class="artist">Frank Ocean</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcBA//EADEQAAEDBAECBAQEBwAAAAAAAAECAwQABREhBhIxBxMiQRQyUWEWM3GRI0NSgcHR8f/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABoRAQEBAQEBAQAAAAAAAAAAAAEAAhEhAzH/2gAMAwEAAhEDEQA/ALrL5pyCHdHYUeZhtoIAR5aVa6RneN01PL72ElXxpIAz+Un/AFWPeI93+E5BMbgLdK0LST0+nI6RrX+K5J5E5+G4q40wrkfkOjp9QyM5/YYzQ0MDxLuk67+Upx5pLij5anG0gqI7jGO9XDhfLLym5PdMwg+Sf5af6h9qwhmJOcfdajyShDvpWrr10k5xn9voa0Lw+YuFtWth6c2q1NepsKKSVuHOQD3AxvBq7RbrYeUXiTfYMZ6UFtOuELCkJAx0k9wPtRWOeGMm4TPE2HKcDjaEqdLinMpSE9Jx1H+2hnANFJTIeavIe5dPkBlCEqUnCT8uSkDP/aUxI7sgyLbICkNBwKyO4UOxp9c7S7c73O8uRGbUlbacPr6OolOdHGPb60x4vxV9U95uRcIgS26WyrzM/KEk4129Wj77qoGkiypt1ijxWEtJ6x1LccSCpSsEgq1v7V58Zbac47EbW6CJ6FBS1Jwc4O/1Bp7fOMqkSkuLuzCCjSUFwDGRnI1vWs9valCmUcaREEtDb7bYIjht0LS2f0Gs73vVE/jNOD2WLab9bXLk9IkPrJaU2hRQlRIIGQPYnW6K7xGbAPOoElKXXviFK+KZUrKRhJ6CM/LsfXAopIeVUv8Axu/Sb3JWxEUIrmClSun1qCQANnI3UtXh/wApbg4EJLrq95QUnA+lFFMn23nPB8pY4fenOPPKnW8mUyrDSfMAUs4GSR3xv2qLx/hN1dTLSq3KEmKyHEdTgCXD7jBNFFXLLp160jhfG71C5M3NlQFJTn+Ic6HpIHaiiiks9v/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAUGBwgCAwn/xAAtEAABAwMDAgQGAwEAAAAAAAABAgMEAAURBhIhMUEHE1FhFCIjMnGBCFORof/EABcBAQEBAQAAAAAAAAAAAAAAAAMEAgH/xAAeEQACAgEFAQAAAAAAAAAAAAABAgARAxIhIjFBBP/aAAwDAQACEQMRAD8An/jnc3LVoOXIjuKbeGAFpAzg8YyaxC/IU46pSiCc5rfGv9Ns6u07Jt/xHlKwoBYTnCselYTu9pfhXl+BtLjqHC2MDqc+lS4aBNxnsgARZytQSnOa5OMra+8GpqvTqLJamnpeFXB05KP60+n5pHcmStO7b8pJFaXOGPHqab52Qcu50W+8MRLU/DctECS45uxJdSrzEZGBgg4469KKXqZwOlFPqECp6I2c5euHzZIkK78io/qrQ1ouEpN3ZgMC6RwpSVhI+pkd/fPOfantl5nXTv8AW9PzTaoXXUKMdHKkETGOrQYiLgqYjbNSoIQhRyW0nOSffp/tVxKmF5CG0FStnH771fn8nLC9arg1eIMFTsCenbKUnOG3E9MkdMg9+4qlZ9jdta40lptTrDrKX0LXgJKSAf8AmcVzAoxim7lGdzlNr17FMkLRFb42pPT1V7/jtRRNl/EEOOYyrsDnFFVrdbiSNV7Ga68RNI6jiuSbrZL9fpZkSVKMCKtSfKQQo4Tg8gYA6DrSXTl11na74mfI03qeY0mOGRFfkqKArgFw8EKPBPtRRRqbG84ZZ+kb1cNSx5zd+009am0bUpblHeHwQc4BA6Yqj/HHwtublwjybJGU9blHyU7HMIjJJ43JI4SM/cDjHXFFFDk4nUPI2JiQV8MomfZ37SlRuLSm8KKUoPBWQcH9ZFFFFPgcuuozOdAjUJ//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Rasputin</div>
-                                    <div class="artist">Boney M.</div>
+                                    <div class="name">Timeless
+Explicit content</div>
+                                    <div class="artist">The Weeknd &amp; Playboi Carti</div>
                                 </div>
                             </div>
                         </div>
@@ -274,7 +272,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Oct 2026, 08:19:04 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Oct 2026, 07:58:03 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
