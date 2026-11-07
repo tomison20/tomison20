@@ -40,8 +40,8 @@
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -129,11 +129,24 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUGBwECBAP/xAAyEAABAwMDAgIHCQEAAAAAAAABAgMEAAURBhIxEyEHQRQjMlFhcdEVFiJCUmKBodKy/8QAGQEAAgMBAAAAAAAAAAAAAAAAAAIBBAUD/8QAHxEAAgICAgMBAAAAAAAAAAAAAAECAxESBDETIVFh/9oADAMBAAIRAxEAPwCaayv96g36U1b5CWWEBGPVII9kHkiolO1pqdtB23BKj7/Rm/8ANPta3O2NamlR5MpKJKdm5GCcZSMeVR68Kt0WMH5ElpLawSnByV47dgOa1a1U4rODGtnarGlkWjXurG21gXIDHHqG8f8ANYY8QtYOubPtdCAfzGM3/mksrUdibWU7n1Y/Sz9a54l4sU2V00vrZKuOsjaCfnxTKNP4G3ISz7LU0lqu7ztWwIEiYJkV1J6hWwlO/wBXnAwM4yKK5tEsxEaptSmX2lrUk7UZ7qwg5xnnFFUeUobLTovcSc3B795I/wCJsFt7WdwltJxLSlKUjeUhR2Ad/KqvnquTz+JLb6yn2em0dqc8jj31a/iIB99bgCo4SUef7E0hXIIwE52/3VWMnFjueGytXWJCiSqPJ3fFs/SvNdtl5aWhl5RUrHTCDuHz7dqs5cttbWFKVj51rKlJ6aRuyT8afyP4DtfwkfhrFip1XZJMWFLiP9NSAH3t3barPb3UV2eHqlr1NY1KSUApc57E4SryopMD1NtFuSLFaZLxkSoEJ51YBUtbCVKV5cmtJelrM8yAxb4jKs9yIyD2/kUUVJ0cULJuk7c2yn0e3RXsBW7cwk+WRxikVy0+wLJcFN2bY40yOkWY6VOLJI4SQRnnyNFFBOqEGio89vVFuK4t6bZb3jMiAhtA/AexUEDaM/HmiiigjB//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcDBQYECP/EACsQAAEDBAEEAgEDBQAAAAAAAAECAwQABREhBhITMUEHUSIVI5FhcYGhsv/EABoBAAEFAQAAAAAAAAAAAAAAAAABAgMEBQb/xAAgEQACAgEEAwEAAAAAAAAAAAABAgADBBESEyEUMVEi/9oADAMBAAIRAxEAPwDStxH3VdKASo1J+mzBkdpX8isZxL5eRdXy05xmWp8JJSIjgc948K6fZ+zWpHyjxpF0bgzHp0IrV2w/JjdDQV7HVn0dE+M+8VonMlPhna9a5bSOvpCk+8GuYRnfo1Fy35U4zZGo/alpuqnFrbcRBUlRaCdEqz43ofdQW/5P4XKgIkuzH46sZcbVGWotH6UpIKf7b3QMr7DinYY7ufFFUqPl/hqwSlNy97McAf8AVFL5cTimJsV6jqil0W6BFkod7bHbjpAdCxtIAGsn2KvFWWDyoJiFph1uMpXfSywG0xd+CUDJ9aG95Os0u+CqkT+TNuJbD7IZWlKnNIbJSQMn7zTY4OzyXi8GVEYVBeZkOdwJ2QNY1hJO9evVc/fkFfyPc2KcMMA0y8qzWK0xpdsttuZkvuqSX3GnHFJWwn8lALI/FRONAk6qr5NaoDPHYrlnsgjoUoKmfvKcKUgJzgk5x+QycfX1Tovlsv67O4JPDo70nfbTFIUAokflnII16IG6TnL7bMtsl6ZdAq39vpC4/QoJkZTlKR1eCMdKsZ9EbqFN+8FtZOy1FNFl4fiy2C3RpjbLrkeQ0l5ODvpUARmitbwPnVsk2m2Wu4PLTM7YbBSwQyhIAASpfj15Ps+aKtjIsQaFQZQelSeiYtuCXLhURhVu5U1JjSlKyibHKm+kYx0nGiAfsf5pu8U4fA/VoF34vyZ2XAacS44wsdxS0A7AIIB/iiinsiv2RHpa6LopjIRyhKHXGXCkgbzsK/g7/wBVS86etPKOKXBqeodqEDJR14IKkpOM59bxrdFFRWkgEQxjusAM8/LEZtntMxYy4qiSWSolGT5OARv+tFFFZK2v9nTnGqPtRP/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Money Trees (feat. Jay Rock)
-Explicit content</div>
-                                    <div class="artist">Kendrick Lamar</div>
+                                    <div class="name">No More Tears</div>
+                                    <div class="artist">Modjo</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAQEAAwEAAAAAAAAAAAAACAAGAgMFB//EADIQAAEDAwIDBQcEAwAAAAAAAAECAwQABRESIQYxQQcIExRRMmFxdIGRwhciQqFkscH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQAAf/EACURAAIBAwMCBwAAAAAAAAAAAAABAgMEETEzwRJxEyEiIzJBYv/aAAwDAQACEQMRAD8ASHgAdK8CzcUwLlxVNsLLbyZUVKjqWnAXoUErx7gSnfr9K0d2ceYtsp6KkKfbbUtCSPaIGcUSuJuJZ8y5S7mxLei3eS8rJivKaSWcDQAAeWwPvI33qerV8NpF9paO5bSYunWh4DuR/E/6oATrXBL10Rc2nzOcQjySm1gNoXvqDoO42HQc9jTe7PL05xBwFb58iQ3IkrYKH1oGAVgYO3r1oRcR3tuRc3C46lp0pSl9SidQIHtIwd8joeSt+RrsnnDQHQ405Rf01yKru8RVt9mzCXE4V5l38aq9Du/y/PdnqHsFKDKcShJOSlICQB8cf3VXYL0rIFy/dlk3E+VIbgyHITIelJbUpptSsBasbDPxog3qyXefer3dY8UOtMugvMNZS4krJJCWhuADnPpS/B299Zi88Mok3ONPQpKJaT4YW2jSVAgj9x6gc96XWg5eaG2dy7d5WpkO70mdbuFLvHmKSWBJJYQOaQUAq/sj7UOuKG9V3fWByIBH0501ey9nysCe3JeSHnnXfDbWrClpQAkqSDuRnqKFPEqlpvr+gkDbOPTFai3hZDry6ozl+lyNLu3u6OzFgf5Tv41V193PH6aMfNO/jVTYaIRdb0u59ISrlXPXVVRE5j7RwqLbept6mShPujzKmRIW3o8JrOQ2hIOlI9SBk9aC/E6ii+yNPM6ftiqqgXyKVsS7rkZXd5Ons3Y+Zd/5VVVWjogbvekf/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">24K Magic</div>
+                                    <div class="artist">Bruno Mars</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAMEBQYHAQL/xAAuEAACAQMDAwIEBgMAAAAAAAABAgMABBEFEiEGMYETUQcUIkEVMkJhkaFScbH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAGxEAAwEAAwEAAAAAAAAAAAAAAAERAhITMSH/2gAMAwEAAhEDEQA/AMN6a0u71q8tbK3lmeabBLNI2AO5Jwe1Wvq74f6h03AkjaujMVyU3OD45pT4OQTfOS3kd7DYwQQos08m3dhgcKmf1EgeAan+temb+zsBLqGsJepN9Uczys8sufcHhQB9hWetTUHnNRk0M0hxmSXcPt6jdv5p2LiRpCzOxHblif8Aprs2m3NldXsF1GVlttu85+nDY2+ealbTpfWp7S3uobEm3uVJicuoDgAnjJ9lJrVQliWn3F0Luwl9eVkS6iUbnOAN4ypBOCCM8cg0UlqFld6TrtvY6lF6EyTxbl3Bu5UjkHHY0VOvRqjnoG9FvHJDN8u0M0KOY7gqEdkIIyWBA4JPb9qc9adbNqVzFHI0btDhd0IwmB7Yqq2zD5GAgZIjXjxUddSeuYpFUJNKvI/fOMjxjzT4pugmy1a31DBq1yk8aMjSSepNFu4Bwqrn3PBPnFT3SfVi6feEancXZsYLWQR2scpVXbgBQARgnJ5/ms+sYBCjHBYEkMD3I+/mpd3R1VmRJYiMcjBz/sUcUh9jkLl1N1ToWqKY9O0+7TUZpoN9zcMGJVJEIySxIOBjiiqiIY2vbV4pRGFZc7jz3HHtRUv0E/hCxSKNLtxE6+rIuzP+GPzE+KR9NIAjMMXEv1KD3Vft/X90UVoQe3uVhQYxheAKbficm0rtUIzAnHcYNFFAzltdXD3tmJJmIMiEqeP1UUUVDKR//9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Give It Up to Me</div>
+                                    <div class="artist">Sean Paul</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -141,22 +154,6 @@ Explicit content</div>
                                 <div class="infos">
                                     <div class="name">Back In Black</div>
                                     <div class="artist">AC/DC</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAUGBwgCAwn/xAAtEAABAwMDAgQGAwEAAAAAAAABAgMEAAURBhIhMUEHE1FhFCIjMnGBCFORof/EABcBAQEBAQAAAAAAAAAAAAAAAAMEAgH/xAAeEQACAgEFAQAAAAAAAAAAAAABAgARAxIhIjFBBP/aAAwDAQACEQMRAD8An/jnc3LVoOXIjuKbeGAFpAzg8YyaxC/IU46pSiCc5rfGv9Ns6u07Jt/xHlKwoBYTnCselYTu9pfhXl+BtLjqHC2MDqc+lS4aBNxnsgARZytQSnOa5OMra+8GpqvTqLJamnpeFXB05KP60+n5pHcmStO7b8pJFaXOGPHqab52Qcu50W+8MRLU/DctECS45uxJdSrzEZGBgg4469KKXqZwOlFPqECp6I2c5euHzZIkK78io/qrQ1ouEpN3ZgMC6RwpSVhI+pkd/fPOfantl5nXTv8AW9PzTaoXXUKMdHKkETGOrQYiLgqYjbNSoIQhRyW0nOSffp/tVxKmF5CG0FStnH771fn8nLC9arg1eIMFTsCenbKUnOG3E9MkdMg9+4qlZ9jdta40lptTrDrKX0LXgJKSAf8AmcVzAoxim7lGdzlNr17FMkLRFb42pPT1V7/jtRRNl/EEOOYyrsDnFFVrdbiSNV7Ga68RNI6jiuSbrZL9fpZkSVKMCKtSfKQQo4Tg8gYA6DrSXTl11na74mfI03qeY0mOGRFfkqKArgFw8EKPBPtRRRqbG84ZZ+kb1cNSx5zd+009am0bUpblHeHwQc4BA6Yqj/HHwtublwjybJGU9blHyU7HMIjJJ43JI4SM/cDjHXFFFDk4nUPI2JiQV8MomfZ37SlRuLSm8KKUoPBWQcH9ZFFFFPgcuuozOdAjUJ//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Timeless
-Explicit content</div>
-                                    <div class="artist">The Weeknd &amp; Playboi Carti</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwEAAwEAAAAAAAAAAAAAAAQFAwECBgj/xAAsEAACAQMDBAEDAwUAAAAAAAABAgMABBESITEFE0FRYQYigRQVkUNxodHh/8QAGQEBAQEAAwAAAAAAAAAAAAAAAQIAAwQF/8QAHREBAAMBAAIDAAAAAAAAAAAAAQACESEDEjFRYf/aAAwDAQACEQMRAD8A+fO1bQxRSNMJpDgtENsZHv2DWU8kOs9qM4YbjGMb+N/VNWsyG0uXuMOShVdgW1eN/Xz+K6F1FxFJbxqrKOVIwCBjzQsoOTC3MCTEyqXVkbCjlW8Zzzjmq9507p0CQ3C3GqK4R2RdJGlgAQvPv7fXzU2bsvDEGBS4DEMyp9pX2TnJOf5FMCKWKO5iEAfKqQyrq2xsc+M8/wCqdCBVfiNz9NiH0xJKEgE8FxiSYSscqdlAAGD/AHz4oqPIpWAjQwK41bnb8Giq2GM3tezb3kHcjSSMOpdXOxGfPxW/XpLWa5Y2ccSwqP6bHckk53/ilLaTt3CzSDVpYMMrnJHjHqqPQ7GPq2qJpBDLbqD3CAVZcnII8n88VHp+zkvbqBJgkDKIIIyGeTI1HO2MAevJpq2nuLAXEZU6s4PPPsU9b9HDT3t3Z3cEi2ZEudwAvIJGOM7YHGc0jDJPKAv6oa0YlEZSQTtjSfnHxxWa6Qrdq6TjvSXHT7ma41SOWVe4+58bZ/FFUZruaH6Ye2urAiW4lMi3RUDY4yvG2dOdjRQh9zWVwyRbeS3NwBdqzRg76Tg/9/xW9lfT295NP0/VD3dSmGMnOjnnHjHNFFJyD1jEkrfpbZHjeNG3aRmIDIxzuF2x5+cUrA8Ud59uprdGDHQxGsA7/IGPyKKKleSmpPW9Q690fqUaWn7IbdYdRGm6eTKgEbA8UUUV1/JZ2eh4aVa9J//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Surround Sound (feat. 21 Savage &amp; Baby Tate)
-Explicit content</div>
-                                    <div class="artist">JID</div>
                                 </div>
                             </div>
                         </div>
@@ -274,7 +271,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Nov 2026, 09:49:22 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 7 Nov 2026, 09:19:40 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
