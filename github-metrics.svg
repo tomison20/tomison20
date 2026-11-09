@@ -38,8 +38,8 @@
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -129,33 +129,34 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBQYCA//EAC4QAAEDAwIEBQMFAQAAAAAAAAECAwQABRESIQYHEzEUIkFRgSNhcRYyYpHRof/EABcBAQEBAQAAAAAAAAAAAAAAAAQDBQL/xAAfEQACAgMAAgMAAAAAAAAAAAABAgARAwQhIkETFYH/2gAMAwEAAhEDEQA/AFbbeU1zm8APcTw3X3JbM7wyYTLBWojAOvUO2M+1PPgvltNkWyz3G7vxlJejpekxlgtqbyDgqyDtkY7UoOG3rlKektQ73NgJbTqHSeUNSjt2BAphcpr67crdOZvUl6VJjPdJTjrylFSM5TnftnPzvVm3BrWF/ZdNcuAZq+K+XL8ibIl29VvgR1uKQllJWQkp2OAE/Y/5Vwrhm5L5dx7D0mS8pWpvypUNZOsA7ZQSnJ1HG2x9qh3OVHMYrdW46pCitvW4pelRIJIydjkZzWS/Vl/gcUstu3e8yIs5IHSbOpLSgoZOcEjYjYbH1qf3AelPqdDQZeiKHi/lndrBb5V7cTbptqbklp12DJDgZUTslQxkd8eoorY8z+ILtdYM2BLRObsqFqfGlttpDqu6FLCUDJJxsSd6Km2dWNrOTgINVMRwaGVTw684UoR3SFYyR7n0rd8ACKq63xy3pU1GWpCg2pYUU99sgkH+6TUOU9HccWy4Ukd/Y/mmBy2nvKjzJr8hGXFhvpl1IOAM5AJye/4o+1jZySIrXzIqhTyNC4vqbS4pIUUtpC8k4Se/r9sVRvXmb4KfMhOMsyG2xoKV5wkncnGxI7437Yqqn3Rz6zSpCRlGd9++3b/dqqESrfFQ6nxheccQpLgaQCk/1t/34oSauQng7GfKt8Nzi/35+4W5i3POh10/uKScK/kQQMH4orA2+T4a5OpLgabCifN7e35oqzYGQ0JNcq5BZNSe9wbPVZXbmw/DebbZEh1lDv1W0HfJTj0/NT7ZBk2IuRbklCFr0uJCV6x5kpI7euCNqKK18B85na/i4Ika+paXkeZp4b40kZH3Fe1tfgRVx0v6lRtaerpI1KTnfGds4oopYa7MaMhazLO7ucDOQJXhG5njuivpklO68eX4z80UUUAjszPc/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBAcGAv/EACsQAAIBAwMDAwQCAwAAAAAAAAECAwAEEQUSIQYTQTFRgRQVImEHoTJx4f/EABkBAAIDAQAAAAAAAAAAAAAAAAMEAQIFBv/EACERAAICAgMAAgMAAAAAAAAAAAECAAMRIQQSMQUiQXGh/9oADAMBAAIRAxEAPwDLOk7ULCkUuztMSe2Vwc/s0a1pFl3kX6Kd5bjIRIc7Rg4GMAnNR6OYrjqeO5dmdY4+7t3eAM4r1rep3tzfOyzz2lvnckUchC5xwxA8n3rpuqrXsQFj9rOg/EUWHSd9qQuUzBavao0zd8lDtUeRjI8D0AzSG1QXTLlQW8ZGf1XdWmp2th01LcJplrcanvxPPIAVcZOFZRxyPPp81HpF011ZJeHT9Ktp8swaBTGx2842j8fPHHqKz+NQ72fbQh+c9XHqwvs42fT+2yzJuYLwUU4YY9/aimGr3Uj6rcC2eSP/ACYKMAk+o/v59qKlyiMQJnJY5UE4jvpmaBbC6uXcLKibYyCByfQDz5qLWnVox+DCZvxXyeBxSKwuH+3OgQFN642nkHycf6q5Pqv0rMjwhgmNu455x/2nLb1PHwDuP2qi2qce+/qal0n/ABnrh6TfWWtUdTIkxWVtoZRxxjk+58eOeayq7ujdXd5LCioXdikagcDPGP15rQNE60u/tljYPfoRHnarS7e6jDDIw9d4IBB5B+a4DW4zZajdl7numIlI8lVJBAwdoHHBrM4/Ksz1cSfkasP3U5U/yLNRvlkZHaJu8MF29yP7oqIT70CXCBkI4PsaKP8AZtjETUBRjEqQSooJ5HnaDUpuu4pUtyxHLDJoopQ68j6bO57u8oyyK+UQjgnBPx61bv8AU479LV5EVZlgEUrY5cgkKSfPGB8UUURgBZqUsOQRFjyYVyNvAwBmiiiqM5BwIIAYn//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Sexy and I Know It</div>
-                                    <div class="artist">LMFAO</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAAAAECAwUEBgcI/8QALBAAAgEDAgUCBQUAAAAAAAAAAQIDAAQREiEFEzFBUQYiFDIzcbFCcoGSof/EABkBAQACAwAAAAAAAAAAAAAAAAQAAQIDBf/EACARAAICAQUAAwAAAAAAAAAAAAECABEDBBITITEFFEH/2gAMAwEAAhEDEQA/APOFzKUbSQGJ9xJ85NLBzpgeTb68b7CoLkgsAP0jTWw+jl1XukrkVpytxoWqIwJzZQl+ymltb+NdckNyinfocViyM+4kMmfBNdiniRoCrKMVzH1FEI7yTC4GaPpdXzGiKjNf8d9VQwa5UoMuoAO7AUU+2UGeHUMjmKD9s0UwmpzFWxC42mlHh2/NOtria3kElvI8ci9waS8GLqcZP1G/NQ53q6sdzHcVbqbZc8d4pJwaKVZVDOxQlOu3etcupriQg3EskjN3c53rJsb8QpFE+oqr6vIxWbxqfh4Q/BwqHfqR0/ijIoxNQX2Pyuc6bmfz8MpISdcen5uYuKKWzGq5gXfJkUf7RSGPcGgsR94Nd3MVDFTIxBA7ZqERtv7X/rRRV3QlEAkxRG5GdD4/bQsMjZAjlP2QmiioSZAolhwqxYyLO8iQrDIrFZchm3z7dqKKKM7G43HjXbP/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">I Was Never There</div>
-                                    <div class="artist">The Weeknd &amp; Gesaffelstein</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAEDBQQCCP/EACIQAAEEAgEEAwAAAAAAAAAAAAABAgMRBBIUExUhYQUxYv/EABgBAQEBAQEAAAAAAAAAAAAAAAABAwQC/8QAHhEAAwACAQUAAAAAAAAAAAAAAAECAxExBBJBccH/2gAMAwEAAhEDEQA/APlUAuWCRIuorF0utiFUt8IpBNKWNgkczdGrrdWNoql1wikAFPJJoYGQyulkyObF6SzPBKna0a4crxV3I3kx8HkoizLx6vqV5uji+QniS4sR7li/Rwbu11vweTOcentvZ1ZetVS5iUt+fnogAGpwAAAGhw8XtC5XcIuVtrxNHbVf3tVezPAAAAAP/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Love Me (feat. Drake &amp; Future)
+                                    <div class="name">Woman
 Explicit content</div>
-                                    <div class="artist">Lil Wayne</div>
+                                    <div class="artist">Doja Cat</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAMEBQYHAgH/xAAuEAABBAEDAwIFAwUAAAAAAAABAgMEEQAFEiEGMUETcRQVImGRFlGhIyQywdH/xAAZAQADAQEBAAAAAAAAAAAAAAACAwQFAQb/xAAhEQEAAgIABgMAAAAAAAAAAAABAAIDEQQSITFBYSKR8P/aAAwDAQACEQMRAD8AvPxpDvprapwuEJAUPqR5UPYY21jWm9O0fUJ/prcESwUjuo8fxzirqm0yFuLCqSQ2CkWRfc+2cTdk7TX4cZaUvSGVpTvTxXaz9uczTU9SZMqpZPUzON131BFfMmWmLIjKVZYHBSknsCO5Huc1hyUhCGFKCqeUEjjkWL5GZBpcdUvW24iSNxWmgtB2g2PNUe2bhPixYultSpcpDSnkktpXQ3V3As98ZavN2k2DiGlVu+iRPxqi76aG7WFgKG4fSnwo+4wxNpTapKFo3bVEtkkUTXY+3jDF6JVS+ZNqSwR4UM9HMS5bRDjssIcWi920qo1z+2SKo+nSUrb0CBpk6OlqkpakFD6OK8j/AJlQOvTomlNRGFoS2076yDt+oKBsfznX6w1Rxbq2mYLMtaNrkltkByvP1X7Y7nrXoyDDw+TOOUez5dfvuOelNL6cZ06AmG3pT2sIc/uU6i4pDhVZ2hs9gfa/zlj1HpKFr+owPmQUwIbdvwE04goskDdW7v5HccZn7fXGo/Lo0VvSIk1UVf8ASflNBewg8FP3rzjk9Z6q1JnASENypPDyy3S00OAD4of7OG5K1DZEU4dztitg0+WWbqrT48fTIE7Toy40d4CmVg2hY8G+3F/jDINGv6hM0VUKY/8AEtKUF73RuXd+Df2wxdgXZDplafC3jpK4qb66SCNhoFKAmyoHzf7YtAU2pRZfQw08XPRJIsrUb+mlEG67dvvhhhtTe5kufI05N9O8iYkeS3PJSpaWkrtKC43SgmqNVuPcfmsnJrTEFLgY9N9tJdbUp5NBLtf42ATR58cYYZ1dsVueNSGNjpaVbSALPNJSPfmh2usMMMFJVhy21P/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAQHBQYIAf/EACwQAAEEAQMDAgQHAAAAAAAAAAEAAgMEEQUSEwYhMVFxFBYiQQcVMjNSgaH/xAAYAQEBAQEBAAAAAAAAAAAAAAAAAwQCAf/EAB0RAAICAgMBAAAAAAAAAAAAAAABAgMRIQQTMUH/2gAMAwEAAhEDEQA/AOVFZf4YWA3TZ4vvy5/wKtFtfQt51WxKxri0nDgfQo9HqLF660m4dAnFurNE1w+lz24w4dwD6H3VIrobWpLN/SeKnHM99+u18tfeAwuiBAl893YDsk47/Zc/24zFZkY5pH1Hyo029ieTuypw9RHREViZ6p+j3DSvNlGPBHlQFLdp9xhG6tM3PjLCj2dRk4tNF66bDP8AKvxdiQw3oKsra9Rwy6w13gs/sn3VGXLT32JN7WEdxjYBhbjV17qirplPit8basLoYRsHI1pIyO7fPb1WoT09QsTySvrTve873O2HvnvlZqKZQbcvpa3kTsxlmPREWkzhERAZ/i6c+XOT4rUfzzb+1xt4c7v5Zz+nv7rAIiAIiID/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Bank Account
+                                    <div class="name">Money In The Grave (feat. Rick Ross)
 Explicit content</div>
-                                    <div class="artist">21 Savage</div>
+                                    <div class="artist">Drake</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAIDAQEAAAAAAAAAAAAAAAQFAwYHAgj/xAAtEAACAQMDAgUBCQAAAAAAAAABAgMABBEFEiEGEwcxQVFhkRQVFyQyYnGBsf/EABkBAAIDAQAAAAAAAAAAAAAAAAIDAAEEBf/EACMRAAICAQMDBQAAAAAAAAAAAAABAhEDBAUSEyFxFCIxUdH/2gAMAwEAAhEDEQA/APmylKz29rcXO77PC8m3z2jOKlhKLfwYKVL+7rzB/KzcftrFPaz24XvwvGG/TuXGaq0Xwl9GWO5tl0+SB7FHuGbK3PcYMo442g4P9j1pUSlWCdh6X8HF1HQ9P1m86mtNOjuVR4Y5rcne5AYJnd7euK06+1OWzupoysFwQ/BAKjAPl8/zXX+l/Ebo38O49J1m9RL+2sVS2V7aRwk6xEA5AxnJ884rgclzbiDMbN3WJLDFJy4Y5H7kP2/ctVpovpurNl6flk1aGZR22vF3kR9s8oFyeQfPj2quttWeFRHDaxYiG1csRxxn/K9dIdQLpbXEEswgguI2R5VTc2DjcPoMVU6lcRGJhasp7zliMHKLngZNI9NDk1XY6S3rVpJ8+/hfhBKhy7ZOTk4pVlpmoafa6LqcFxpve1OfYLa77pAgXneNg4JII5Pl7etK2JHFlJydsqKlWMMEjbri4iiQHBVi2W+RhSKUqMKMqdls0WjvtQzQJGq7Q4aTexySSx24PHHAFVV9DBE+62uY5Y2PCjduUfOVA+lKUKjTH5MznFJpLwiJSlKMzn//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Popular (feat. Playboi Carti) [Music from the HBO Original Series The Idol]
+Explicit content</div>
+                                    <div class="artist">The Weeknd &amp; Madonna</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAcDBggCBAX/xAAwEAABAwMDAgQEBgMAAAAAAAABAgMEAAUREiExBgcTIkFRCBRhcSMyM4GRoUKxwf/EABcBAQEBAQAAAAAAAAAAAAAAAAMEAQL/xAAbEQEAAgMBAQAAAAAAAAAAAAABAAIDESESMf/aAAwDAQACEQMRAD8Antlrs2CtVrg5G+VNIH+69+deram1G3utW5yIkfpKbSpIP7Dbes2udcXkrKkvox/inQCAffB5P3qK0r6g6nuTNqt7j778lWlLDR0JPuSBgY9ya3SqsLyajGvFrsEhD860WiLLksqSnwGz5MqOMlI229qoE5TMhao0m2R4rijpBba8NSCeOOf+05rF2zndD2uZNvUiLKL5bSPBdUC2rfIOdjsefeq7dLPbp843GUzLbtUYgOzGkKeKSCSRgcnbG+wzvUt8y5fJLcWGph9biSebWy6ttxJStCilQI4I2NFdq7PGVcpUnzYeeU55udyTvRVUm5H3N+G99TqHLZe0eAVeduU0QtI+6dj/AFTG6U6G6Z7W2125PPl6dpIVMeGFEeqW0fX+aYQe/CT4xJSfasz9wp99uF9uMO1xJy1sLwnJ16UpODjUc4zvkUXptxdEwqrwlrj9SOdyOq0W9MYu29KCpLOrDbKfV1ZHKsbY9zjbmnFbLdAt0RuHDZbbjsJ0hAAwMj1+9LbsnZDZOmXZT7QN2nL1PISkBTaBskHHHqf4q8tOFtUjS2pIWrUvfO+KJqb3WNtDyzOfxGdO2e13uNLssZMT5nV4zKBhBUMHUkemc8DaiufxFT2pF3tzCE+dptZUrPIJ2H9UVZQ5Afs0O9eYico+YSQc4IyR+5FZv7r9RPK6xamW1iWqO2RrDjSkBSgMHTn0IweOd/WiijrQtxnRZqiSboruW5b56pDkKQ6soKQyygqKd+TwDV+T3ValMKEjp68pQAVA/L5Kj9N8D7k0UVhirThOr5LXdsQncK9OX3qJ+WY7zDZSlLbbv5gkDk0UUUwQ5//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Beat It</div>
+                                    <div class="artist">Michael Jackson</div>
                                 </div>
                             </div>
                         </div>
@@ -273,7 +274,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Nov 2026, 09:00:31 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 9 Nov 2026, 09:16:28 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
