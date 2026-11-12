@@ -35,8 +35,8 @@
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -129,33 +129,33 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBQYIAv/EAC8QAAEDAwIEAwcFAAAAAAAAAAECAwQABRESIQYxQVEHE2EVIiMycYGxFkJSkdH/xAAZAQADAQEBAAAAAAAAAAAAAAACAwQGAQX/xAAdEQACAwADAQEAAAAAAAAAAAABAgADEQQhMRIj/9oADAMBAAIRAxEAPwDoh96TEeT5gUts8jUtEtL6RoJSv+J51V8UcRM2yKNTTMg81NlzCsAZyBisBevECMkhphgKDm+tDpKmjnYct/sagr/QbX2JTnhbqMx+QyEpL4AcUrQPU9hUT2mw/LMeMttRZ1B7BzhXQfWlAjjRcS7xHQ+XmkavcdzhCiMZzzBxUVm5THL+WohUt6XIStvRvr1K6jqP8p1VVxPYwSbkUVHSGjdQVPJWsIIRkhJI+Ydx6UVbTR8IjA1dcCijBmbt4vy2exE2iz3G6XSO1ObdiNPH33ZGUHRgk4zudgfvWfkIgs3spb80RkunKVqycA8sgVo/Eu5yf1LND61JUj4SU6s4HMY/P3rEuOeeorIIWrc/XrV1Kau+AzQX2Yc9Ik26ONvyXVnIcJzr5ax3I705fCbg6Iza4d8mIfVPUCWg5sltOdikc9x3pT2h20twnDPZedkH5V+ZhKPUJxufQnFbrg7jOZFkxYcVxcuIpxDehxvCwDgd9vxQXFgPlRCrUMfonuNiX1HM0VLmpSEbD3+lFecxw5OHj/Xc5s4oV7S4jmuIKX0uvqKdPUZ2xTD4K4CjNtNybrBBe0FKWFr1DB5lY742xk0UVZyHZFVVj60BYkzEcb26wxLm/FtIfCm16XDrBbQeoTtk77bmvfhva5jnFtvlQM6GHQt1RVj4f7s/jHeiijd2Wv2LVFZ/I/pM6K0kuPuJbbTzWs4H9miiipqlDjTHMMOCf//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAABAAICAwEAAAAAAAAAAAAAAAYHAgMBBAUI/8QAKRAAAQMCBQMEAwEAAAAAAAAAAQACAwQFBhESMVEHIUETFBWRIlJh0f/EABcBAQEBAQAAAAAAAAAAAAAAAAACAQP/xAAZEQEBAAMBAAAAAAAAAAAAAAAAAQIDITH/2gAMAwEAAhEDEQA/APlREW2CMzTxxtBLnuDQBug3Q0U80IkYwkOcGMaBmXngDysrpbaq11Xtq+F0M+kPLHbgEZjPjsrlwfYLrDh6e42q3CprqaPKE1DQI4uQM9z5P0qau/vPk6j5P1BWF5Mvqb6kVZI6SIiJclSXp3DFNi+3+4gM8TZASznjNRlT7pPHCLq6olmbE6M5t1jJpI8aj2H2jZ6v7qXh264uo7baMOVDbdQRyCSUNOnwQB27nnhUL1mt1NZ8RRW6OpbWVcMLRPUZ/kT4Dh+yl+M+slfSiagw/lTykFjqlrw4tHnT/VSc8slRM+aZ7pJXuLnPccy4nckrIrKtSIi1DJoLiANyveiZNa7O6VsmiSozbpB76dv9RFNrrrnLUfREVOQiIg//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Bumble Bee (Sped Up) - I'm so Confused Baby Can't You See</div>
-                                    <div class="artist">Hiko</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAYEBQcBAgj/xAAvEAABAwMCAggGAwAAAAAAAAACAQMEAAUREiEGIhMUMUFRYXGBBxVicqHBkbHR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDAP/EABkRAQEBAQEBAAAAAAAAAAAAAAABIRECMf/aAAwDAQACEQMRAD8ATHEMLfMiO4UnxEUVOwcLmqaDbiZhyYxEBG5owuNtlzvXee8w4haYkolTO6k5v+agtw2XiJQ680WcZAj2296rNSufDvw02cWLHiPIqAKihOCu2O9fHatNKDFtkUXFNTU9hx+689g/dLY8BhKuDrSc3M2qpjPYua0pOL27xFBWM60FNQ9492F86awspsSazHYIBJdK52zRWeSp0ktgQ19tqKAsucht75amL900a5jwebKMy8fTLGnmRwLww1st2n6vvBfxiq8+CLehD1O4SnA+ttBVP9oefXTesV0SNIbFCZO+tebb4OJ/CKlO/wAP45PvyVmSHpWhvkGRH0OAud+btVPel5vgtwCRY9zdH17P7pssjPyOC2kiQ89KLOozXl9B8qZPpvaYjxgIlZFxfBRopQnX9crpNUWihxuso4kZudhfYD5mrvSoq8gadOPWojHEd4aVMzndPoi/qiiluKTYcbXNuzrLD71wAxIUNQ6HfHhmraTOlSgHALoRMIuKKKZOoLjZCWXVQs+FFFFFn//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">One Dance (feat. Wizkid &amp; Kyla)</div>
+                                    <div class="name">2 Hard 4 The Radio
+Explicit content</div>
                                     <div class="artist">Drake</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAIDBAEFBgj/xAAqEAABAwMDAwMEAwAAAAAAAAABAAIDBAUREiFREzFBBhRhFSJxsTJCkf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAwL/xAAcEQACAgMBAQAAAAAAAAAAAAAAAQISAxExIUH/2gAMAwEAAhEDEQA/APLzAATgblPlRud52Q13jKQDFvycrDh2CYAlpxkgd9kuxOAd0IBf6nGELLzjIxshMCWko5quZscDS5xxhoGSSrFPaaqe5igbBK6qLzH0g37tXGOcqSy1tTbK2Koijy6NwcAeRur8V8qYb425thAqBIZTv5O/K0q+bLQWPSsy3bvS1TV0spbWQ0jqRx60czJCWEbZOlpAH5PK0jrdJPU6aMdRxfoLWg/yzgEecHx/i6mzerJIILz1xpfXsLSANsnPf43XN0tzmpa1tRAPva7V3TdPjKThhVXF96UblRVNvq301ZG6OeM6XMcMEHgoVy911Rd7jLWTNb1ZDqc1vP7QsSa34RkoqTrwvRfR22Pr/Vphcg3PtPakt1Z7a88b5wtPNV9UjUBn8IQlpEzLJW/CZsrM7/pCEtAT++ZGWujaNWO6EISqgP/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwACAwAAAAAAAAAAAAAAAAcIBAYBAwX/xAAuEAABAwMDAwIFBAMAAAAAAAABAgMEBQYRABIhBzFBE1EIFBVxgSIyYZEjodH/xAAZAQADAAMAAAAAAAAAAAAAAAACBAUAAwb/xAAgEQACAgIDAAMBAAAAAAAAAAABAgADBBESITEFQVFh/9oADAMBAAIRAxEAPwCcIsdyQ8htlCnHFHASkZJOqYtKix+m9upbKj9YnqbW+6poBYQQP8KTuBCSfyT440v+glFekVpqopacS21IShLyCOSBkp58ftJP41SDtHtuXfrbvy651SabCnv1EstrHIJJ7rx2SOw51z/yGQ1rmlToD2V8WtKlFjjexuYls0KpyVS5lZYS9HfQG0JUnatTSgApC0+2P+6yb9tSzLneptKrbIafeeJbWwQ24tYbxyoDkbUjg+w1u1bqiIFElykp2uMM79ik5OccJwO5z40lZIqt2y0KUy1FmwzktyWFoSoL7gK3bkkeDgH+SNJORhEKjb33DrU5hLv0BEj14sqHZd6qi0r1Pp0hlLzPqHJSeQpOccgEf0Ro00fiBtiqvWBTqrUEt74KgCGlbwAo7cZxwMbT+NGr+FebagX6Mn21hG0Due98NEalSLGWgoQmU06XFFCxuVxnn2Hj7DXF311+3YktFHW1BkvrWrfvG5G7ndnnOcfycn7aQfSm6ZNv3A2hLxREkAtOZOBz2/3jTwgWDOraV1RTKpzBWtIYc4IRnO5OSM85AHB7eNRc7GK2jr+9fcs4bVMpsdtDzRm/WpcUysUV6nzHlyCqMEioNtYWpRTkq44yM8djx20puhN0VKqV2ZRGIwqgaQ48w5Klek4E78bs7VZIChx99MSiWdWYtMegvQ3E09aW1oZZe9MqOcqQryARwSD2zrSrStO6RfdwXpaAgYhTVRjCALaJwAHrIQT+0Z7E+efGjwqjeSmQu/zcUy2Wok0Ho/kYXXxM9jopNjFj5iSpDKJLkcYQjCgVqweduRj86NY/U67Xaj0tuIVCh1GkLLXppampALiVdlApJAOQeM5HHuNGqjWcWKp4IvTTzXkZFLS8HjOdUT0S61N0SL9LuhxxbIx6UnvtHssYyfv/AHo0aZvrBXl9iL1HR4/RlUQ5KJcRqQ2f0OoC0n3BGRrtQ2hvdsSBuOTjydGjWVNyQMfZpYaOpKnX+/jVUVi3ZExpoxJJCGURFhS9pwAVlRHbnOBo0aNFSqkb17DZ2HQM/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">LIL DEMON
+                                    <div class="name">Space Cadet (feat. Gunna)
 Explicit content</div>
-                                    <div class="artist">Future</div>
+                                    <div class="artist">Metro Boomin</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcI/8QALxAAAgEDAwEGBQQDAAAAAAAAAQIDBAURABIhBhMUMTJRYQcVQXGBIiORsULw8f/EABcBAQEBAQAAAAAAAAAAAAAAAAEAAwL/xAAZEQEBAAMBAAAAAAAAAAAAAAABAAIRIQP/2gAMAwEAAhEDEQA/AOdwMkafei+i47hQSXW8TiktkZAMjHGSTgAfnSfHQVCXKGjkTZNKyKmSNrbjgEMOCPcca6n6b6Xp6/oSr6auaRlgGp5GTwVx4OuRng4OsvTLRJZN1MOkrDYmks89NW3EkKsTZJHqW9MaTenKz5zeqW319PA0NTJ2e5I9rKTwCCPf11Mpuj41slbU3C501HU08zQiGXOXZSQ2P+alfCqmt63t6y414phQuJmUxFt8YBJbj0IA/Oo0FVT1Z0vNZpWO0mPPjjRrYPiNT0tVZTUwukkMiCRJFOQwPIIOjRj6c7KWQrLLX2dTFRU0dFRqc1ch7ImTOTtbOS59Bx7fXWz/AA269pKwSyzM8cjGPvHaMPOwIL/Ysp+xbGuerbG1ZIlF+6zSN+0iH/M+x41OtHaUjVBJZWTCNkY2Nu/T/v011liJqCe+u4bc3W1wmt8sVfHdlMlO0MylVdwVZc5wDu55xxpPoLs9v6kpXq4lDQh6asRSAJVKsj8jjynx9edXvT9HTXBZbfUYTcO2iZFAKEcgj+Tx9xqzf4cieSkukl3+ZR1EhikiWLZJ3gKT2Z58MDk+nhoEONUm819beekLfFY6ANGqvT93p23soiO0kL5iMbTkA+POjWWz3CqUrGkrIkUkjJt4wWIz/Q0aTGt1l03QzpTy3gQ74qZgFGPMeNxA+uFOdQpLlIXmlBGZ5+2xj30aNdHVqdZ27lLBcaMqzDMgweGRvMP55Hvq+ouo40oK/uy9rT1EQmRy21qaoUbVYj3ViCPYHRo1lqbNpVhgpYjlWkbHj9FB8fz/AFo0aNakX//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUCBAYDB//EAC0QAAEDAwIFAwIHAAAAAAAAAAECAxEABAUSIRMiMUFhUXGRBhQVJDJCUoGh/8QAGgEAAgMBAQAAAAAAAAAAAAAAAAUCAwQBBv/EAB8RAAIDAQABBQAAAAAAAAAAAAABAgMEESESFDEyQf/aAAwDAQACEQMRAD8A80bYIBMGa7NMK6wZrQDHn+J+K6JxplMpOnvtXoVkUfLFL0psRoSrVzTUnG5kgU7VjNLpSlSXB1Cm5KSOh396kMauP0H4orrhZHsWcssdcuSECWZG9FPfw9aTuk0VJ5EQ9wj0WwwocIm0VJ6SRvTlrANkb2w+RS7BZS4vrhBasHlpWg8O6cVypMdkjztsadqvL62ZSjIPWqH1OJTDciU/6ZpPovv74ZsryU86zL3OH+wyNx+WJaZcRc7ARw18q/OygT4rSnAI7W4J9xTO+sm751lTaULOhbbnGTOpKgOnoQRXJWSZxdq1b3l4yhTSdClkcyoHYesetL6tGhSaibbstE4pv8EN7gyASm0JjyKKvZj6gW7YF/Etm4G44ek6h3B28b0U2qu0OPkwyy0JmPvrldrYN8FtzHWyFBTDeqVuHuTPT3iq2KduG8q+7eJ1zOpLypG42ExsZ37ERRRV6img9T6i+cna4Z62CbxTSFqLpbacK0iD+6ZmR081C9zmOv8AIpdtMch9RWNbjhOoFU82npA8n+qKKFTH7EnJ/BSu8mMXlXGwtkOA8N5KGyEqA7zMD2iiiirFBNIrbP/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Like Him (feat. Lola Young)
-Explicit content</div>
-                                    <div class="artist">Tyler, The Creator</div>
+                                    <div class="name">HIGHEST IN THE ROOM</div>
+                                    <div class="artist">Travis Scott</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAMBAgQGBQcI/8QALhAAAgEDAgMFCAMAAAAAAAAAAQIDAAQRBSEGEkEiMTJRcQcTFHKBkZKxFTPB/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAEDBAX/xAAeEQACAwABBQAAAAAAAAAAAAAAAQIDEQQFEhMxcf/aAAwDAQACEQMRAD8A2t2KrkKWPkKhm7OdvvR7xMeNfyFUflZdnB+tZjWWU5HSr9KRGUXYOufWmqyt3MD6GlqGLlcrLAoIw7EHbpyk/wCUVEykzW5GcByT+LUUxHnHS/ZxxVHO/wAXpk6wmNgQskbcxxkL4tsnr0rtnhP2a2Gg6jJcrqV8Ybm1eJ7dTyiMuMHtA5OMnG3eM1vLyLHsxP2pT3cKDtvjPnUeRU7lnc18HXlb9aazFwlp/DfB+qafoiXd5d3aHLMQWd8ELzE4AG/Suf0J7j+Et0vbb4e5XHMux887isi3uorh3WIklMZPT6U+sq6dBSUpSbae6W87zEkhb/2R/Mf0aKmTxx/Mf0aK6BAXPE0jggDGPOseS2kOAoPqpxRRQBNlatDJMWBUPjcEZz13rOoooYIVMjNLAy9ysS2/TlI/ZooooA//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Babydoll</div>
+                                    <div class="artist">Dominic Fike</div>
                                 </div>
                             </div>
                         </div>
@@ -273,7 +273,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Nov 2026, 09:21:49 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 12 Nov 2026, 10:29:38 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
