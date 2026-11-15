@@ -32,8 +32,8 @@
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -129,25 +129,17 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAUGBAIDB//EAC4QAAEDBAEDBAAEBwAAAAAAAAECAxEABBIhMQUTQSJRYXEGMjPBgZGhsdHw8f/EABkBAQEBAAMAAAAAAAAAAAAAAAMCBAEFBv/EABsRAAMBAQADAAAAAAAAAAAAAAABAhEhAzFR/9oADAMBAAIRAxEAPwCydU6ytSlFwOdz070Rvn/tdvOvuIbDyVAzkklHkcSCY/nTLqhZecacZbJCVDIEYqH5jO/EQfqtbRQ60hiGe8+FJ9apgASCkkc6PnXvXmqjp283wS3aEN5ZWrW09wJTEYxkN8SD96pV23SlSm2lesk/l0T8QYj6qtPSr17pzbZLWBcDwfzHb94mNHxHG6w3TISFNNobN20eA4YgjmR4gDmkmGjh0iYLS1AyhaXAog5ce4+qKZISpZcSyjukuRkngkp8fGifGqKtIN0d2928hLKnnWFtqUFBC3I9MSQQdpn5Pn2NMPw71C2a6i64wy6GlLVKXQFSgwfOpkCI8VKdxDASpGKiVjJKuFaiCAZ41W5XVA42pCQ1kkSq7yKIk/pgEb0IB8VBefS6R1zp6rU2eCU2uJBTJiOfv96Sfiy2t1XluXc0WspgNECUb/rM6PiopLNylS7gXLGnMS2ViYJjKOMZ1VAjqi20JDnZLlwEhF22ruEYqEoWjkaGzHsaWa1Yw6nuo9Es3dp37dgWxycmQvZTBxH9+D8UVssOzfXDbb1wnusqWptxAxUhQSk6B/iNz5opF4m+oh2l7PnZu0YJIecDuc6MAD48g/5oQ62++lsvwknlTg/cxRRWZmkbNizCAVFHdICc1AaTMZRHPB14pMq8VbPusIuEFCF8tuggniQQY480UVRJtseqhuFd103GejOScYgz5J/2aKKKaaeBVK0//9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAMEBQYHAv/EAC0QAAIBAwMDAgUEAwAAAAAAAAECAwAEEQUSIQYiMUFRBxMUYXEVMpHRFkJy/8QAGQEAAgMBAAAAAAAAAAAAAAAAAwQAAgUB/8QAIBEAAgICAgIDAAAAAAAAAAAAAQIAEQMhEjFBcQQTMv/aAAwDAQACEQMRAD8A41bX/SaW0Bm/VHnVRuT6aILuxg85yR55PjjirKzl6TlnFy51O3ZSWULBCc+3rxj39zxXPh+0bWIPnOKdYyuD5wP25yeD7nHJrUXEpYAw2HKA/VzoF/qXSUllcGJtR/UMsYi1tEdzc7QxznHjPPNV8Gp9MSWEa36XouWXEht7WIDOSe07v+R/Pjis/dvGSZFcszJ3swByf6qvRc79owAPb+6YyYBjPFTJ8ly7+5sU1DpVtPnYW+oPqDwsFV4Y9gfHBBBzj80VmNlvMrFQybcbt7ZZ/wAccUVzHgcrrcUq+5W9uCqu27PPoPvzTQ6tbLGB37uSOKc8KbFUALuyAcZwPOajJiJ8qQxT19xVAhNXqH5Bfzu40rJMUkJMgB27WOcH71JgjEcoWUna47j6YrwoLWrNjvLZAAxtHrTJGCOR2ufIJ8Z4phaFte5biEdWMGSIyyFVbavIA9vSipVxEWsjOq7EDKhI++Tz/FFHXJwsAQuTGMdX53Ndo3QOiaroNpqV515pNlcTRNI9pKFzEcuNp7857QfHhq83fw/6fs9SSAddaU0D288vzyFYK8ZUKpCOxAffuB84B4yKKKxPtc7uJqa6ltbfDjQ1lf5nXuiM6zsrGKRW2wgNiQAPzllA2+cMDz4pF38O+mIrJrr/AD3Tp9jptjjiTeyvs/0MgORv5BxjYfxRRRhkbiBcOxtVMbd9C6JHoWoywdfWDSW7yj6aSJEknaMuoKj5h7WK5XGchgcUUUUUWfMjtZpt+5//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">No Church in the Wild (feat. Frank Ocean &amp; The-Dream)
-Explicit content</div>
-                                    <div class="artist">JAŸ-Z &amp; Kanye West</div>
+                                    <div class="name">Push the Feeling (feat. Big Narstie)</div>
+                                    <div class="artist">Nightcrawlers &amp; John Reid</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAAAAQBAgMI/8QAHxAAAgEEAgMAAAAAAAAAAAAAAAECAwQREiFBIlFh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A81lEbZyjB7pJ8v4icojcRjFJQecYzk0jELfZt7rX2jFShpTcnNZ6Xw2Vwto+GIJYwma1KynFpxWevgHEAACmFS0UIb0armsbNT4fsmAFMKlqmt6M3444n37NZyt3Sap05qpheTlnns4AAAAAAAAAAAAP/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAABAAICAwEAAAAAAAAAAAAAAAIHAQMEBQYI/8QAKRAAAQMEAQMCBwEAAAAAAAAAAQACAwQFESEGEkFRIjEHExRCYXGBkf/EABcBAQEBAQAAAAAAAAAAAAAAAAADAgT/xAAcEQACAwADAQAAAAAAAAAAAAAAAQIDEQQSIWH/2gAMAwEAAhEDEQA/APnZw/1a8eVtJydna1k+/thc5UwQo4/ClkeQsFw8hAANYCLIxjSID0tjulqo+P3GluVAK2ommifEOroLWtDur1jY9xruu/peT8XpX01Yy2O+ojpI6ZtOYGSMYQ4l7iX6eSMNyRnG1XZPZRJ2oTojPdb9KKxot2x8m4xbKJ0VPb2vidUOnaJ6aJ7msfgiPqOSQCCP0udS804zE2RjbTTROefSTRwuwOuQ47gac0fxUmgUXwot65MquR8LA+Jl/s96hpRZ6KKlc2d8j/l07IuoFkY+3tlpOD5RV/nSLqrrVceqITl3eglRztEWzIymURAM+EREB//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Back In Black</div>
-                                    <div class="artist">AC/DC</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAAAAIDBAgFBgcB/8QAMhAAAQMCBAMFBgcAAAAAAAAAAQIDBAARBQYSITFBkgcTFFGRFTNTcYHRFlRhcnN0of/EABkBAAIDAQAAAAAAAAAAAAAAAAIDAAEEBf/EAB8RAAMAAwABBQAAAAAAAAAAAAABAgMRITEEEhNBUf/aAAwDAQACEQMRAD8Ar3zO1SEoj90Cp50L5pDdx63qVDwtx4XcCkj9BWdwrLEOU+lqTLdjk8yBXanDVLaRnvNMeTVtDHeAB5ZQb3Pd7j6XpSm4+klL6yq2w7u2/rXY4vYe7IZW+zOcWwNwvYavkCKSvswylhrdsfzLMjyeTDTaFK+vlQPG/roM+qhvRxlI3orcc24FgGFyCMHxGbJY03C3kJF/Sio4c+eDppUtoZy5iRcSUttIKuAuL1tTMFpTKZInLZf0gFtTRKdXmT/tq5M2tbartqUj9ptTxmSuHiXrfyGnRnalKhV4fc9y9Fs+ybNUqVDGDuRHpbiDYLbACG0+aieAqHnPsqVMnuTEziEObjRH1aVX3vbiLVWWPmLG44UmPjGItA8QiSsX9DT6c15hAt7dxW39xz70h21bqObIsHOssaxkFmHFW3Ih4ZiUcJADjzRC0m26iL8CeQNFVv8AxBjKtWrFsQOrY3kL3+e9FE7b6wfhr9Mb4WR+Xe6DSVR5HwHug0UUvfDUeiM/b3D3QaUIz/wHeg0UVRNCxFft7h3oP2ooooij/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Children</div>
-                                    <div class="artist">Robert Miles</div>
+                                    <div class="name">Habibi (Albanian Remix)</div>
+                                    <div class="artist">Ricky Rich &amp; Dardan</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -155,6 +147,13 @@ Explicit content</div>
                                 <div class="infos">
                                     <div class="name">Softcore</div>
                                     <div class="artist">The Neighbourhood</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBQYIAv/EAC8QAAEDAwIEAwcFAAAAAAAAAAECAwQABRESIQYxQVEHE2EVIiMycYGxFkJSkdH/xAAZAQADAQEBAAAAAAAAAAAAAAACAwQGAQX/xAAdEQACAwADAQEAAAAAAAAAAAABAgADEQQhMRIj/9oADAMBAAIRAxEAPwDoh96TEeT5gUts8jUtEtL6RoJSv+J51V8UcRM2yKNTTMg81NlzCsAZyBisBevECMkhphgKDm+tDpKmjnYct/sagr/QbX2JTnhbqMx+QyEpL4AcUrQPU9hUT2mw/LMeMttRZ1B7BzhXQfWlAjjRcS7xHQ+XmkavcdzhCiMZzzBxUVm5THL+WohUt6XIStvRvr1K6jqP8p1VVxPYwSbkUVHSGjdQVPJWsIIRkhJI+Ydx6UVbTR8IjA1dcCijBmbt4vy2exE2iz3G6XSO1ObdiNPH33ZGUHRgk4zudgfvWfkIgs3spb80RkunKVqycA8sgVo/Eu5yf1LND61JUj4SU6s4HMY/P3rEuOeeorIIWrc/XrV1Kau+AzQX2Yc9Ik26ONvyXVnIcJzr5ax3I705fCbg6Iza4d8mIfVPUCWg5sltOdikc9x3pT2h20twnDPZedkH5V+ZhKPUJxufQnFbrg7jOZFkxYcVxcuIpxDehxvCwDgd9vxQXFgPlRCrUMfonuNiX1HM0VLmpSEbD3+lFecxw5OHj/Xc5s4oV7S4jmuIKX0uvqKdPUZ2xTD4K4CjNtNybrBBe0FKWFr1DB5lY742xk0UVZyHZFVVj60BYkzEcb26wxLm/FtIfCm16XDrBbQeoTtk77bmvfhva5jnFtvlQM6GHQt1RVj4f7s/jHeiijd2Wv2LVFZ/I/pM6K0kuPuJbbTzWs4H9miiipqlDjTHMMOCf//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Bumble Bee (Sped Up) - I'm so Confused Baby Can't You See</div>
+                                    <div class="artist">Hiko</div>
                                 </div>
                             </div>
                         </div>
@@ -272,7 +271,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Nov 2026, 09:40:14 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 15 Nov 2026, 09:25:56 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
