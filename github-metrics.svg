@@ -129,33 +129,34 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUGBwEDCAT/xAAtEAABBAEEAQMDAgcAAAAAAAABAgMEEQUABhIhMSJBURMUYQcVI0JDYnGBkf/EABcBAQEBAQAAAAAAAAAAAAAAAAQDAgX/xAAZEQADAQEBAAAAAAAAAAAAAAAAAQIRAyH/2gAMAwEAAhEDEQA/AM4t6lCkqA+NetOawjW8YrOcyTMVEePzQ0TanFqV4/HQGo3jsiUkFwgf41rycLES8w1ksy3zhcEpfskABJ5AgAWqwKrroaZ2TwFypaY/UKf++5zcMZqNJ+yxcckNfSCVrXQJUpSj0kWPAs6oN5KwslxJQVdix7a6R2fvjBT945QzIiJWPWhx1qRKbSByRQSSCSTYvyOtUjvnKDMbrlv+hDKnClPEdJF+etEQssH9DJ6nsNksZxXTTgfbUR0SRSgPz0DWjSbZmSY2RmIKMkpbi3klElBSQhhDgSW3knwbFA9dDRq0XiI3GsaQH3FOelJ5fHnTecg5HGPwXKaUtNBRsFCv5T8+dJtuzIUZx5E9vlyB4OWbQfxWpFPykOTGvkJEvikc6UPbz5rTKW+YEnz0rQ4qHaYj8R8T20n6r7jyWWRx88RVk37338aictKY819lsh1BVQ4m7/3qycpttrN5BMlya7HSoAOJQm7oUK761CdtYHIZDecTDQmfrTvufphN0LSeyT7AVd/GgXDljotUh5Bnv5XcyWt2RpDqJrjLbqW00pDKAUpCaFgD06NdM7Y2vCjbyU7GYTKyWLbS2uQoUlx/qgK7CU1deT6b6PRrOmmVFsXOYDHwJ0fLYwTJkx1LQcNfw2/eu7Bv3H/RpxMzO02ozzeNwK2ZiHEhtx10uIIB9XV/AqvfRo10XKbAKng6x+5dsypr65uBTx/oEICLTV0QCAPi++vOtu3YGM21DzG9fteeSkpVHYQhaQEeopFfBvjZ/t0aNH6LEW5vWWtsqAYuDjxi6024tsOynieytXqV5N/jz0NGjRoopH//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">I Wanna Love You (feat. Akon)</div>
-                                    <div class="artist">Snoop Dogg featuring Akon</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAQFAQIDBv/EAC4QAAICAQMDAwIEBwAAAAAAAAECAxEEAAUhEjFBBhNRFGEiM4GhFSMycZHB8P/EABcBAQEBAQAAAAAAAAAAAAAAAAQDAgX/xAAgEQACAgIDAAMBAAAAAAAAAAABAgADBBESITEFEyJB/9oADAMBAAIRAxEAPwBXacVMfBUx+0QVJXrBPUauu/fTWLhZViaeNadGR+QETjirPzpGKaNYXb21XHjUkKhVg5+LA12xsaeWMRyN1qArMqV/jjxpP1AD2FF2zoCO4aY2Mn5n1U3YyID0r9gTx+upuRG2dmkz1HAx4qyT45P+9OQbf7MbuWcKQR03VVzwNYmC47SCSuFNBiL41pVUGYdmImcXZtozEV2d8LLCkPOjle1cnRpeEo23TyTL1yCMlw4sFSa/uSe3ydGiX4nN9q2o7FzjWnFl3NcbaXESq0USZD2jo8nQw/D8d6r7Vendk93Ei6WisKxVz1WG+CKPx48aa2DH/iEEu/brkQS42RL7cSOxb6duwK0Pi+a576X3jeEXcDBiI0u3hgqPBFSswFSFRf8ATYvi7N1qS5xLcT5Kt8eFQOp7lVJRjxe5Yfua713+dQN1jlzMhYLLzIx9mMD8xiOCa/6tX9x2lck4uZsqNkbfNjgyRxy9bLJZBtbuqPceRqJh7g2z+oY1y4Sge4maQ2U6vIPjsBz40yqwONiDvQp+T5OeViZm35Es0k6SSWh9sA9LBTfJPn9K0ab9Q5sMJZpVLdR+wP7nRouRQLm5MYii80rxUSCwyYNrGL6ehglwJPwsJnIcfuBYIr5rv201tO4bnDuEEG5RQ4uDCpbHgijtYmPHDAc8kkmzzWjRo11Sjsf2IpudhomVtzxsiZocjaZDFlwSMZVBKM60artzfPPB15nf9wmz5PbVTk57rT/y66aPcgcX2HOjRro1IqqSB3OdkOzMFJ6kf1bNkNjY2Bj9REcSRyOfLAAWNGjRqLeyg8n/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Lush Life</div>
-                                    <div class="artist">Zara Larsson</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAUGBAIDB//EAC4QAAEDBAEDBAAEBwAAAAAAAAECAxEABBIhMQUTQSJRYXEGMjPBgZGhsdHw8f/EABkBAQEBAAMAAAAAAAAAAAAAAAMCBAEFBv/EABsRAAMBAQADAAAAAAAAAAAAAAABAhEhAzFR/9oADAMBAAIRAxEAPwCydU6ytSlFwOdz070Rvn/tdvOvuIbDyVAzkklHkcSCY/nTLqhZecacZbJCVDIEYqH5jO/EQfqtbRQ60hiGe8+FJ9apgASCkkc6PnXvXmqjp283wS3aEN5ZWrW09wJTEYxkN8SD96pV23SlSm2lesk/l0T8QYj6qtPSr17pzbZLWBcDwfzHb94mNHxHG6w3TISFNNobN20eA4YgjmR4gDmkmGjh0iYLS1AyhaXAog5ce4+qKZISpZcSyjukuRkngkp8fGifGqKtIN0d2928hLKnnWFtqUFBC3I9MSQQdpn5Pn2NMPw71C2a6i64wy6GlLVKXQFSgwfOpkCI8VKdxDASpGKiVjJKuFaiCAZ41W5XVA42pCQ1kkSq7yKIk/pgEb0IB8VBefS6R1zp6rU2eCU2uJBTJiOfv96Sfiy2t1XluXc0WspgNECUb/rM6PiopLNylS7gXLGnMS2ViYJjKOMZ1VAjqi20JDnZLlwEhF22ruEYqEoWjkaGzHsaWa1Yw6nuo9Es3dp37dgWxycmQvZTBxH9+D8UVssOzfXDbb1wnusqWptxAxUhQSk6B/iNz5opF4m+oh2l7PnZu0YJIecDuc6MAD48g/5oQ62++lsvwknlTg/cxRRWZmkbNizCAVFHdICc1AaTMZRHPB14pMq8VbPusIuEFCF8tuggniQQY480UVRJtseqhuFd103GejOScYgz5J/2aKKKaaeBVK0//9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">No Church in the Wild (feat. Frank Ocean &amp; The-Dream)
-Explicit content</div>
-                                    <div class="artist">JAŸ-Z &amp; Kanye West</div>
-                                </div>
-                            </div>
-                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAMEBQYHAgH/xAAuEAABBAEDAwIFAwUAAAAAAAABAgMEEQAFEiEGMUETcRQVImGRFlGhIyQywdH/xAAZAQADAQEBAAAAAAAAAAAAAAACAwQFAQb/xAAhEQEAAgIABgMAAAAAAAAAAAABAAIDEQQSITFBYSKR8P/aAAwDAQACEQMRAD8AvPxpDvprapwuEJAUPqR5UPYY21jWm9O0fUJ/prcESwUjuo8fxzirqm0yFuLCqSQ2CkWRfc+2cTdk7TX4cZaUvSGVpTvTxXaz9uczTU9SZMqpZPUzON131BFfMmWmLIjKVZYHBSknsCO5Huc1hyUhCGFKCqeUEjjkWL5GZBpcdUvW24iSNxWmgtB2g2PNUe2bhPixYultSpcpDSnkktpXQ3V3As98ZavN2k2DiGlVu+iRPxqi76aG7WFgKG4fSnwo+4wxNpTapKFo3bVEtkkUTXY+3jDF6JVS+ZNqSwR4UM9HMS5bRDjssIcWi920qo1z+2SKo+nSUrb0CBpk6OlqkpakFD6OK8j/AJlQOvTomlNRGFoS2076yDt+oKBsfznX6w1Rxbq2mYLMtaNrkltkByvP1X7Y7nrXoyDDw+TOOUez5dfvuOelNL6cZ06AmG3pT2sIc/uU6i4pDhVZ2hs9gfa/zlj1HpKFr+owPmQUwIbdvwE04goskDdW7v5HccZn7fXGo/Lo0VvSIk1UVf8ASflNBewg8FP3rzjk9Z6q1JnASENypPDyy3S00OAD4of7OG5K1DZEU4dztitg0+WWbqrT48fTIE7Toy40d4CmVg2hY8G+3F/jDINGv6hM0VUKY/8AEtKUF73RuXd+Df2wxdgXZDplafC3jpK4qb66SCNhoFKAmyoHzf7YtAU2pRZfQw08XPRJIsrUb+mlEG67dvvhhhtTe5kufI05N9O8iYkeS3PJSpaWkrtKC43SgmqNVuPcfmsnJrTEFLgY9N9tJdbUp5NBLtf42ATR58cYYZ1dsVueNSGNjpaVbSALPNJSPfmh2usMMMFJVhy21P/Z" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Bank Account
 Explicit content</div>
                                     <div class="artist">21 Savage</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAIDBAEFBgj/xAAqEAABAwMDAwMEAwAAAAAAAAABAAIDBAUREiFREzFBBhRhFSJxsTJCkf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAwL/xAAcEQACAgMBAQAAAAAAAAAAAAAAAQISAxExIUH/2gAMAwEAAhEDEQA/APLzAATgblPlRud52Q13jKQDFvycrDh2CYAlpxkgd9kuxOAd0IBf6nGELLzjIxshMCWko5quZscDS5xxhoGSSrFPaaqe5igbBK6qLzH0g37tXGOcqSy1tTbK2Koijy6NwcAeRur8V8qYb425thAqBIZTv5O/K0q+bLQWPSsy3bvS1TV0spbWQ0jqRx60czJCWEbZOlpAH5PK0jrdJPU6aMdRxfoLWg/yzgEecHx/i6mzerJIILz1xpfXsLSANsnPf43XN0tzmpa1tRAPva7V3TdPjKThhVXF96UblRVNvq301ZG6OeM6XMcMEHgoVy911Rd7jLWTNb1ZDqc1vP7QsSa34RkoqTrwvRfR22Pr/Vphcg3PtPakt1Z7a88b5wtPNV9UjUBn8IQlpEzLJW/CZsrM7/pCEtAT++ZGWujaNWO6EISqgP/Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">LIL DEMON
+Explicit content</div>
+                                    <div class="artist">Future</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAYFBwEDAgQI/8QALxAAAQMDAwEFCAMBAAAAAAAAAQIDBAAREgUGITEHE0FRYRQiIzJDgaGxcZHR4f/EABgBAAMBAQAAAAAAAAAAAAAAAAMEBQAC/8QAHhEAAgICAwEBAAAAAAAAAAAAAAECAwQxEhMhEbH/2gAMAwEAAhEDEQA/ALBS1x0P2rciIpTSnEgFKTY88/1XF6RHjQy+twBINuaWX95piOlLOYSVYqUpF7eop27KUCdTi8tjczCKo+agcjchNvAV13Ghn0F/Kte1twsSmfivHJR90njrU/qEZr2YyWwO8AufG9CryXJhrMZJfEQLuDfzWopM3RuuHpi3G3nbuj6aeT/yinOwT6SR1ptMiNmXD7hy6kcf7Va6hJS0ouNXDYNiCq5pp1bY+4W46lM7iXKZR8QtPt2PF+lr+FIUOA/IcQzFaZhEn3WpKVJ75Xjgeeb+fHl5VFyJdniLNEeK+tjJtSeEvBKnFJzN7X4NX5obyZmnJS0E3w8rJPFeaX4msacQp/RUvMixDzQXifuD+xUtpfalqWkpbaMNSW0/TW6fTjkX/NDpfB+hZxctGvtD0ZUnV5JS2tM3vDmlYKeg8+lvWimR3togzWVp1fbCXwE45pdGY/gkXoqmr62vRF480yxpbkSXFWw5JxQeFd04QT6XFKs7aWlTHkuXnuJTYWEhaRwbj880UUlcuOg9ZPR9Jj+zIY9lSpCBYF1QJ+55N6y9tmC8jEssoFvAZfviiil1XGe0Edko6Eidsdl/XVRzpDQh549+IuIxtf5kr8/Siiis6ILX6zrukf/Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Reckless
+Explicit content</div>
+                                    <div class="artist">Hanumankind &amp; Denzel Curry</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcD/8QAMxAAAQIGAQMDAgENAAAAAAAAAQIDAAQFBhEhEgciMRNBUWFxwRYXJzIzNEJEZHSRobL/xAAXAQEBAQEAAAAAAAAAAAAAAAABBAUC/8QAHhEBAAICAgMBAAAAAAAAAAAAAQACAxEEIQUiMRL/2gAMAwEAAhEDEQA/AO3Ue+bop9+1uTka3NsSrMwUttoIwkYGhqFdIvS9KnNLZZuCeyltSyRxJ14AGPJOBEPqsD+ci4T/AFJ/5EVZC1ozwUpOfPE4jUpjGh13My2VL9/JpCK5fTSfUqd1Gnta7nXkKP24pBJMKZ/qBcrTiEyd01CYHHvUWw2OX0yMkffEV9F6TkmhimyzTaVpQOD4Y9RxsfRZ/V3vQ1C55xbzy3XVFTi1FSlEeSfMFKCuwje+tamjdPb6umfvqhyk7W5x6VemUocbWRhQ3o6givdLx+kW3v7tP4wRLyahY0SjBZa/ZP6mSb011BuVcu0p0MzJ9Thvh2g7+NRTw2Nxp10y0+z1YrC1NNt0115aiWdl1ZSkAr9wQNDyP8wgvFLzL1ORKolmmnng2pbjOSlf8IyPAP29oKc78+qRyePbe1WSH7Jpi7SXWUiZbqUrLJcylXY4lSvdPzj3BxFLDJxnicRrtLqUs3a9ZZn0OKl5OWUy7rBUkFR5JB1jicxTZ71G5SRdbkmJmnqUnmtlJU4lkpB5Hejn48Q4+WU+m9wy8O2R9XWpx6ZN46g0A4/m0/jBDPpmiVm70oUzJPo/e+5pR7gASMgnyP8AftBBny1uiTnDivQSxGPUO1bvnb3rM1ISFSelVTXJoIa7FoASQQrO9gjERfybuZbUsiZtmpzDQ/aIW143oed4wDnWDBBEbUmiWSNJi1bheptQYYpE+hc40pLinGjsK7eIGfIGfv8ASFooF2UigtylJt6puzDaPTQXGPAxgA7wcQQQoPUCybkjpnaVfZuejztVt+fkJlqeDrrgYw3xIOSTnXwfnR9oIIIQnK7n/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Young Dumb &amp; Broke</div>
+                                    <div class="artist">Khalid</div>
                                 </div>
                             </div>
                         </div>
@@ -273,7 +274,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Nov 2026, 10:23:10 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 22 Nov 2026, 09:40:37 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
