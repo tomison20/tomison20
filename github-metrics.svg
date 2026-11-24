@@ -129,24 +129,11 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcIAf/EADEQAAIBAwMCBQEGBwAAAAAAAAECAwQFEQASIQYxBxNBUWEiCBQWUnGBFSQyQoKh0f/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAAB/8QAHREBAAIDAAMBAAAAAAAAAAAAAQACAxEhEjFBE//aAAwDAQACEQMRAD8A0Lwy6qoYluCxw4p2qmaWRSMq7kAOwwCFOAN3ODwdPNVc6lJ6gkhKQKVUopZt2PU/rnWJ00kHhh1Ne4IaWStrZAm2J3Kr5GAdykhifqbBzwNh+NLtWx8Quq7jV3Sunt1LDAjtTQuZF4+ngMwAPr276RZ0HOyrw27PTNprutrRbXqpK27UUckpUCN5xuXavJwpY8n0wDqmbxAtdRJJHbEra5z9W2mpGf37Fsccn09dKEPQ3TVDloWqqqoVAUX+4kjIOxVCnv2Yn51H8BK2KTqi5wwIsMbU7bY+5wsilST74fBxxxxrDkUDRCtUqbY51996nuwCUXTNSke0r/OVQiV8jByq86NaBLwpI7DRonAvW0T+h8Jh32iL5QUXV0kUdTLU1z2/7s8MOAKYZyu4nkltzEj0GPfSJ0zZ7ybBe7vRpC9JDAtPJL5oDbcoSVHfkY1c+K9ntdpvDtSSRz1VweSoqz5rSYbj6cscgHcTjJ/1qq6e6moemOjLrartUyTUlydQrUeGZVZTkNn+k4ABGP8AuliWdx4NQJd2629QW7oTqiuiucC/w9seXsLTQ4Cncj5GAQcjv68ao/De9w2Se33b72aWYVTRVZlCnzI2UNwO4GFxntnGlm/9Z0UlmnoLHHcFapTZUT1FQD5iflKKACfk5Oo/iOPL6gjMEaRwzUtI6qOFBMCBv0wcj9tc7YH1qFZKqHZ17071NaOp7e1ZY61KqnDFGwCrIfZlIyP3HOjXP3hnW0dl8T5bbQqVoqWieOWdWJM74UlmA47nAHoPnRqumQTsktjR0Sb+IIqiBZKlVgdAdsUlG023/NSBz8AaTeuampvtnp/Mt9JQxRTgjbKA8hIxtUHk8c9saNGp7Mpr9Ir/AIYlVWkXbGuCds0gG4/lT3bnt3Om22WZrrXTQ3a30sUFTRvCJwgjFOyjcsnoAeMEn0Pxo0aCjuxCQ0zyy2esoen6drOIoLos8iVEm0eY8ZwVwSeVBHt30aNGhye4dOE//9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYEBwEDBQj/xAAuEAACAQMCBQIFBAMAAAAAAAABAgMABBEFIQYHEjFBE1EUIkJhkRWBobEjYnH/xAAYAQADAQEAAAAAAAAAAAAAAAADBAUAAv/EACERAAICAgIBBQAAAAAAAAAAAAECAAMREiExQQQTIlFx/9oADAMBAAIRAxEAPwBtleO1tZZ5WVERSxLbDYVR+q8U8T8SXnTY3U1tbs5FtHauFL792Ybjbffan3m/qpseGGt42CyXbCIEnwe/8UvcptHge+ub6/8Ah0hjVI+tVyjE+cdt8jtRXbRdo+qe44WdzQ9G40uLeO5m4gvHZVwqxqvQcbYORvv5I370xaNrl9DdRabxJFHHdyMUiuIxhJSPDD6Wx+xqydFTTpbQH1lZOnKFOx+2PFJPMC1tbyxuoLS5ia9QdUafUrruCCD3FJre5bnqGCq2VAk1u53oqPZzrdWFvcr2miV/yAaKczAayp+dFwZb3TLf/GR8z9D7g7Yp25AmE6bcpcQpFK9x1EA7IcDFVpzjk69UtAEWQ+m3UDjf/mRUrkXxDDZ6xfaTct6LzhZYEZ8jIGGUE+cYNC9RnQ4mqYGwqfM9JSxwG8uQhJRVwhDhd/f71F1OG1/S/WBj9UKQw6RnNRNOeMLIZLRp/q6+ts49tjt+K4+qXCRQGMnpkmYhI2bPfsoJ77VO/PMbWvB76mnTjixSPoKCP5QvsPGP2orCylU6c9gBRVUcCLnuUfzqyuq6eqqSrIV74/mtWmcGW89pwlq8AlX12PxSBiDjLEOCO3gfiiiubT8CYOhA1wB+5cejalr+nxNbJJaXkS7LNKxjkK/7AKQT9xjPtSnxlFqMnFHDt8snrNBc5mUMVRVbYkDzgE7nf+qKKl0sdxLVtS6tHfojazaf4yAOAT6Jz1f1iiiiq8jE8z//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Softcore</div>
-                                    <div class="artist">The Neighbourhood</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAMEBQYHAv/EAC0QAAIBAwMDAgUEAwAAAAAAAAECAwAEEQUSIQYiMUFRBxMUYXEVMpHRFkJy/8QAGQEAAgMBAAAAAAAAAAAAAAAAAwQAAgUB/8QAIBEAAgICAgIDAAAAAAAAAAAAAQIAEQMhEjFBcQQTMv/aAAwDAQACEQMRAD8A41bX/SaW0Bm/VHnVRuT6aILuxg85yR55PjjirKzl6TlnFy51O3ZSWULBCc+3rxj39zxXPh+0bWIPnOKdYyuD5wP25yeD7nHJrUXEpYAw2HKA/VzoF/qXSUllcGJtR/UMsYi1tEdzc7QxznHjPPNV8Gp9MSWEa36XouWXEht7WIDOSe07v+R/Pjis/dvGSZFcszJ3swByf6qvRc79owAPb+6YyYBjPFTJ8ly7+5sU1DpVtPnYW+oPqDwsFV4Y9gfHBBBzj80VmNlvMrFQybcbt7ZZ/wAccUVzHgcrrcUq+5W9uCqu27PPoPvzTQ6tbLGB37uSOKc8KbFUALuyAcZwPOajJiJ8qQxT19xVAhNXqH5Bfzu40rJMUkJMgB27WOcH71JgjEcoWUna47j6YrwoLWrNjvLZAAxtHrTJGCOR2ufIJ8Z4phaFte5biEdWMGSIyyFVbavIA9vSipVxEWsjOq7EDKhI++Tz/FFHXJwsAQuTGMdX53Ndo3QOiaroNpqV515pNlcTRNI9pKFzEcuNp7857QfHhq83fw/6fs9SSAddaU0D288vzyFYK8ZUKpCOxAffuB84B4yKKKxPtc7uJqa6ltbfDjQ1lf5nXuiM6zsrGKRW2wgNiQAPzllA2+cMDz4pF38O+mIrJrr/AD3Tp9jptjjiTeyvs/0MgORv5BxjYfxRRRhkbiBcOxtVMbd9C6JHoWoywdfWDSW7yj6aSJEknaMuoKj5h7WK5XGchgcUUUUUWfMjtZpt+5//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Push the Feeling (feat. Big Narstie)</div>
-                                    <div class="artist">Nightcrawlers &amp; John Reid</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAABAAICAwEAAAAAAAAAAAAAAAIHAQMEBQYI/8QAKRAAAQMEAQMCBwEAAAAAAAAAAQACAwQFESEGEkFRIjEHExRCYXGBkf/EABcBAQEBAQAAAAAAAAAAAAAAAAADAgT/xAAcEQACAwADAQAAAAAAAAAAAAAAAQIDEQQSIWH/2gAMAwEAAhEDEQA/APnZw/1a8eVtJydna1k+/thc5UwQo4/ClkeQsFw8hAANYCLIxjSID0tjulqo+P3GluVAK2ommifEOroLWtDur1jY9xruu/peT8XpX01Yy2O+ojpI6ZtOYGSMYQ4l7iX6eSMNyRnG1XZPZRJ2oTojPdb9KKxot2x8m4xbKJ0VPb2vidUOnaJ6aJ7msfgiPqOSQCCP0udS804zE2RjbTTROefSTRwuwOuQ47gac0fxUmgUXwot65MquR8LA+Jl/s96hpRZ6KKlc2d8j/l07IuoFkY+3tlpOD5RV/nSLqrrVceqITl3eglRztEWzIymURAM+EREB//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Habibi (Albanian Remix)</div>
-                                    <div class="artist">Ricky Rich &amp; Dardan</div>
+                                    <div class="name">Rich Flex
+Explicit content</div>
+                                    <div class="artist">Drake &amp; 21 Savage</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -155,6 +142,21 @@
                                     <div class="name">Runnin
 Explicit content</div>
                                     <div class="artist">21 Savage &amp; Metro Boomin</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAcFBggBBAn/xAAuEAABAwMDAgQEBwAAAAAAAAABAgMEAAURBgchEjEIQVFhFCIyQhhUcYGUwdH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A1TXFEJBKiABySTXaVPiU1dP0dtu5LtSB8TJkIipdIyG+oE5x+gP70FyGudLl1bYv1vJbIStQeBSkkZAKuwOOe9T8d9qSw2/GdQ6y4kKQ42oKSoHsQRwRXzRjawvMabcJLUlHXPUlUlJbSUuYzgYxwOcYGOK2j4WtTStTbauOTUx0ORJrkdKWUdI6elKu2cd1ntQOKiiigKVPietq7ls1eUtlHUwpqRhQySErGQPQ4P8AXnTD1DfbVpy2OXG+z48CE39Tr6+kZ9B5k+wyTWZNeb4xtbaysunrA4qPpgykLnPyUob+K6FBYT8+Qlv5RnIBPmMDkKHarxo86CNod0a7NfUpLiZylR2HkYwopLqUqWQTn7c4OMmn74Sobcfbm4Psx1RmZN0eW22VFQCAhCRhRAJ5Secd6y4yqA29LbZWhyMl1xtDicqQ4gE4I4Axj2HFMTbzcS/bVXWwN6mSFaVucTKm2ElRZUFryrB+lxJI6kD7SnjOKDZlFRGmNSWfVNsRcNP3GPPiK462lZ6T6KHdJ9iAaKCvbi7Z2DcF2GrUhnOIiAhppmQW0AnurA7nsM+gqnfhp28/K3L+Yr/KKKD2RvD5oWM2UMR7igHPIlqzzjOPTtUnqfZnSmp4drj3oXCQm2tKaZUZRCiCRkrOMqVwBk88CiigkdutsNO7fSJrumxMb+MSlLyHpBcSrpJIOD5jJ596KKKD/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">4 Raws
+Explicit content</div>
+                                    <div class="artist">EsDeeKid</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAYDBQcCBAj/xAArEAACAQMDAwMCBwAAAAAAAAABAgMABBEFEiEGMUETYXEUIgdCgZGhscH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQBAP/EABwRAAICAgMAAAAAAAAAAAAAAAABAxECIRITMf/aAAwDAQACEQMRAD8A89TXEkkz8nBNcollP5jUtnAs9wVQg8036Vo0TFDNhY8hSfc1bFFz2iCabr1QnlZsE5NdjS7S7vLhYLfc0jHGK0TWelokjhe2YenI3p9ucjHgfNN3TvSdtoOmteTMjXCruyDnH60ecXB1YqGfux5JGR9QdO6joU0KagrI0iq6jPg8g0Va9aatda3rYNwzOAdoJPjsKKU6Xo5W/DPo5GhuCUJBBz7invQNQutReCBiSdybNoAHHcmkFGV7oK7Ku5u5PA+a27oqw0bTFa8iu2u0T7lcJiPaBnGWAJb+DU2Mrw0n6Wdayd1tDpY9OSxwteajctLMT6ijHfzz44zWe9b9aBCbCELnbtbnhvIzVt1t+JinTfpdPDB1yGKtxt9vesP1C9N1cmQOW80WWdmqkqSLWa/kuroyTFcnsAO3miqaObMkfHnmihbt2zEklSRePo8IgE31MLTsRutgjb0HPckYP7+adOmbjRLPSZYdUt7rjJwJeGPjjsD/AJRRSwxV13VIZbiQ2WnWsMLrsG9N5+cnzS9NDlj9i899q4/qiiiMI4LeQTArgBeyt5+KKKK44//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Old Town Road (feat. Billy Ray Cyrus) [Remix]</div>
+                                    <div class="artist">Lil Nas X</div>
                                 </div>
                             </div>
                         </div>
@@ -272,7 +274,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Nov 2026, 10:21:48 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 24 Nov 2026, 13:11:20 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
