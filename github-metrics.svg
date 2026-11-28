@@ -129,32 +129,35 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAMBAgQGBQcI/8QALhAAAgEDAgMFCAMAAAAAAAAAAQIDAAQRBSEGEkEiMTJRcQcTFHKBkZKxFTPB/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAEDBAX/xAAeEQACAwABBQAAAAAAAAAAAAAAAQIDEQQFEhMxcf/aAAwDAQACEQMRAD8A2t2KrkKWPkKhm7OdvvR7xMeNfyFUflZdnB+tZjWWU5HSr9KRGUXYOufWmqyt3MD6GlqGLlcrLAoIw7EHbpyk/wCUVEykzW5GcByT+LUUxHnHS/ZxxVHO/wAXpk6wmNgQskbcxxkL4tsnr0rtnhP2a2Gg6jJcrqV8Ybm1eJ7dTyiMuMHtA5OMnG3eM1vLyLHsxP2pT3cKDtvjPnUeRU7lnc18HXlb9aazFwlp/DfB+qafoiXd5d3aHLMQWd8ELzE4AG/Suf0J7j+Et0vbb4e5XHMux887isi3uorh3WIklMZPT6U+sq6dBSUpSbae6W87zEkhb/2R/Mf0aKmTxx/Mf0aK6BAXPE0jggDGPOseS2kOAoPqpxRRQBNlatDJMWBUPjcEZz13rOoooYIVMjNLAy9ysS2/TlI/ZooooA//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwEAAwEAAAAAAAAAAAAAAAQFAwECBgj/xAAsEAACAQMDBAEDAwUAAAAAAAABAgMABBESITEFE0FRYQYigRQVkUNxodHh/8QAGQEBAQEAAwAAAAAAAAAAAAAAAQIAAwQF/8QAHREBAAMBAAIDAAAAAAAAAAAAAQACESEDEjFRYf/aAAwDAQACEQMRAD8A+fO1bQxRSNMJpDgtENsZHv2DWU8kOs9qM4YbjGMb+N/VNWsyG0uXuMOShVdgW1eN/Xz+K6F1FxFJbxqrKOVIwCBjzQsoOTC3MCTEyqXVkbCjlW8Zzzjmq9507p0CQ3C3GqK4R2RdJGlgAQvPv7fXzU2bsvDEGBS4DEMyp9pX2TnJOf5FMCKWKO5iEAfKqQyrq2xsc+M8/wCqdCBVfiNz9NiH0xJKEgE8FxiSYSscqdlAAGD/AHz4oqPIpWAjQwK41bnb8Giq2GM3tezb3kHcjSSMOpdXOxGfPxW/XpLWa5Y2ccSwqP6bHckk53/ilLaTt3CzSDVpYMMrnJHjHqqPQ7GPq2qJpBDLbqD3CAVZcnII8n88VHp+zkvbqBJgkDKIIIyGeTI1HO2MAevJpq2nuLAXEZU6s4PPPsU9b9HDT3t3Z3cEi2ZEudwAvIJGOM7YHGc0jDJPKAv6oa0YlEZSQTtjSfnHxxWa6Qrdq6TjvSXHT7ma41SOWVe4+58bZ/FFUZruaH6Ye2urAiW4lMi3RUDY4yvG2dOdjRQh9zWVwyRbeS3NwBdqzRg76Tg/9/xW9lfT295NP0/VD3dSmGMnOjnnHjHNFFJyD1jEkrfpbZHjeNG3aRmIDIxzuF2x5+cUrA8Ud59uprdGDHQxGsA7/IGPyKKKleSmpPW9Q690fqUaWn7IbdYdRGm6eTKgEbA8UUUV1/JZ2eh4aVa9J//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Babydoll</div>
-                                    <div class="artist">Dominic Fike</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAQEAAwEAAAAAAAAAAAAAAAYFAQMHAv/EADMQAAEDAwMBBQcCBwAAAAAAAAECAwQABREGEiETFCIxQVEHMmFxgZGhFUIjM7HB0eHw/8QAFwEBAQEBAAAAAAAAAAAAAAAABQQGA//EACYRAAICAgEDAgcAAAAAAAAAAAECAAMEEQUSITETFCIjUXGR0fD/2gAMAwEAAhEDEQA/AKmxwezuFSm8RyQlYPx4zjy9Kt49u2QR2Nxt15nvtqzkFGcEn8/ap+4ahgWJcm3XJtJlsNBS1dNSkrSocDj7c8c0s86D257SLMl6MpxsyC4lIWFDZ1AORycY4PGOKlbGa07PiabJvaz4h/CULUK+pAHQbwlRUkf8PjX09HUW2Y8kpTKKS4trcCo8+Q8SPpUd7P8AWMO26eNledlvTnX3S2p1lRaIHKkJPrgZx6mtCDrKy3K/T7p2aeXIsdSlAxfcQlPeVkn3s+XpmiM/ivVboUdx33I7K3bqDDtO6XDWpSlupKR5eg/3Su9q+xNRThBtZcW6mMiSt1TeEJSoDA8eDz4Uoo8bkVnp1Brk9NtMNTPvmnhqf2oXSIZD0SE5CbLqm0ghxI29zJ+OD9Kjlfqca4m92+ItlpNxU2xJJG4DZsCSD5bfM16bpu+t9fehttDpG0rxlRHzpqawyriltMB+WiHvLqmGNmFnGCDn9v0JPhW4vpurBER4/nKn0GGxoD9/mQeh7dLbu1puS0OPRYk97tDayNkbcE/xOPM5/FXmixHcuOqo9wT0mkyAwFOHb1gNwJPrnmpa06Gnt9ZmdMdefW5jhtSUpRxkqWeCTn4n516C9aocbL8l115Zyf5mE/j+uakoW2yz5i+J2z86hmLKe31H33Jn2PwotkiXNMqOpuQ9IIR1ByWUjCf70ri6XKJFHShtIR8jz9/OlK+xd+5mYz+YSy4uJEWy4MMqSt2QttWeQE5qwt+qmC0hCZzrZzzhPP5FKU7fQreZnMbJes6WaKtTILKQbpIGM87E/T9tYlz1MwplSFTnnFZ8VJ/wKUqerGQGXZObaV1JWbNjrSXG5Di3SR3SnAApSlXBRqDNYSZ//9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Macarena (Bayside Boys Remix)</div>
-                                    <div class="artist">Los del Río</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAQEAAwEAAAAAAAAAAAAACAAGAgMFB//EADIQAAEDAwIDBQcEAwAAAAAAAAECAwQABRESIQYxQQcIExRRMmFxdIGRwhciQqFkscH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQAAf/EACURAAIBAwMCBwAAAAAAAAAAAAABAgMEETEzwRJxEyEiIzJBYv/aAAwDAQACEQMRAD8ASHgAdK8CzcUwLlxVNsLLbyZUVKjqWnAXoUErx7gSnfr9K0d2ceYtsp6KkKfbbUtCSPaIGcUSuJuJZ8y5S7mxLei3eS8rJivKaSWcDQAAeWwPvI33qerV8NpF9paO5bSYunWh4DuR/E/6oATrXBL10Rc2nzOcQjySm1gNoXvqDoO42HQc9jTe7PL05xBwFb58iQ3IkrYKH1oGAVgYO3r1oRcR3tuRc3C46lp0pSl9SidQIHtIwd8joeSt+RrsnnDQHQ405Rf01yKru8RVt9mzCXE4V5l38aq9Du/y/PdnqHsFKDKcShJOSlICQB8cf3VXYL0rIFy/dlk3E+VIbgyHITIelJbUpptSsBasbDPxog3qyXefer3dY8UOtMugvMNZS4krJJCWhuADnPpS/B299Zi88Mok3ONPQpKJaT4YW2jSVAgj9x6gc96XWg5eaG2dy7d5WpkO70mdbuFLvHmKSWBJJYQOaQUAq/sj7UOuKG9V3fWByIBH0501ey9nysCe3JeSHnnXfDbWrClpQAkqSDuRnqKFPEqlpvr+gkDbOPTFai3hZDry6ozl+lyNLu3u6OzFgf5Tv41V193PH6aMfNO/jVTYaIRdb0u59ISrlXPXVVRE5j7RwqLbept6mShPujzKmRIW3o8JrOQ2hIOlI9SBk9aC/E6ii+yNPM6ftiqqgXyKVsS7rkZXd5Ons3Y+Zd/5VVVWjogbvekf/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">That's What I Like</div>
-                                    <div class="artist">Bruno Mars</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAYHCAUDBP/EAC0QAAEDAwMCBgEEAwAAAAAAAAECAwQABREGEiEHMRMiQVFhoZEUFUJxUsHw/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAEFAwT/xAAcEQADAAMAAwAAAAAAAAAAAAAAAQIDBBESIUH/2gAMAwEAAhEDEQA/AKwyrcoDNIOpupsazuuRgyVSUqxtAK+PnkAH4qhMFDTqC9tQjcBlRwMntWY9UjF9mlQU4FvK5wCe/OT6cmkVt3NUNKXwcYnVq4SHkhQZbysAJ8LCcZ9TkmrDY5yrhbI8ladi1p8yf8SDg1lBiKtZQ4ltf6dTmzeRxxjPP9GtR6ddgxEItEeShyU20HlN58wSQOT+fuhmWpmp5OUzrPL+aKHEZ/iKKaKnTg6ut71309KjRcKlDDjAJ43pORnPH5qPawtyW1vPOJd37yCgq5Qr19O2Oe1VHVetbNpR1LM/x3JS0eIlllGSU5IyScAcj3qT37VzWo5siUmGmO2ogFpTxG8AeVRIHf4xjtSJe94Npp+xXs1ucuVyjxW96WivatQ7bfXn3xWhtN2Z1vVNxvKk7IjsdqNGbUckhKU5V/XAHvxUCt10chuPuNFCA4pQIQeDn0xj7pw031Vm2d9yNcI37hCyNh37HG+OQDjBGfQ/mg59eom07Lo4tWfSilXSuv7HqeYmHDElmaUlXhPN44HfCgSKKaLM5JpdTORr3p+rV13ROTcRFKGUs7Czv7EnOcj3pXX0WnI5avLCvjwFD/dFFIyya+On1o8R0eue7Yq5RgD/AC8Nf/fdfbG6KvKIVIvSQPZEYk/aqKKDOdXE/gyaT6bRdL3hu5NXCTJeQhSNqkJSnzDB7c/dFFFNHRGKZXEj/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">I THINK
+                                    <div class="name">Surround Sound (feat. 21 Savage &amp; Baby Tate)
 Explicit content</div>
-                                    <div class="artist">Tyler, The Creator</div>
+                                    <div class="artist">JID</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAAAAgHCQIEBQMG/8QANhAAAQMDAwEGAgcJAAAAAAAAAQIDBAUGEQASITEHCBMiQbNRYRQVGCMyM4E2ZHR1kbHB0/D/xAAYAQEBAAMAAAAAAAAAAAAAAAAAAwECBP/EAB0RAQACAgIDAAAAAAAAAAAAAAABAgMREyESMUH/2gAMAwEAAhEDEQA/AGcrEpUGkzpaEhSo7C3QFdCUpJ5/ppQYfeevibJQxHpVB3q6fcunHz/M02l3nFp1o/CC/wC2rVb1uvStzsentJXIWCecA7Qk55P6HHy1i29de1cMUm8cnUJ+e7w9+IY3t0+gur37diYzvAx1J8TA/wC51oT+8vfETYF02i+Jg7x4DmwH4fj6j459cems+68/a0+oVqBc/wBWmXIdZRCRLa8roJUVJTny7jgcHk+medfMd5+lW9RrwgRbfiMxpZjFyelh7egLKyEp25O1QAORxwRxrSvl9WzTh1PHB2LXqDtWtumVB9KUOyozby0oHAKkgnHy0a8LHQEWXQUpGB9AY9tOjVHIzvPiz67/AAD/ALatVo0moyqTUWJ0B0tSWSShWAeoIPB6jBI1Zbe37GV7+XyPbVqvrskuqFaV3tS6xBZn0eS2qJOZcbCz4K+FFOfUcHjqMj10Ez9jd/WzPthhVz0JqpXLbzaPBUlGFuxWjltQz5FOIKsAEgkcg51CPajULdqV4S5FnQ34tJUBgPL3KWs5Klc8gZOBkk4Gc86nGd2LWtT5Cr2o13siyW0GS40lZLpR1LKVg87shOD5hnBBOlhPXQWd2bxaFDH7ix7adGsrRGLUoo+EJj206NBz35ouem3BSGI0uI4GXIviyWtqFFQUncnnzD19OulO+y3epcKRPogT6KU85/hGjRoOlD7uV/RaTPpSZ9CVEmFClbpD2EKSQdyQE4yehyDxrSHdWvLnNUoP6Ou/69GjQOLRYqoNHgRHCFLjx22lEdCUpAP9tGjRoP/Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Sky
+Explicit content</div>
+                                    <div class="artist">Playboi Carti</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAIDBAEFBgj/xAAqEAABAwMDAwMEAwAAAAAAAAABAAIDBAUREiFREzFBBhRhFSJxsTJCkf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAwL/xAAcEQACAgMBAQAAAAAAAAAAAAAAAQISAxExIUH/2gAMAwEAAhEDEQA/APLzAATgblPlRud52Q13jKQDFvycrDh2CYAlpxkgd9kuxOAd0IBf6nGELLzjIxshMCWko5quZscDS5xxhoGSSrFPaaqe5igbBK6qLzH0g37tXGOcqSy1tTbK2Koijy6NwcAeRur8V8qYb425thAqBIZTv5O/K0q+bLQWPSsy3bvS1TV0spbWQ0jqRx60czJCWEbZOlpAH5PK0jrdJPU6aMdRxfoLWg/yzgEecHx/i6mzerJIILz1xpfXsLSANsnPf43XN0tzmpa1tRAPva7V3TdPjKThhVXF96UblRVNvq301ZG6OeM6XMcMEHgoVy911Rd7jLWTNb1ZDqc1vP7QsSa34RkoqTrwvRfR22Pr/Vphcg3PtPakt1Z7a88b5wtPNV9UjUBn8IQlpEzLJW/CZsrM7/pCEtAT++ZGWujaNWO6EISqgP/Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">LIL DEMON
+Explicit content</div>
+                                    <div class="artist">Future</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAMEBQYHAgH/xAAuEAABBAEDAwIFAwUAAAAAAAABAgMEEQAFEiEGMUETcRQVImGRFlGhIyQywdH/xAAZAQADAQEBAAAAAAAAAAAAAAACAwQFAQb/xAAhEQEAAgIABgMAAAAAAAAAAAABAAIDEQQSITFBYSKR8P/aAAwDAQACEQMRAD8AvPxpDvprapwuEJAUPqR5UPYY21jWm9O0fUJ/prcESwUjuo8fxzirqm0yFuLCqSQ2CkWRfc+2cTdk7TX4cZaUvSGVpTvTxXaz9uczTU9SZMqpZPUzON131BFfMmWmLIjKVZYHBSknsCO5Huc1hyUhCGFKCqeUEjjkWL5GZBpcdUvW24iSNxWmgtB2g2PNUe2bhPixYultSpcpDSnkktpXQ3V3As98ZavN2k2DiGlVu+iRPxqi76aG7WFgKG4fSnwo+4wxNpTapKFo3bVEtkkUTXY+3jDF6JVS+ZNqSwR4UM9HMS5bRDjssIcWi920qo1z+2SKo+nSUrb0CBpk6OlqkpakFD6OK8j/AJlQOvTomlNRGFoS2076yDt+oKBsfznX6w1Rxbq2mYLMtaNrkltkByvP1X7Y7nrXoyDDw+TOOUez5dfvuOelNL6cZ06AmG3pT2sIc/uU6i4pDhVZ2hs9gfa/zlj1HpKFr+owPmQUwIbdvwE04goskDdW7v5HccZn7fXGo/Lo0VvSIk1UVf8ASflNBewg8FP3rzjk9Z6q1JnASENypPDyy3S00OAD4of7OG5K1DZEU4dztitg0+WWbqrT48fTIE7Toy40d4CmVg2hY8G+3F/jDINGv6hM0VUKY/8AEtKUF73RuXd+Df2wxdgXZDplafC3jpK4qb66SCNhoFKAmyoHzf7YtAU2pRZfQw08XPRJIsrUb+mlEG67dvvhhhtTe5kufI05N9O8iYkeS3PJSpaWkrtKC43SgmqNVuPcfmsnJrTEFLgY9N9tJdbUp5NBLtf42ATR58cYYZ1dsVueNSGNjpaVbSALPNJSPfmh2usMMMFJVhy21P/Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Bank Account
+Explicit content</div>
+                                    <div class="artist">21 Savage</div>
                                 </div>
                             </div>
                         </div>
@@ -272,7 +275,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Nov 2026, 11:25:45 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 28 Nov 2026, 11:07:07 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
